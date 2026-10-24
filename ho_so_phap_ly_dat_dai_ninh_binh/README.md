@@ -4,6 +4,10 @@
 
 Mốc nghiên cứu **19/10/2026**; khoảng thu thập quyết định **01/01–19/10/2026**. Trọng tâm phường Duy Tân và yêu cầu chuyển 106 m² CLN sang ODT. Mục tiêu là hiểu, tuân thủ pháp luật và chuẩn bị trao đổi có căn cứ, khách quan cả điểm thuận lợi, bất lợi và chưa đủ dữ liệu.
 
+## Bản dự thảo và chỉ dẫn kế thừa
+
+[Bộ dữ liệu văn bản bổ sung hoàn cảnh — 24/10/2026](drafts/bo_sung_hoan_canh_20261024/README.md) gồm [bản dự thảo hiện tại](drafts/bo_sung_hoan_canh_20261024/du_thao.md), yêu cầu về giọng văn và thứ tự, dữ kiện người dùng cung cấp, nguồn tham khảo và chỉ dẫn tiếp tục biên tập. Đây là bản làm việc đang được người dùng xem xét, chưa ghi nhận đã ký/gửi và chưa tích hợp lên website.
+
 ## Tra cứu
 
 Mở **[index.html](index.html)** trực tiếp bằng trình duyệt. Thanh điều hướng có tổng quan, báo cáo Duy Tân, quyết định 2026, kho pháp luật, ngân sách, phạm vi nguồn còn thiếu và mục “07 · Hỏi–đáp trao đổi” với 22 tình huống, tìm kiếm không dấu, mở/thu gọn câu trả lời, ví dụ số liệu và liên kết căn cứ. Tìm kiếm hỗ trợ tiếng Việt không dấu. Giao diện và dữ liệu nằm trong HTML, không cần mạng để xem; tài liệu gốc nằm trong `documents/`, liên kết web cần Internet.
