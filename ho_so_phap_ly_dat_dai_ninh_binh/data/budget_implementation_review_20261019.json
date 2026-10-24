@@ -1,0 +1,81 @@
+{
+  "checked_on": "2026-10-19",
+  "documents": [
+    {
+      "document_id": "NB-PL-231-2026",
+      "local_file": "documents/phap_luat/phulong_notice_375.pdf",
+      "sha256": "9f38a36bf939f8235d111469fc72a097967a1d571432c238f04d0b45bf58203c",
+      "visual_pages": [
+        1
+      ]
+    },
+    {
+      "document_id": "NB-CV5061-2026",
+      "local_file": "documents/phap_luat/province_5061_original.pdf",
+      "sha256": "bad06c2321dc88030ec6ef72d97f57c3b0a4c41709e3a0cd934aa73eaf0ce278",
+      "visual_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "document_id": "NB1702",
+      "local_file": "documents/phap_luat/province_1702_original.pdf",
+      "sha256": "24ac822a8350e3e41655131453d7aea7c97b86bd79aeae6c41992781106bff32",
+      "visual_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "document_id": "NB-3279-2026",
+      "local_file": "documents/quy_hoach/3279_2026_quyet_dinh.pdf",
+      "sha256": "31f6ffb123f352b35cdc8578b7becfb4640cf372fd3d8d10ca0998056f3d9e76",
+      "visual_pages": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "document_id": "NB-3279-2026-PL121",
+      "local_file": "documents/quy_hoach/3279_2026_phu_luc_129.pdf",
+      "sha256": "68b879bc931ebc5012ecddd3f781fb0e41cd6e6910b6358f14c90c02ada7886c",
+      "visual_pages": [
+        241
+      ]
+    }
+  ],
+  "duy_tan_check": {
+    "queries": [
+      {
+        "url": "https://duytan.ninhbinh.gov.vn/van-ban-dieu-hanh?search=5061",
+        "path": "documents/nguon_web/duytan_20261019_search_5061.html"
+      },
+      {
+        "url": "https://duytan.ninhbinh.gov.vn/van-ban-dieu-hanh?search=chuyển%20mục%20đích",
+        "path": "documents/nguon_web/duytan_20261019_search_conversion.html"
+      },
+      {
+        "url": "https://duytan.ninhbinh.gov.vn/search?q=chuyển%20mục%20đích",
+        "path": "documents/nguon_web/duytan_20261019_news_conversion.html"
+      },
+      {
+        "url": "https://duytan.ninhbinh.gov.vn/search?q=thu%20tiền%20sử%20dụng%20đất",
+        "path": "documents/nguon_web/duytan_20261019_news_land_revenue.html"
+      }
+    ],
+    "result": "Hai truy vấn văn bản điều hành theo 5061 và chuyển mục đích hiển thị không tìm thấy văn bản. Hai truy vấn mục tin không cho thấy thông báo tương ứng. Chưa đủ kết luận chưa ban hành hoặc chưa triển khai.",
+    "coverage": "Phạm vi các trang tìm kiếm đã lưu, không phải toàn bộ hồ sơ quản lý của phường."
+  },
+  "assessment": "Chuỗi chứng cứ: phân bổ chỉ tiêu tại thời điểm tháng 7 theo 1702; nhiệm vụ thu chung theo 5061; Phú Long triển khai nhận, thẩm định chuyển mục đích theo 231. Phân bổ hiện đối chiếu theo 3279 từ 30/08/2026.",
+  "source_conflicts": {
+    "NB-CV5061-2026": "Ngày trên bản ký 18/07/2026, metadata cổng tỉnh 20/07/2026; dùng ngày trên bản ký.",
+    "NB-PL-231-2026": "Người ký trên bản ký Đinh Mạnh Cường, metadata Đặng Xuân Tuấn; dùng bản ký.",
+    "text_extraction": "Lớp chữ bỏ sót số/ngày ở 231, 1702 và 3279; đã sửa nhận định trống sau khi đọc ảnh. Dòng dẫn phụ lục 121 của 3279 vẫn trống số/ngày."
+  },
+  "missing": [
+    "Biểu giao thu kèm 5061",
+    "Kế hoạch triển khai và số theo dõi chính thức tại Duy Tân"
+  ]
+}

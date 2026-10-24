@@ -1,0 +1,2109 @@
+{
+  "as_of": "2026-10-21",
+  "scope": "Hạn mức, chuyển một phần 50 m², chuỗi quy định tiền sử dụng đất và thẩm quyền/quy trình liên quan trực tiếp; không chứng nhận toàn bộ pháp luật hiện hành.",
+  "scope_limits": [
+    "Danh mục Công báo và tìm kiếm có thể chưa đầy đủ; trống ngày hết hiệu lực không chứng minh không có sửa đổi.",
+    "Rà 200 trích yếu quyết định quy phạm, đọc toàn văn nhóm liên quan; không đọc toàn văn cả 200.",
+    "Chưa có GCN, nguồn gốc, lịch sử chuyển từ 01/08/2024 và sơ đồ 50 m² của người dùng."
+  ],
+  "official_catalog": {
+    "source": "https://congbao.ninhbinh.gov.vn/tim-kiem?tab=document",
+    "endpoints": [
+      "https://congbao.ninhbinh.gov.vn/api/public/documents?page=0&size=100&typeId=23",
+      "https://congbao.ninhbinh.gov.vn/api/public/documents?page=1&size=100&typeId=23"
+    ],
+    "records_screened": 200,
+    "records_2026": 127,
+    "latest_issued_date": "2026-10-19",
+    "records": [
+      {
+        "id": 4205,
+        "documentNumber": "132/2026/QĐ-UBND",
+        "title": "Quyết định bãi bỏ Quyết định số 74/2025/QĐ-UBND ngày 19 tháng 8 năm 2025 của Ủy ban nhân dân tỉnh Ninh Bình ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trường Cao đẳng nghề Hà Nam trực thuộc Ủy ban nhân dân tỉnh Ninh Bình",
+        "issuedDate": "2026-10-19",
+        "effectiveDate": "2026-10-19",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-19T08:20:45"
+      },
+      {
+        "id": 4201,
+        "documentNumber": "131/2026/QĐ-UBND",
+        "title": "QĐ Sửa đổi, bổ sung Quyết định số 84/2025/QĐ-UBND ngày 28 tháng 8 năm 2025 của Ủy ban nhân dân tỉnh Ninh Bình ban hành quy định phân công nhiệm vụ quản lý nhà nước về giá, thẩm định giá trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-10-14",
+        "effectiveDate": "2026-10-14",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T09:23:02"
+      },
+      {
+        "id": 4181,
+        "documentNumber": "129/2026/QĐ-UBND",
+        "title": "ban hành Quy định quản lý nhiệm vụ đổi mới sáng tạo sử dụng ngân sách nhà nước trên địa bàn tỉnh Ninh Bình\n\t",
+        "issuedDate": "2026-10-07",
+        "effectiveDate": "2026-10-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-16T08:17:22"
+      },
+      {
+        "id": 4179,
+        "documentNumber": " 127/2026/QĐ-UBND",
+        "title": " Bãi bỏ Quyết định số 16/2025/QĐ-UBND ngày 01/7/2025 của Ủy ban nhân dân tỉnh Ninh Bình ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Quản lý Khu kinh tế và các Khu công nghiệp tỉnh Ninh Bình\n",
+        "issuedDate": "2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4180,
+        "documentNumber": " 128/2026/QĐ-UBND",
+        "title": "ban hành Quy chế văn hóa công sở trong các cơ quan, đơn vị trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-10-06",
+        "effectiveDate": "2026-10-06",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4170,
+        "documentNumber": "125/2026/QĐ-UBND",
+        "title": "ban hành Quy định thời gian, phạm vi hoạt động vận chuyển hành khách bằng xe bốn bánh có gắn động cơ và hoạt động vận chuyển hàng hóa bằng xe chở hàng bốn bánh có gắn động cơ trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-09-30",
+        "effectiveDate": "2026-10-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4171,
+        "documentNumber": "126/2026/QĐ-UBND",
+        "title": " Sửa đổi, bổ sung một số điều của Quy chế phối hợp giữa các cơ quan quản lý nhà nước trong công tác quản lý nhà nước đối với doanh nghiệp, hộ kinh doanh sau đăng ký thành lập trên địa bàn tỉnh Ninh Bình ban hành kèm theo Quyết định số 23/2026/QĐ-UBND ngày 13 tháng 2 năm 2026 và Quy trình kiểm tra nội dung về đăng ký kinh doanh trên địa bàn tỉnh Ninh Bình ban hành kèm theo Quyết định số 25/2026/QĐ-UBND ngày 13 tháng 2 năm 2026 của Ủy ban nhân dân tỉnh Ninh Bình",
+        "issuedDate": "2026-09-30",
+        "effectiveDate": "2026-10-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4167,
+        "documentNumber": " 122/2026/QĐ-UBND",
+        "title": "ban hành Quy định về sử dụng xe mô tô, xe gắn máy, xe thô sơ để kinh doanh vận chuyển hành khách, hàng hóa trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-09-30",
+        "effectiveDate": "2026-10-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4168,
+        "documentNumber": "\t123/2026/QĐ-UBND",
+        "title": "ban hành Quy định phạm vi hoạt động của xe thô sơ, xe chở hàng bốn bánh có gắn động cơ, xe chở người bốn bánh có gắn động cơ trên địa bàn tỉnh Ninh Bình\n ",
+        "issuedDate": "2026-09-30",
+        "effectiveDate": "2026-10-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4166,
+        "documentNumber": "121/2026/QĐ-UBND",
+        "title": "Quy định mức chi đảm bảo cho việc tổ chức thực hiện bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-09-30",
+        "effectiveDate": "2026-10-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4169,
+        "documentNumber": "\t124/2026/QĐ-UBND",
+        "title": " ban hành Quy định thời gian hoạt động của xe vệ sinh môi trường, xe ô tô chở vật liệu xây dựng, phế thải rời trên địa bàn tỉnh Ninh Bình\n ",
+        "issuedDate": "2026-09-30",
+        "effectiveDate": "2026-10-10",
+        "expirationDate": "2026-09-30",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4160,
+        "documentNumber": "120/2026/QĐ-UBND",
+        "title": "quy định tiêu chí về hạ tầng kỹ thuật của trung tâm đổi mới sáng tạo cấp tỉnh trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-09-29",
+        "effectiveDate": "2026-10-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4161,
+        "documentNumber": "119/2026/QĐ-UBND",
+        "title": "ban hành tiêu chí thôn nông thôn mới trên địa bàn tỉnh Ninh Bình giai đoạn 2026 - 2030\n ",
+        "issuedDate": "2026-09-23",
+        "effectiveDate": "2026-10-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4156,
+        "documentNumber": "118/2026/QĐ-UBND\t ",
+        "title": "Ban hành Quy chế bảo vệ bí mật nhà nước trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-09-23",
+        "effectiveDate": "2026-10-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4149,
+        "documentNumber": "117/2026/QĐ-UBND",
+        "title": "Ban hành Quy chế phối hợp giữa các cơ quan liên quan tại địa phương trong công tác thanh tra, kiểm tra, giám sát hoạt động kinh doanh theo phương thức đa cấp trên địa bàn tỉnh Ninh Bình\n\t",
+        "issuedDate": "2026-09-21",
+        "effectiveDate": "2026-10-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4146,
+        "documentNumber": "115/2026/QĐ-UBND",
+        "title": "Quy định danh mục các khoản thu, mức thu và cơ chế quản lý thu, chi đối với các dịch vụ phục vụ, hỗ trợ hoạt động giáo dục trong cơ sở giáo dục công lập của tỉnh Ninh Bình\n\t",
+        "issuedDate": "2026-09-15",
+        "effectiveDate": "2026-09-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4142,
+        "documentNumber": "116/2026/QĐ-UBND",
+        "title": " ban hành Quy định cơ chế thu và sử dụng mức thu dịch vụ tuyển sinh trong các cơ sở giáo dục công lập do tỉnh Ninh Bình quản lý\n",
+        "issuedDate": "2026-09-15",
+        "effectiveDate": "2026-09-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4143,
+        "documentNumber": "114/2026/QĐ-UBND",
+        "title": "sửa đổi, bổ sung Phụ lục I ban hành kèm theo Quyết định số 115/2025/QĐ-UBND ngày 18 tháng 9 năm 2025 của Ủy ban nhân dân tỉnh Ninh Bình quy định địa bàn làm căn cứ xác định học sinh không thể đi đến trường và trở về nhà trong ngày\n\t",
+        "issuedDate": "2026-09-15",
+        "effectiveDate": "2026-09-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4125,
+        "documentNumber": "112/2026/QĐ-UBND",
+        "title": "Quy định về danh mục tài sản công cho thuê, tiêu chí, mức hỗ trợ, hình thức hỗ trợ, trình tự, thủ tục cho thuê đối với nhà, đất là tài sản công trên địa bàn tỉnh Ninh Bình\n\t",
+        "issuedDate": "2026-09-10",
+        "effectiveDate": "2026-09-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4122,
+        "documentNumber": "113/2026/QĐ-UBND",
+        "title": "về việc áp dụng hệ số K thành phần trong chi trả tiền dịch vụ môi trường rừng trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-09-10",
+        "effectiveDate": "2026-09-21",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4121,
+        "documentNumber": " 111/2026/QĐ-UBND",
+        "title": "quy định đặc điểm kinh tế - kỹ thuật của hàng hóa, dịch vụ đặc thù lĩnh vực giao thông vận tải thực hiện kê khai giá trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-09-08",
+        "effectiveDate": "2026-09-18",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4114,
+        "documentNumber": "109/2026/QĐ-UBND",
+        "title": "phân cấp cho Sở Xây dựng thực hiện một số nội dung thuộc trách nhiệm của Ủy ban nhân dân tỉnh Ninh Bình theo Thông tư số 41/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng\n \t",
+        "issuedDate": "2026-08-28",
+        "effectiveDate": "2026-09-08",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4117,
+        "documentNumber": "110/2026/QĐ-UBND",
+        "title": "ban hành Quy trình thẩm định, phê duyệt, điều chỉnh Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật các dự án đầu tư công, dự án sử dụng chi thường xuyên từ ngân sách nhà nước, vốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật về đầu tư công do Ủy ban nhân dân cấp tỉnh, cấp xã quyết định đầu tư\n \t",
+        "issuedDate": "2026-08-28",
+        "effectiveDate": "2026-09-08",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4109,
+        "documentNumber": "\t106/2026/QĐ-UBND",
+        "title": " phân công, phân cấp thực hiện một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-08-25",
+        "effectiveDate": "2026-09-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4113,
+        "documentNumber": "108/2026/QĐ-UBND",
+        "title": "ban hành Đơn giá bồi thường thiệt hại thực tế về nhà, nhà ở, công trình xây dựng gắn liền với đất khi nhà nước thu hồi đất trên địa bàn tỉnh Ninh Bình\n\t",
+        "issuedDate": "2026-08-25",
+        "effectiveDate": "2026-08-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4112,
+        "documentNumber": "107/2026/QĐ-UBND",
+        "title": "bãi bỏ Quyết định số 154/2025/QĐ-UBND ngày 05 tháng 11 năm 2025 của Ủy ban nhân dân tỉnh Ninh Bình phân cấp thẩm quyền thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng, thiết kế xây dựng triển khai sau thiết kế cơ sở đối với dự án sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công thuộc thẩm quyền quyết định đầu tư của Ủy ban nhân dân cấp xã trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-08-25",
+        "effectiveDate": "2026-09-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4110,
+        "documentNumber": "105/2026/QĐ-UBND",
+        "title": "về việc giao thẩm quyền chủ trì thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật dự án do Chủ tịch Ủy ban nhân dân tỉnh quyết định đầu tư trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-08-25",
+        "effectiveDate": "2026-09-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4102,
+        "documentNumber": "104/2026/QĐ-UBND",
+        "title": "Quy định chính sách ưu đãi (miễn, giảm) tiền thuê nhà cho các đối tượng ưu tiên trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-08-24",
+        "effectiveDate": "2026-09-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4106,
+        "documentNumber": "103/2026/QĐ-UBND",
+        "title": "Sửa đổi, bổ sung một số điều của Quyết định số 133/2025/QĐ-CTUBND ngày 29/9/2025 của Chủ tịch Ủy ban nhân dân tỉnh Ninh Bình về thẩm quyền quyết định quản lý, sử dụng tài sản công thuộc phạm vi quản lý của tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-08-24",
+        "effectiveDate": "2026-09-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:39"
+      },
+      {
+        "id": 4093,
+        "documentNumber": "102/2026/QĐ-UBND",
+        "title": "phân cấp thẩm quyền cấp, cấp lại, thu hồi chứng chỉ hành nghề hoạt động xây dựng cho cá nhân; cấp giấy phép hoạt động xây dựng (bao gồm cả giấy phép điều chỉnh) cho nhà thầu nước ngoài hoạt động xây dựng trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-08-14",
+        "effectiveDate": "2026-09-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4092,
+        "documentNumber": "101/2026/QĐ-UBND",
+        "title": "quy định hồ sơ, trình tự phê duyệt, điều chỉnh Đề án phát triển đô thị thông minh tỉnh Ninh Bình\n",
+        "issuedDate": "2026-08-14",
+        "effectiveDate": "2026-08-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4086,
+        "documentNumber": "100/2026/QĐ-UBND",
+        "title": "phân cấp cho Sở Công Thương thực hiện một số thủ tục lĩnh vực phát triển nguồn điện mặt trời mái nhà tự sản xuất, tự tiêu thụ trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-08-13",
+        "effectiveDate": "2026-08-13",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4082,
+        "documentNumber": "\t99/2026/QĐ-UBND",
+        "title": " quy định trình tự, thủ tục lập, thẩm định, phê duyệt, công bố điều chỉnh cục bộ quy hoạch đô thị và nông thôn thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp tỉnh do Ủy ban nhân dân cấp xã thực hiện trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-08-11",
+        "effectiveDate": "2026-08-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4076,
+        "documentNumber": "97/2026/QĐ-UBND",
+        "title": "ban hành Quy định danh mục nghề, ngư cụ cấm sử dụng khai thác thủy sản; danh mục khu vực cấm khai thác thủy sản có thời hạn ở vùng ven bờ, vùng lộng và vùng nội địa trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-08-07",
+        "effectiveDate": "2026-08-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4075,
+        "documentNumber": "98/2026/QĐ-UBND",
+        "title": "ban hành Quy chế tổ chức và hoạt động của thôn, tổ dân phố trên địa bàn tỉnh Ninh Bình\n\t\t",
+        "issuedDate": "2026-08-07",
+        "effectiveDate": "2026-08-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4071,
+        "documentNumber": "95/2026/QĐ-UBND",
+        "title": "phân cấp thẩm quyền công bố thông tin giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng và chỉ số giá xây dựng trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-08-05",
+        "effectiveDate": "2026-08-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4072,
+        "documentNumber": "96/2026/QĐ-UBND",
+        "title": "ban hành Quy định bảo vệ môi trường trên địa bàn tỉnh Ninh Bình.\n\t",
+        "issuedDate": "2026-08-05",
+        "effectiveDate": "2026-08-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4061,
+        "documentNumber": "94/2026/QĐ-UBND",
+        "title": "quy định về hoạt động vận tải đường bộ trong đô thị và tỷ lệ phương tiện vận chuyển hành khách công cộng có thiết bị hỗ trợ cho người khuyết tật trong đô thị trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-27",
+        "effectiveDate": "2026-08-08",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4043,
+        "documentNumber": "93/2026/QĐ-UBND",
+        "title": "Ban hành Quy chế đặt tên, đổi tên đường, phố và công trình công cộng trên địa bàn tỉnh Ninh Bình\n ",
+        "issuedDate": "2026-07-24",
+        "effectiveDate": "2026-08-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4042,
+        "documentNumber": "92/2026/QĐ-UBND",
+        "title": "Ban hành Quy chế phối hợp thực hiện chức năng, nhiệm vụ, quyền hạn giữa Trung tâm Phát triển quỹ đất tỉnh Ninh Bình với các cơ quan có chức năng quản lý đất đai, cơ quan tài chính và cơ quan, đơn vị khác có liên quan trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-24",
+        "effectiveDate": "2026-08-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4030,
+        "documentNumber": "88/2026/QĐ-UBND",
+        "title": "phân cấp thẩm quyền quản lý, khai thác và xử lý tài sản kết cấu hạ tầng đường thủy nội địa thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-17",
+        "effectiveDate": "2026-07-30",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4032,
+        "documentNumber": "90/2026/QĐ-UBND",
+        "title": "Bãi bỏ Quyết định số 29/2026/QĐ-UBND ngày 04 tháng 3 năm 2026 của Uỷ ban nhân dân tỉnh Ninh Bình ban hành Quy định thẩm quyền quyết định xử lý tài sản kết cấu hạ tầng giao thông đường bộ thuộc địa phương tỉnh Ninh Bình quản lý\n ",
+        "issuedDate": "2026-07-17",
+        "effectiveDate": "2026-07-30",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4033,
+        "documentNumber": " 91/2026/QĐ-UBND",
+        "title": "ban hành Quy định phân cấp thẩm quyền quyết định xử lý tài sản kết cấu hạ tầng đường bộ do cơ quan, đơn vị quản lý tài sản thuộc địa phương tỉnh Ninh Bình quản lý\n",
+        "issuedDate": "2026-07-17",
+        "effectiveDate": "2026-07-30",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4031,
+        "documentNumber": "89/2026/QĐ-UBND",
+        "title": " Ban hành Quy chế quản lý và sử dụng viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức của các cơ quan, tổ chức, cá nhân nước ngoài dành cho Việt Nam trên địa bàn tỉnh Ninh Bình\n ",
+        "issuedDate": "2026-07-17",
+        "effectiveDate": "2026-08-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4027,
+        "documentNumber": "87/2026/QĐ-UBND",
+        "title": "Ban hành Bảng giá tính lệ phí trước bạ điều chỉnh, bổ sung đối với ô tô, xe máy trên địa bàn tỉnh Ninh Bình ban hành kèm theo Quyết định số 189/2025/QĐ-UBND ngày 30/12/2025 của UBND tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-16",
+        "effectiveDate": "2026-07-16",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4029,
+        "documentNumber": "84/2026/QĐ-UBND",
+        "title": "Phân cấp thẩm quyền của Ủy ban nhân dân tỉnh cho Sở Công Thương thực hiện các nội dung quản lý nhà nước về kinh doanh theo phương thức đa cấp trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-15",
+        "effectiveDate": "2026-07-28",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4026,
+        "documentNumber": "85/2026/QĐ-UBND",
+        "title": " quy định các tiêu chí xã nông thôn mới, tiêu chí xã nông thôn mới hiện đại trên địa bàn tỉnh Ninh Bình giai đoạn 2026 - 2030\n \t",
+        "issuedDate": "2026-07-15",
+        "effectiveDate": "2026-07-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4028,
+        "documentNumber": "86/2026/QĐ-UBND",
+        "title": "sửa đổi một số nội dung của Điều 5 Quy định quy trình luân chuyển hồ sơ xác định nghĩa vụ tài chính về đất đai trên địa bàn tỉnh Ninh Bình ban hành kèm theo Quyết định số 194/2025/QĐ-UBND ngày 31/12/2025 của UBND tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-15",
+        "effectiveDate": "2026-07-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4022,
+        "documentNumber": "83/2026/QĐ-UBND",
+        "title": "ban hành Quy định một số nội dung về lập dự toán, chấp hành, quyết toán và công khai ngân sách nhà nước trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-14",
+        "effectiveDate": "2026-07-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4023,
+        "documentNumber": " 82/2026/QĐ-UBND",
+        "title": "bãi bỏ các quyết định của Ủy ban nhân dân tỉnh Ninh Bình\n",
+        "issuedDate": "2026-07-13",
+        "effectiveDate": "2026-07-13",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4013,
+        "documentNumber": "81/2026/QĐ-UBND",
+        "title": "ban hành Quy chế quản lý, bảo vệ và phát huy giá trị di sản văn hóa trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-10",
+        "effectiveDate": "2026-07-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4012,
+        "documentNumber": "80/2026/QĐ-UBND",
+        "title": "Ban hành Quy chế thu thập, quản lý, khai thác, chia sẻ và sử dụng thông tin, dữ liệu tài nguyên và môi trường; khai thác và sử dụng cơ sở dữ liệu tài nguyên và môi trường trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-10",
+        "effectiveDate": "2026-07-21",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4005,
+        "documentNumber": "79/2026/QĐ-UBND",
+        "title": "ban hành Quy chế quản lý hòa giải viên lao động và phân cấp quản lý hòa giải viên lao động trên địa bàn tỉnh Ninh Bình\n ",
+        "issuedDate": "2026-07-09",
+        "effectiveDate": "2026-07-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-12T11:36:05"
+      },
+      {
+        "id": 4007,
+        "documentNumber": "\t79/2026/QĐ-UBND",
+        "title": "ban hành Quy chế quản lý hòa giải viên lao động và phân cấp quản lý hòa giải viên lao động trên địa bàn tỉnh Ninh Bình\n ",
+        "issuedDate": "2026-07-09",
+        "effectiveDate": "2026-07-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4011,
+        "documentNumber": "77/2026/QĐ-UBND",
+        "title": " Ban hành Quy chế phối hợp trong quản lý nhà nước về địa chất và khoáng sản trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-07-03",
+        "effectiveDate": "2026-07-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4010,
+        "documentNumber": "78/2026/QĐ-UBND",
+        "title": "ửa đổi, bổ sung một số điều của Quy định quản lý chất thải rắn sinh hoạt trên địa bàn tỉnh Ninh Bình ban hành kèm theo Quyết định số 155/2025/QĐ-UBND ngày 06/11/2025 của Uỷ ban nhân dân tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-03",
+        "effectiveDate": "2026-07-03",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4001,
+        "documentNumber": "76/2026/QĐ-UBND",
+        "title": "Quy định hệ số điều chỉnh giá đất năm 2026 trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-07-01",
+        "effectiveDate": "2026-07-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 3998,
+        "documentNumber": "\t74/2026/QĐ-UBND",
+        "title": "Sửa đổi, bổ sung một số điều của Quy chế tổ chức tiếp công dân trên địa bàn tỉnh Ninh Bình ban hành kèm theo Quyết định số 17/2025/QĐ-UBND ngày 11/7/2025 của Uỷ ban nhân dân tỉnh Ninh Bình\n ",
+        "issuedDate": "2026-06-30",
+        "effectiveDate": "2026-07-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 4000,
+        "documentNumber": "75/2026/QĐ-UBND",
+        "title": "quy định tiêu chí cụ thể đánh giá, xếp loại chất lượng đối với cơ quan hành chính nhà nước thuộc phạm vi quản lý của Ủy ban nhân dân tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-06-30",
+        "effectiveDate": "2026-07-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:38"
+      },
+      {
+        "id": 3957,
+        "documentNumber": "73/2026/QĐ-UBND",
+        "title": "Ban hành Quy chế về trách nhiệm và quan hệ phối hợp hoạt động giữa các cơ quan quản lý nhà nước trong công tác đấu tranh phòng, chống buôn lậu, gian lận thương mại và hàng giả trên địa bàn tỉnh Ninh Bình\n ",
+        "issuedDate": "2026-06-29",
+        "effectiveDate": "2026-07-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3997,
+        "documentNumber": "72/2026/QĐ-UBND",
+        "title": "Ban hành Quy định đặc điểm kinh tế - kỹ thuật của dịch vụ chủ yếu tại chợ ngoài dịch vụ do Nhà nước định giá trên địa bàn tỉnh Ninh Bình\n \t",
+        "issuedDate": "2026-06-29",
+        "effectiveDate": "2026-07-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-12T11:36:05"
+      },
+      {
+        "id": 3950,
+        "documentNumber": "71/2026/QĐ-UBND",
+        "title": " quy định đặc điểm kinh tế - kỹ thuật dịch vụ lưu trú du lịch và dịch vụ tham quan tại khu du lịch trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-25",
+        "effectiveDate": "2026-07-06",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3946,
+        "documentNumber": "70/2026/QĐ-UBND",
+        "title": " quy định thẩm quyền quyết định phê duyệt chủ trương và dự kiến kinh phí thực hiện mua sắm, sửa chữa, cải tạo, nâng cấp tài sản, trang thiết bị; thuê hàng hoá, dịch vụ; phê duyệt dự kiến chi phí thực hiện hoạt động quy hoạch; phê duyệt chủ trương và dự kiến chi phí thực hiện sửa chữa, cải tạo, nâng cấp, mở rộng, xây dựng mới hạng mục công trình trong các dự án đã đầu tư xây dựng của cơ quan, đơn vị thuộc phạm vi quản lý của tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-20",
+        "effectiveDate": "2026-07-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3943,
+        "documentNumber": "\t69/2026/QĐ-UBND",
+        "title": "ban hành Quy định phạm vi vùng phụ cận đối với công trình thủy lợi khác trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-18",
+        "effectiveDate": "2026-06-30",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3940,
+        "documentNumber": "68/2026/QĐ-UBND",
+        "title": "về việc bãi bỏ Quyết định số 106/2025/QĐ-UBND ngày 12/9/2025 của Uỷ ban nhân dân tỉnh Ninh Bình quy định trình tự, thủ tục thẩm định, công nhận kết quả thăm dò khoáng sản thuộc thẩm quyền cấp giấy phép của Uỷ ban nhân dân tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-17",
+        "effectiveDate": "2026-07-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3936,
+        "documentNumber": "\t67/2026/QĐ-UBND",
+        "title": "\tVề việc ban hành Quy chế điều động, thuyên chuyển nhà giáo, nhà giáo giữ chức vụ cán bộ quản lý trong các cơ sở giáo dục mầm non, giáo dục phổ thông, giáo dục thường xuyên và trường chuyên biệt công lập trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-15",
+        "effectiveDate": "2026-06-22",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3932,
+        "documentNumber": "\t66/2026/QĐ-UBND",
+        "title": "Ban hành Bảng giá tính thuế tài nguyên năm 2026 trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-12",
+        "effectiveDate": "2026-06-12",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3933,
+        "documentNumber": "\t65/2026/QĐ-UBND",
+        "title": " Về việc ban hành Quy chế quản lý, sử dụng, khai thác Cơ sở dữ liệu về cán bộ, công chức, viên chức, người lao động do các cơ quan nhà nước tỉnh Ninh Bình quản lý\n",
+        "issuedDate": "2026-06-12",
+        "effectiveDate": "2026-06-22",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3924,
+        "documentNumber": "\t64/2026/QĐ-UBND",
+        "title": "Quy định về trình tự, thủ tục hành chính lĩnh vực Đất đai trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-10",
+        "effectiveDate": "2026-06-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3927,
+        "documentNumber": "\t63/2026/QĐ-UBND",
+        "title": "Ban hành Quy chế phối hợp liên ngành về giải quyết việc nuôi con nuôi có yếu tố nước ngoài trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-09",
+        "effectiveDate": "2026-06-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:37"
+      },
+      {
+        "id": 3907,
+        "documentNumber": "\t62/2026/QĐ-UBND",
+        "title": "v.v Sửa đổi, bổ sung một số điều của Quyết định số 85/2025/QĐ-UBND ngày 29/8/2025 của UBND tỉnh phân cấp thẩm quyền quyết định tiêu chuẩn, định mức sử dụng máy móc, thiết bị phục vụ công tác các chức danh; phục vụ hoạt động chung; máy móc, thiết bị chuyên dùng của các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của tỉnh Ninh Bình\n",
+        "issuedDate": "2026-06-01",
+        "effectiveDate": "2026-06-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3900,
+        "documentNumber": "61/2026/QĐ-UBND",
+        "title": "ban hành Quy chế đào tạo, bồi dưỡng cán bộ, công chức, viên chức trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-27",
+        "effectiveDate": "2026-06-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3897,
+        "documentNumber": "\t59/2026/QĐ-UBND",
+        "title": "Ban hành Quy chế phối hợp quản lý nhà nước về bảo vệ quyền lợi người tiêu dùng trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-26",
+        "effectiveDate": "2026-06-08",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3893,
+        "documentNumber": "\t60/2026/QĐ-UBND",
+        "title": " bãi bỏ Quyết định số 14/2025/QĐ-UBND ngày 01 tháng 7 năm 2025 của Ủy ban nhân dân tỉnh Ninh Bình ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-26",
+        "effectiveDate": "2026-05-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3883,
+        "documentNumber": "\t57/2026/QĐ-UBND",
+        "title": "ửa đổi, bổ sung một số điều của Quy chế quản lý kinh phí khuyến công trên địa bàn tỉnh Ninh Bình ban hành kèm theo Quyết định số 169/2025/QĐ-UBND ngày 01 tháng 12 năm 2025 của Ủy ban nhân dân tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-22",
+        "effectiveDate": "2026-05-22",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3884,
+        "documentNumber": "\t58/2026/QĐ-UBND",
+        "title": "ban hành Quy chế quản lý hoạt động thông tin đối ngoại trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-22",
+        "effectiveDate": "2026-06-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3882,
+        "documentNumber": "55/2026/QĐ-UBND",
+        "title": "Ban hành Quy định đặc điểm kinh tế - kỹ thuật của dịch vụ sử dụng diện tích bán hàng tại chợ được đầu tư từ nguồn vốn nhà nước trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-21",
+        "effectiveDate": "2026-06-02",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3886,
+        "documentNumber": "\t56/2026/QĐ-UBND",
+        "title": " Ban hành Quy chế phối hợp quản lý nhà nước đối với hoạt động kinh doanh xăng dầu trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-21",
+        "effectiveDate": "2026-06-02",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3880,
+        "documentNumber": "\t54/2026/QĐ-UBND",
+        "title": "Phân cấp thẩm quyền thực hiện việc cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-20",
+        "effectiveDate": "2026-12-31",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3878,
+        "documentNumber": "\t53/2026/QĐ-UBND",
+        "title": "Ban hành Quy định định mức kinh tế - kỹ thuật xây dựng, sửa đổi, bổ sung hệ số điều chỉnh giá đất trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-20",
+        "effectiveDate": "2026-05-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3863,
+        "documentNumber": "\t52/2026/QĐ-UBND",
+        "title": " ban hành quy định về công tác kiểm tra, thẩm định và nghiệm thu công trình, sản phẩm trong lĩnh vực đất đai trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-05-14",
+        "effectiveDate": "2026-05-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3827,
+        "documentNumber": "\t50/2026/QĐ-UBND",
+        "title": "ban hành Quy chế làm việc của Ủy ban nhân dân tỉnh Ninh Bình nhiệm kỳ 2026-2031\n",
+        "issuedDate": "2026-04-28",
+        "effectiveDate": "2026-04-28",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3828,
+        "documentNumber": "51/2026/QĐ-UBND",
+        "title": "sửa đổi, bổ sung Điều 3 của Quy định quản lý hoạt động thoát nước và xử lý nước thải trên địa bàn tỉnh Ninh Bình ban hành kèm theo Quyết định số 175/2025/QĐ-UBND ngày 16 tháng 12 năm 2025 của Ủy ban nhân dân tỉnh Ninh Bình\n",
+        "issuedDate": "2026-04-28",
+        "effectiveDate": "2026-04-28",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3811,
+        "documentNumber": "49/2026/QĐ-UBND",
+        "title": "quy định định mức kinh tế - kỹ thuật trong lĩnh vực nông nghiệp trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-04-18",
+        "effectiveDate": "2026-04-30",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3814,
+        "documentNumber": "47/2026/QĐ-UBND",
+        "title": "quy định phân cấp, quản lý về tổ chức bộ máy, cán bộ, công chức, viên chức thuộc thẩm quyền của Ủy ban nhân dân tỉnh Ninh Bình",
+        "issuedDate": "2026-04-17",
+        "effectiveDate": "2026-04-18",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3813,
+        "documentNumber": "48/2026/QĐ-UBND",
+        "title": " quy định phân cấp, quản lý về cán bộ, công chức, viên chức, hợp đồng thực hiện nhiệm vụ của công chức, hội quần chúng thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân tỉnh Ninh Bình\n",
+        "issuedDate": "2026-04-17",
+        "effectiveDate": "2026-04-18",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3815,
+        "documentNumber": "46/2026/QĐ-UBND",
+        "title": " quy định về đặc điểm kinh tế - kỹ thuật của dịch vụ theo yêu cầu liên quan đến việc công chứng trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-04-16",
+        "effectiveDate": "2026-05-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:36"
+      },
+      {
+        "id": 3802,
+        "documentNumber": "44/2026/QĐ-UBND",
+        "title": "/v Ban hành Quy định chi tiết nội dung chi và mức chi của Quỹ phòng, chống thiên tai tỉnh Ninh Bình\n",
+        "issuedDate": "2026-04-14",
+        "effectiveDate": "2026-04-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3805,
+        "documentNumber": "\t45/2026/QĐ-UBND",
+        "title": " bãi bỏ các quyết định của Ủy ban nhân dân tỉnh Ninh Bình\n",
+        "issuedDate": "2026-04-14",
+        "effectiveDate": "2026-04-14",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3796,
+        "documentNumber": "43/2026/QĐ-UBND",
+        "title": "Phân cấp một số nhiệm vụ trong lĩnh vực quản lý Nhà nước về đất đai trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-04-13",
+        "effectiveDate": "2026-04-13",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3782,
+        "documentNumber": "41/2026/QĐ-UBND",
+        "title": " bãi bỏ các quyết định của Ủy ban nhân dân tỉnh Ninh Bình\n",
+        "issuedDate": "2026-04-08",
+        "effectiveDate": "2026-04-08",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3773,
+        "documentNumber": "1336/QĐ-UBND",
+        "title": "V/v công bố danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung trong lĩnh vực Vận chuyển hàng hóa nguy hiểm; Lưu thông hàng hóa trong nước; dầu khí thuộc thẩm quyền giải quyết của Sở Công Thương, UBND cấp xã",
+        "issuedDate": "2026-04-01",
+        "effectiveDate": "2026-04-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3772,
+        "documentNumber": "1321/QĐ-UBND",
+        "title": "V/v công bố Danh mục thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực Giám định tư pháp, Công chứng, Chứng thực thuộc phạm vi chức năng quản lý của Sở Tư pháp",
+        "issuedDate": "2026-04-01",
+        "effectiveDate": "2026-04-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3737,
+        "documentNumber": "38/2026/QĐ-UBND",
+        "title": " phân cấp thẩm quyền thực hiện cấp, cấp lại, sửa đổi, bổ sung, đình chỉ, thu hồi Giấy phép hoạt động đối với cơ sở trợ giúp xã hội khác thực hiện hỗ trợ nạn nhân mua bán người trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-03-24",
+        "effectiveDate": "2026-04-03",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3719,
+        "documentNumber": "36/2026/QĐ-UBND",
+        "title": "phân cấp cho Sở Khoa học và Công nghệ thực hiện thủ tục lĩnh vực an toàn bức xạ và hạt nhân thuộc thẩm quyền của Ủy ban nhân dân tỉnh Ninh Bình",
+        "issuedDate": "2026-03-20",
+        "effectiveDate": "2026-04-02",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3696,
+        "documentNumber": "35/2026/QĐ-UBND",
+        "title": "ban hành Đơn giá bồi thường thiệt hại thực tế về nhà, nhà ở, công trình xây dựng gắn liền với đất khi Nhà nước thu hồi đất trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-03-13",
+        "effectiveDate": "2026-03-13",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3691,
+        "documentNumber": "33/2026/QĐ-UBND",
+        "title": " Bãi bỏ các quyết định của Ủy ban nhân dân tỉnh Ninh Bình\n",
+        "issuedDate": "2026-03-12",
+        "effectiveDate": "2026-03-12",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3693,
+        "documentNumber": "\t34/2026/QĐ-UBND",
+        "title": "bãi bỏ Quyết định số 08/2025/QĐ-UBND ngày 01 tháng 7 năm 2025 của Ủy ban nhân dân tỉnh Ninh Bình ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Văn phòng Ủy ban nhân dân tỉnh Ninh Bình",
+        "issuedDate": "2026-03-12",
+        "effectiveDate": "2026-03-12",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3698,
+        "documentNumber": "\t32/2026/QĐ-UBND",
+        "title": "Phân cấp thẩm quyền quyết định xác lập, phê duyệt phương án xử lý tài sản được xác lập quyền sở hữu toàn dân trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-03-11",
+        "effectiveDate": "2026-03-11",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3697,
+        "documentNumber": "31/2026/QĐ-UBND",
+        "title": "quy định về thời gian hoạt động của đại lý Internet và điểm truy nhập Internet công cộng không cung cấp dịch vụ trò chơi điện tử trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-03-10",
+        "effectiveDate": "2026-03-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3637,
+        "documentNumber": "\t30/2026/QĐ-UBND",
+        "title": "Quy định quản lý mạng cáp viễn thông trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-03-10",
+        "effectiveDate": "2026-03-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:35"
+      },
+      {
+        "id": 3595,
+        "documentNumber": "\t29/2026/QĐ-UBND",
+        "title": "ban hành Quy định thẩm quyền quyết định xử lý tài sản kết cấu hạ tầng giao thông đường bộ thuộc địa phương tỉnh Ninh Bình quản lý\n",
+        "issuedDate": "2026-03-04",
+        "effectiveDate": "2026-03-15",
+        "expirationDate": "2026-07-30",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3584,
+        "documentNumber": "\t27/2026/QĐ-UBND",
+        "title": "Ban hành Quy định bảo đảm yêu cầu phòng, chống thiên tai trong quản lý, vận hành, sử dụng các khu khai thác khoáng sản, khai thác tài nguyên thiên nhiên khác, đô thị, du lịch, công nghiệp, di tích lịch sử; điểm du lịch; điểm dân cư nông thôn; công trình phòng, chống thiên tai, giao thông, điện lực, viễn thông và hạ tầng kỹ thuật khác trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-02-27",
+        "effectiveDate": "2026-03-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3583,
+        "documentNumber": "\t26/2026/QĐ-UBND",
+        "title": "Quy định các tiêu chí bảo đảm yêu cầu phòng, chống thiên tai trong việc sử dụng công trình, nhà ở thuộc quyền sở hữu của hộ gia đình, cá nhân trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-02-27",
+        "effectiveDate": "2026-03-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3572,
+        "documentNumber": "23/2026/QĐ-UBND",
+        "title": " Ban hành Quy chế phối hợp giữa các cơ quan quản lý nhà nước trong công tác quản lý nhà nước đối với doanh nghiệp, hộ kinh doanh sau đăng ký thành lập trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-02-13",
+        "effectiveDate": "2026-03-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3571,
+        "documentNumber": "\t24/2026/QĐ-UBND",
+        "title": "ban hành Quy định thời hạn gửi báo cáo quyết toán theo niên độ ngân sách đối với vốn đầu tư công thuộc ngân sách của Ủy ban nhân dân cấp tỉnh quản lý; quy định trình tự, thời hạn lập, gửi, xét duyệt quyết toán theo niên độ ngân sách đối với vốn đầu tư công thuộc ngân sách của Ủy ban nhân dân cấp xã quản lý trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-02-13",
+        "effectiveDate": "2026-02-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3574,
+        "documentNumber": "\t25/2026/QĐ-UBND",
+        "title": "Ban hành Quy trình kiểm tra nội dung về đăng ký kinh doanh trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-02-13",
+        "effectiveDate": "2026-03-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3568,
+        "documentNumber": "\t22/2026/QĐ-UBND",
+        "title": " bãi bỏ các quyết định của Ủy ban nhân dân tỉnh Ninh Bình",
+        "issuedDate": "2026-02-11",
+        "effectiveDate": "2026-02-11",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3551,
+        "documentNumber": "\t20/2026/QĐ-UBND",
+        "title": " Quy định mức nộp tiền để Nhà nước bổ sung diện tích đất chuyên trồng lúa bị mất hoặc tăng hiệu quả sử dụng đất trồng lúa trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-02-06",
+        "effectiveDate": "2026-02-18",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3550,
+        "documentNumber": "\t21/2026/QĐ-UBND",
+        "title": "ban hành Quy định chi tiết một số nội dung thuộc thẩm quyền của Ủy ban nhân dân tỉnh được giao trong Luật Nhà ở số 27/2023/QH15\n",
+        "issuedDate": "2026-02-06",
+        "effectiveDate": "2026-02-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3549,
+        "documentNumber": "\t19/2026/QĐ-UBND",
+        "title": "sửa đổi khoản 2 Điều 2 Quyết định số 144/2025/QĐ-UBND ngày 20/10/2025 của Ủy ban nhân dân tỉnh Ninh Bình quy định về số lượng và hợp đồng trách nhiệm đối với cộng tác viên dân số trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-02-06",
+        "effectiveDate": "2026-02-06",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3540,
+        "documentNumber": "\t18/2026/QĐ-UBND",
+        "title": "Bãi bỏ các quyết định của Ủy ban nhân dân tỉnh Ninh Bình",
+        "issuedDate": "2026-02-03",
+        "effectiveDate": "2026-02-03",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3536,
+        "documentNumber": "17/2026/QĐ-UBND",
+        "title": "ban hành Quy chế quản lý, vận hành, khai thác và sử dụng Hệ thống thông tin phục vụ họp và xử lý công việc (eCabinet) tỉnh Ninh Bình\n",
+        "issuedDate": "2026-02-02",
+        "effectiveDate": "2026-02-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3535,
+        "documentNumber": "\t15/2026/QĐ-UBND",
+        "title": "Quy định tỷ lệ (mức) khoán chi phí quản lý, xử lý tài sản được xác lập quyền sở hữu toàn dân trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-01-31",
+        "effectiveDate": "2026-02-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3534,
+        "documentNumber": "\t16/2026/QĐ-UBND",
+        "title": "Quy định mức thù lao cho lực lượng tuần tra, canh gác đê điều trong mùa lũ trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-31",
+        "effectiveDate": "2026-02-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3522,
+        "documentNumber": "13/2026/QĐ-UBND",
+        "title": " ban hành Quy định định mức kinh tế - kỹ thuật lập, điều chỉnh quy hoạch sử dụng đất tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-30",
+        "effectiveDate": "2026-02-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3533,
+        "documentNumber": "14/2026/QĐ-UBND",
+        "title": " ban hành Quy chế bảo đảm an ninh mạng, an toàn thông tin đối với hệ thống thông tin trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-30",
+        "effectiveDate": "2026-02-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3521,
+        "documentNumber": "\t12/2026/QĐ-UBND",
+        "title": "ban hành Quy định về trường hợp có nhà ở thuộc sở hữu của mình nhưng cách xa địa điểm làm việc được hưởng chính sách hỗ trợ về nhà ở xã hội trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-01-25",
+        "effectiveDate": "2026-02-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:34"
+      },
+      {
+        "id": 3474,
+        "documentNumber": "10/2026/QĐ-UBND",
+        "title": " Ban hành Quy chế phối hợp thực hiện công tác khuyến nông trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-20",
+        "effectiveDate": "2026-02-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3473,
+        "documentNumber": "08/2026/QĐ-UBND",
+        "title": "ảng giá tính lệ phí trước bạ đối với nhà và tỷ lệ chất lượng còn lại của nhà chịu lệ phí trước bạ trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-16",
+        "effectiveDate": "2026-01-22",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3475,
+        "documentNumber": "09/2026/QĐ-UBND",
+        "title": "Quy định định mức kinh tế - kỹ thuật xây dựng, điều chỉnh, sửa đổi, bổ sung Bảng giá đất; định giá đất cụ thể trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-01-16",
+        "effectiveDate": "2026-01-30",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3464,
+        "documentNumber": "05/2026/QĐ-UBND",
+        "title": " Ban hành Quy định định mức kinh tế - kỹ thuật xây dựng cơ sở dữ liệu đất đai trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-13",
+        "effectiveDate": "2026-01-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3463,
+        "documentNumber": "06/2026/QĐ-UBND",
+        "title": "Ban hành Quy định định mức kinh tế - kỹ thuật thống kê, kiểm kê đất đai và lập bản đồ hiện trạng sử dụng đất trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-01-13",
+        "effectiveDate": "2026-01-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3461,
+        "documentNumber": "04/2026/QĐ-UBND",
+        "title": " Ban hành Quy định định mức kinh tế - kỹ thuật điều tra, đánh giá đất đai trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-12",
+        "effectiveDate": "2026-01-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3455,
+        "documentNumber": "02/2026/QĐ-UBND",
+        "title": "Ban hành Quy định về quản lý, bảo vệ hành lang bảo vệ bờ biển trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2026-01-09",
+        "effectiveDate": "2026-01-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3459,
+        "documentNumber": "03/2026/QĐ-UBND",
+        "title": "Phân cấp quản lý, sử dụng kinh phí thực hiện chính sách, chế độ ưu đãi người có công với cách mạng do ngân sách trung ương đảm bảo trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-09",
+        "effectiveDate": "2026-01-09",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3460,
+        "documentNumber": "01/2026/QĐ-UBND",
+        "title": "Ban hành Quy định tổ chức, hoạt động của lực lượng quản lý đê nhân dân trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2026-01-06",
+        "effectiveDate": "2026-01-16",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3432,
+        "documentNumber": "191/2025/QĐ-UBND",
+        "title": " ban hành Quy định tiêu chí, điều kiện cụ thể việc chuyển mục đích sử dụng đất trồng lúa, đất rừng phòng hộ, đất rừng đặc dụng, đất rừng sản xuất sang mục đích khác; điều kiện, trình tự, thủ tục thẩm định để giao đất không đấu giá quyền sử dụng đất cho cá nhân; trình tự, thủ tục cho thuê quỹ đất ngắn hạn trên địa bàn tỉnh Ninh Bình.\n",
+        "issuedDate": "2025-12-31",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3433,
+        "documentNumber": "\t192/2025/QĐ-UBND",
+        "title": "ban hành Quy định điều kiện, diện tích tối thiểu tách thửa đất, điều kiện hợp thửa đất đối với từng loại đất; Điều kiện, tiêu chí, quy mô, tỷ lệ về diện tích đất để tách thành dự án độc lập; Rà soát, công bố công khai, lập danh mục các thửa đất nhỏ hẹp; Diện tích, vị trí, mục đích sử dụng của công trình xây dựng phục vụ trực tiếp sản xuất nông nghiệp trên đất trồng lúa trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-31",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3434,
+        "documentNumber": "\t193/2025/QĐ-UBND",
+        "title": "ban hành Quy định hạn mức giao đất ở, công nhận đất ở; hạn mức giao đất nông nghiệp, hạn mức giao đất chưa sử dụng, hạn mức nhận chuyển quyền sử dụng đất nông nghiệp đối với hộ gia đình, cá nhân; hạn mức, diện tích đất giao cho tổ chức tôn giáo, tổ chức tôn giáo trực thuộc và các giấy tờ khác về quyền sử dụng đất có trước ngày 15 tháng 10 năm 1993 trên địa bàn tỉnh Ninh Bình.",
+        "issuedDate": "2025-12-31",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3431,
+        "documentNumber": "190/2025/QĐ-UBND",
+        "title": " ban hành quy định một số nội dung về bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất trên địa bàn tỉnh Ninh Bình\n\t",
+        "issuedDate": "2025-12-31",
+        "effectiveDate": "2026-01-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3444,
+        "documentNumber": "194/2025/QĐ-UBND",
+        "title": " ban hành quy định quy trình luân chuyển hồ sơ xác định nghĩa vụ tài chính về đất đai trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2025-12-31",
+        "effectiveDate": "2026-01-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3413,
+        "documentNumber": "186/2025/QĐ-UBND",
+        "title": "ban hành Quy chế phối hợp trong công tác quản lý thi hành pháp luật về xử lý vi phạm hành chính trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-30",
+        "effectiveDate": "2026-01-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3418,
+        "documentNumber": "188/2025/QĐ-UBND",
+        "title": " Quy định quy trình kỹ thuật, định mức kinh tế - kỹ thuật thu gom, vận chuyển, xử lý chất thải rắn sinh hoạt, vệ sinh công cộng trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-30",
+        "effectiveDate": "2025-12-30",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3429,
+        "documentNumber": "\t187/2025/QĐ-UBND",
+        "title": "phương thức chi trả chính sách trợ giúp xã hội thông qua tổ chức dịch vụ chi trả trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-30",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3430,
+        "documentNumber": "189/2025/QĐ-UBND",
+        "title": "QĐ Ban hành Bảng giá tính lệ phí trước bạ đối với ô tô, xe máy trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2025-12-30",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3428,
+        "documentNumber": "\t185/2025/QĐ-UBND",
+        "title": " ban hành Quy định thực hiện nếp sống văn minh trong việc cưới, việc tang và lễ hội trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-30",
+        "effectiveDate": "2026-01-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3426,
+        "documentNumber": "\t182/2025/QĐ-UBND",
+        "title": "ban hành Quy định quản lý chiếu sáng đô thị trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-26",
+        "effectiveDate": "2026-01-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3425,
+        "documentNumber": "\t181/2025/QĐ-UBND",
+        "title": "ban hành Quy định quản lý nghĩa trang và cơ sở hoả táng trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-26",
+        "effectiveDate": "2026-01-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3427,
+        "documentNumber": "\t183/2025/QĐ-UBND",
+        "title": "ban hành Quy định quản lý sử dụng chung công trình hạ tầng kỹ thuật trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-26",
+        "effectiveDate": "2026-01-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3443,
+        "documentNumber": "184/2025/QĐ-UBND",
+        "title": " ban hành Quy định phân công, phân cấp quản lý công viên, cây xanh, mặt nước trên địa bàn tỉnh Bình ",
+        "issuedDate": "2025-12-26",
+        "effectiveDate": "2026-01-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3423,
+        "documentNumber": "\t179/2025/QĐ-UBND",
+        "title": "\tQĐ Ban hành Quy định về quản lý và hành lang bảo vệ đối với đê cấp IV, cấp V trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2025-12-25",
+        "effectiveDate": "2026-01-06",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3424,
+        "documentNumber": "\t180/2025/QĐ-UBND",
+        "title": " ban hành Quy chế phối hợp xây dựng cơ sở dữ liệu, chia sẻ, cung cấp thông tin, dữ liệu về nhà ở và thị trường bất động sản trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-25",
+        "effectiveDate": "2026-01-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3420,
+        "documentNumber": "\t176/2025/QĐ-UBND",
+        "title": "Quy định hệ số điều chỉnh tăng thêm tiền lương (Hđc) làm cơ sở xác định chi phí tiền lương, chi phí nhân công trong giá, đơn giá sản phẩm, dịch vụ công sử dụng kinh phí ngân sách Nhà nước do doanh nghiệp thực hiện trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-19",
+        "effectiveDate": "2025-12-30",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3421,
+        "documentNumber": "\t177/2025/QĐ-UBND",
+        "title": "Ban hành Quy chế phối hợp trong công tác quản lý nhà nước về khí tượng thuỷ văn và biến đổi khí hậu trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-19",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3422,
+        "documentNumber": "\t178/2025/QĐ-UBND",
+        "title": " ban hành đơn giá bồi thường thiệt hại về cây trồng, vật nuôi khi Nhà nước thu hồi đất trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-19",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3379,
+        "documentNumber": "174/2025/QĐ-UBND",
+        "title": "quy định phân công, phân cấp quản lý hoạt động cấp nước trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2025-12-16",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3419,
+        "documentNumber": "\t175/2025/QĐ-UBND",
+        "title": "quy định quản lý hoạt động thoát nước và xử lý nước thải trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-16",
+        "effectiveDate": "2026-01-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:33"
+      },
+      {
+        "id": 3380,
+        "documentNumber": "173/2025/QĐ-UBND",
+        "title": "Ban hành Quy chế quản lý, khai thác và vận hành Trung tâm Dữ liệu tỉnh Ninh Bình\n",
+        "issuedDate": "2025-12-15",
+        "effectiveDate": "2025-12-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3328,
+        "documentNumber": "\t172/2025/QĐ-UBND",
+        "title": " Ban hành Quy chế quản lý công trình ghi công liệt sĩ, mộ liệt sĩ trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-11",
+        "effectiveDate": "2025-12-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3329,
+        "documentNumber": "\t171/2025/QĐ-UBND",
+        "title": " ban hành Quy chế quản lý cụm công nghiệp trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-06",
+        "effectiveDate": "2025-12-16",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3334,
+        "documentNumber": "170/2025/QĐ-UBND",
+        "title": "Ban hành Quy chế xây dựng, quản lý và thực hiện Chương trình xúc tiến thương mại tỉnh Ninh Bình",
+        "issuedDate": "2025-12-05",
+        "effectiveDate": "2025-12-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3327,
+        "documentNumber": "\t170/2025/QĐ-UBND",
+        "title": "Ban hành Quy chế xây dựng, quản lý và thực hiện Chương trình xúc tiến thương mại tỉnh Ninh Bình",
+        "issuedDate": "2025-12-05",
+        "effectiveDate": "2025-12-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-12T11:36:05"
+      },
+      {
+        "id": 3326,
+        "documentNumber": "\t169/2025/QĐ-UBND",
+        "title": "Ban hành Quy chế quản lý kinh phí khuyến công trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-12-01",
+        "effectiveDate": "2025-12-13",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-12T11:36:05"
+      },
+      {
+        "id": 3341,
+        "documentNumber": "167/2025/QĐ-UBND",
+        "title": "Ban hành Quy định phân cấp quản lý chợ trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-28",
+        "effectiveDate": "2025-12-08",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3340,
+        "documentNumber": "168/2025/QĐ-UBND",
+        "title": "an hành Quy chế phối hợp trong công tác hỗ trợ khách du lịch trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-28",
+        "effectiveDate": "2025-12-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3325,
+        "documentNumber": "\t167/2025/QĐ-UBND",
+        "title": "Ban hành Quy định phân cấp quản lý chợ trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-28",
+        "effectiveDate": "2025-12-08",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-12T11:36:05"
+      },
+      {
+        "id": 3316,
+        "documentNumber": "165/2025/QĐ-UBND",
+        "title": " Ban hành Quy chế quản lý, sử dụng Chứng thư chữ ký số chuyên dùng công vụ trong các cơ quan nhà nước tỉnh Ninh Bình",
+        "issuedDate": "2025-11-27",
+        "effectiveDate": "2025-12-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3323,
+        "documentNumber": "\t164/2025/QĐ-UBND",
+        "title": "Quy định tiêu chí đặc thù và quy trình xét duyệt hồ sơ đề nghị cấp văn bản chấp thuận đóng mới, cải hoán, thuê, mua tàu cá trên biển; quy định về đóng mới, cải hoán, thuê, mua tàu cá hoạt động trong nội địa trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-26",
+        "effectiveDate": "2025-12-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3310,
+        "documentNumber": "\t163/2025/QĐ-UBND",
+        "title": "Ban hành Quy chế quản lý, vận hành và khai thác Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Ninh Bình",
+        "issuedDate": "2025-11-25",
+        "effectiveDate": "2025-12-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3311,
+        "documentNumber": "162/2025/QĐ-UBND",
+        "title": "Ban hành Quy chế quản lý, vận hành và sử dụng Hệ thống thư điện tử công vụ trong các cơ quan nhà nước tỉnh Ninh Bình",
+        "issuedDate": "2025-11-23",
+        "effectiveDate": "2025-12-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3324,
+        "documentNumber": "\t161/2025/QĐ-UBND",
+        "title": " Ban hành Quy chế quản lý, vận hành và sử dụng Hệ thống quản lý văn bản và điều hành trong các cơ quan nhà nước trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-23",
+        "effectiveDate": "2025-12-10",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3308,
+        "documentNumber": "160/2025/QĐ-UBND",
+        "title": " Ban hành Quy định các trường hợp không có tính khả thi và mức độ khôi phục lại tình trạng ban đầu của đất đối với hành vi hủy hoại đất trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2025-11-20",
+        "effectiveDate": "2025-12-03",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3302,
+        "documentNumber": "\t159/2025/QĐ-UBND",
+        "title": " Quy định mức tỷ lệ (%) để tính đơn giá thuê đất, mức tỷ lệ (%) thu đối với đất xây dựng công trình ngầm, mức tỷ lệ (%) thu đối với đất có mặt nước trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-17",
+        "effectiveDate": "2025-11-28",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3306,
+        "documentNumber": "\t158/2025/QĐ-UBND",
+        "title": "ban hành Quy định về giấy phép xây dựng và quản lý trật tự xây dựng trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-11",
+        "effectiveDate": "2025-11-22",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3299,
+        "documentNumber": "\t157/2025/QĐ-UBND",
+        "title": "Ban hành Định mức kinh tế - kỹ thuật đo đạc lập bản đồ địa chính, đăng ký đất đai, tài sản gắn liền với đất, lập hồ sơ địa chính, cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-07",
+        "effectiveDate": "2025-11-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3293,
+        "documentNumber": "\t156/2025/QĐ-UBND",
+        "title": "Quy định mật độ chăn nuôi trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-11-07",
+        "effectiveDate": "2025-11-22",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3287,
+        "documentNumber": "155/2025/QĐ-UBND",
+        "title": "\tQuyết định ban hành Quy định quản lý chất thải rắn sinh hoạt trên địa bàn tỉnh Ninh Bình\n",
+        "issuedDate": "2025-11-06",
+        "effectiveDate": "2025-11-15",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3267,
+        "documentNumber": "\t18/2025/NQ-HĐND",
+        "title": "về việc ban hành quy định nguyên tắc, tiêu chí và định mức phân bổ vốn đầu tư công nguồn ngân sách địa phương giai đoạn 2026-2030 tỉnh Ninh Bình",
+        "issuedDate": "2025-10-30",
+        "effectiveDate": "2025-11-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3290,
+        "documentNumber": "\t151/2025/QĐ-UBND",
+        "title": "Quyết định v/v Ban hành Bảng giá tính thuế tài nguyên năm 2025 trên địa bàn tỉnh Ninh Bình\nSố ký hiệu",
+        "issuedDate": "2025-10-30",
+        "effectiveDate": "2025-10-31",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:32"
+      },
+      {
+        "id": 3226,
+        "documentNumber": "\t148/2025/QĐ-UBND",
+        "title": "quy định một số nội dung về cung cấp dịch vụ sự nghiệp công sử dụng ngân sách nhà nước trong quản lý, bảo trì kết cấu hạ tầng giao thông trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-10-28",
+        "effectiveDate": "2025-11-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3227,
+        "documentNumber": "\t147/2025/QĐ-UBND",
+        "title": "ban hành Quy định quản lý, vận hành, khai thác, bảo trì và bảo vệ kết cấu hạ tầng đường bộ thuộc phạm vi quản lý của Ủy ban nhân dân tỉnh Ninh Bình",
+        "issuedDate": "2025-10-24",
+        "effectiveDate": "2025-11-05",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3240,
+        "documentNumber": "\t146/2025/QĐ-UBND",
+        "title": "phân cấp thực hiện một số nội dung trong quản lý nhiệm vụ khoa học và công nghệ cấp tỉnh sử dụng ngân sách nhà nước thuộc phạm vi quản lý của tỉnh Ninh Bình",
+        "issuedDate": "2025-10-23",
+        "effectiveDate": "2025-11-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3206,
+        "documentNumber": "\t144/2025/QĐ-UBND",
+        "title": " Quy định về số lượng và hợp đồng trách nhiệm đối với cộng tác viên dân số trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-10-20",
+        "effectiveDate": "2025-10-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3239,
+        "documentNumber": "\t145/2025/QĐ-UBND",
+        "title": " Quy định một số nội dung về hoạt động đo đạc và bản đồ trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-10-20",
+        "effectiveDate": "2025-11-01",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3242,
+        "documentNumber": "\t143/2025/QĐ-UBND",
+        "title": "về việc giao thẩm quyền chủ trì thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng, Báo cáo kinh tế - kỹ thuật đầu tư xây dựng dự án do cấp tỉnh quản lý trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-10-20",
+        "effectiveDate": "2025-10-20",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3241,
+        "documentNumber": "142/2025/QĐ-UBND",
+        "title": "Ban hành Quy định một số chỉ tiêu cụ thể khi áp dụng phương pháp định giá đất theo Nghị định số 71/2024/NĐ-CP quy định về giá đất được sửa đổi, bổ sung tại Nghị định số 226/2025/NĐ-CP trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-10-15",
+        "effectiveDate": "2025-10-24",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3176,
+        "documentNumber": "141/2025/QĐ-UBND",
+        "title": " ban hành Quy chế phối hợp thực hiện chức năng, nhiệm vụ, quyền hạn giữa Văn phòng Đăng ký đất đai, Chi nhánh Văn phòng Đăng ký đất đai với Ủy ban nhân dân cấp xã, cơ quan có chức năng quản lý đất đai cấp xã, cơ quan tài chính, cơ quan thuế và các cơ quan, đơn vị khác có liên quan trên địa bàn tỉnh Ninh Bình",
+        "issuedDate": "2025-10-13",
+        "effectiveDate": "2025-10-13",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:31"
+      },
+      {
+        "id": 3186,
+        "documentNumber": "140/2025/QĐ-UBND",
+        "title": " ban hành Quy trình thẩm định, phê duyệt, điều chỉnh Báo cáo nghiên cứu khả thi đầu tư xây dựng, Báo cáo kinh tế - kỹ thuật đầu tư xây dựng các dự án sử dụng vốn đầu tư công, vốn nhà nước ngoài đầu tư công do Ủy ban nhân dân cấp tỉnh, cấp xã quyết định đầu tư",
+        "issuedDate": "2025-10-11",
+        "effectiveDate": "2025-10-11",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-12T11:36:05"
+      },
+      {
+        "id": 3145,
+        "documentNumber": "\t133/2025/QĐ-UBND",
+        "title": "Về thẩm quyền quyết định quản lý, sử dụng tài sản công thuộc phạm vi quản lý của tỉnh Ninh Bình",
+        "issuedDate": "2025-09-29",
+        "effectiveDate": "2025-09-29",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3162,
+        "documentNumber": "\t136/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Bảo trợ xã hội Ninh Bình thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-29",
+        "effectiveDate": "2025-09-29",
+        "expirationDate": "2026-07-13",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3163,
+        "documentNumber": "\t135/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Dịch vụ việc làm Nam Định thuộc Sở Nội vụ tỉnh Ninh Bình",
+        "issuedDate": "2025-09-29",
+        "effectiveDate": "2025-09-29",
+        "expirationDate": "2026-01-21",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3160,
+        "documentNumber": "\t132/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Yên Mô thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-29",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3159,
+        "documentNumber": "\t134/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Dịch vụ việc làm Hà Nam thuộc Sở Nội vụ tỉnh Ninh Bình",
+        "issuedDate": "2025-09-29",
+        "effectiveDate": "2025-09-29",
+        "expirationDate": "2026-01-21",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3158,
+        "documentNumber": "\t137/2025/QĐ-UBND",
+        "title": " Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra tỉnh Ninh Bình",
+        "issuedDate": "2025-09-29",
+        "effectiveDate": "2025-09-29",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3148,
+        "documentNumber": "129/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Gia Viễn thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3144,
+        "documentNumber": "\t126/2025/QĐ-UBND",
+        "title": " Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Lý Nhân thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3142,
+        "documentNumber": "\t125/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Giao Thủy thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3141,
+        "documentNumber": "\t123/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Kim Sơn thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3153,
+        "documentNumber": "\t122/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Duy Tiên thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3150,
+        "documentNumber": "\t127/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Nho Quan thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3152,
+        "documentNumber": "\t121/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Phục vụ hành chính công tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3151,
+        "documentNumber": "\t118/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Nam Trực thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-12",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3154,
+        "documentNumber": "\t119/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bệnh viện Đa khoa Nho Quan thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3147,
+        "documentNumber": "\t124/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Hải Hậu thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3161,
+        "documentNumber": "131/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Bình Lục thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3149,
+        "documentNumber": "128/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Vụ Bản thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3156,
+        "documentNumber": "\t130/2025/QĐ-UBND",
+        "title": " Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Y tế Yên Khánh thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": "2026-02-11",
+        "expirationType": "FULL",
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3155,
+        "documentNumber": "120/2025/QĐ-UBND",
+        "title": "Ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bệnh viện Đa khoa Kim Sơn thuộc Sở Y tế tỉnh Ninh Bình",
+        "issuedDate": "2025-09-26",
+        "effectiveDate": "2025-09-26",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:30"
+      },
+      {
+        "id": 3133,
+        "documentNumber": "\t117/2025/QĐ-UBND",
+        "title": "Phân cấp thẩm quyền quyết định tiêu chuẩn, định mức diện tích chuyên dùng, diện tích công trình sự nghiệp của các cơ quan, tổ chức, đơn vị thuộc phạm vi quản lý của tỉnh Ninh Bình",
+        "issuedDate": "2025-09-22",
+        "effectiveDate": "2025-09-25",
+        "expirationDate": null,
+        "expirationType": null,
+        "updatedAt": "2026-10-15T04:09:30"
+      }
+    ]
+  },
+  "identity_corrections": [
+    {
+      "id": "NB193",
+      "finding": "Bản cổng tỉnh có số/ngày trên hình, chữ ký/dấu trang 3. Bản Bộ Tư pháp trùng SHA256; không còn khoảng trống định danh bản ký."
+    },
+    {
+      "id": "NB43",
+      "finding": "Ngày ký và hiệu lực 13/04/2026; metadata cổng tỉnh 14/04 khác bản ký và Công báo."
+    },
+    {
+      "id": "NB64",
+      "finding": "Bản riêng có số 64, ngày 10/06/2026 trên hình. Công báo đủ 134 trang; hiệu lực 20/06/2026."
+    },
+    {
+      "id": "NB86",
+      "finding": "Điều 2 nội dung Công báo ghi 25/07/2026; metadata ghi 15/07, ưu tiên điều khoản và lưu sai khác."
+    }
+  ],
+  "queries": [
+    "193/2025/QĐ-UBND Ninh Bình sửa đổi bãi bỏ thay thế",
+    "192/2025/QĐ-UBND Ninh Bình",
+    "43/2026/QĐ-UBND 64/2026/QĐ-UBND Ninh Bình",
+    "50/2026/NĐ-CP sửa đổi Điều 6",
+    "49/2026/NĐ-CP sửa đổi Điều 16",
+    "254/2025/QH15 sửa đổi bổ sung",
+    "hợp nhất Luật Đất đai 2026",
+    "Luật 21/2026/QH16"
+  ],
+  "official_web_sources": [
+    "https://data.moj.gov.vn/van-ban/33?pageSize=10",
+    "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-49-2026-nd-cp-468908.htm",
+    "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-50-2026-nd-cp-468912.htm",
+    "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129/63476.htm",
+    "https://vbpl.moj.gov.vn/hatinh/Pages/vbpq-vanbanlienquan.aspx?ItemID=186273&Keyword=&dvid=221",
+    "https://baochinhphu.vn/chuyen-muc-dich-mot-phan-thua-dat-co-phai-tach-thua-102260706114206284.htm",
+    "https://baochinhphu.vn/chuyen-muc-dich-mot-phan-thua-dat-ap-dung-nghi-quyet-254-102260711182444544.htm",
+    "https://vanban.chinhphu.vn/?docid=219489&orggroupid=1&pageid=27160"
+  ],
+  "files": [
+    {
+      "path": "documents/phap_luat/province_193_original.pdf",
+      "sha256": "c7f280a756f8f0658c5482692901c0983ec18929b1e548c36537127909cbfe12"
+    },
+    {
+      "path": "documents/phap_luat/qd193_2025_ban_ky_moj.pdf",
+      "sha256": "c7f280a756f8f0658c5482692901c0983ec18929b1e548c36537127909cbfe12"
+    },
+    {
+      "path": "documents/phap_luat/qd193_2025_congbao.pdf",
+      "sha256": "b68e5dc6aef6e6a19a85d3fabd7933303aca5b2f52567a035dc0df8d8941b68f"
+    },
+    {
+      "path": "documents/phap_luat/province_43_original.pdf",
+      "sha256": "1f036727a96c7829bf5c2905a2212a398c4b288579c24e9540cdca9fc62a9516"
+    },
+    {
+      "path": "documents/phap_luat/qd43_2026_congbao.pdf",
+      "sha256": "42c6677cfcaba46e959bcac014393fd6dbd723b7de5270a1031b324497fd0606"
+    },
+    {
+      "path": "documents/phap_luat/qd64_2026_congbao_day_du.pdf",
+      "sha256": "745df70c27c2eaa141bb7fe0b6d51f16974787c92d46ae8444d4888be3c0a58f"
+    },
+    {
+      "path": "documents/phap_luat/qd192_2025_congbao.pdf",
+      "sha256": "47e5f8ec42615fa11be0b51d675fe43b460752b22d6d8cb383f3d64bd642caad"
+    },
+    {
+      "path": "documents/phap_luat/qd194_2025_congbao.pdf",
+      "sha256": "70df4d113e4a9bba410b76e89ef9e13f3958c276a41549727400be3aadf574ac"
+    },
+    {
+      "path": "documents/phap_luat/qd86_2026_congbao.pdf",
+      "sha256": "76ea64c94d602a71c017659ec1520720fc952605e8a0e0d591c83e346089d03a"
+    },
+    {
+      "path": "documents/phap_luat/nd49_2026_congbao.pdf",
+      "sha256": "c9fe6b704a7a7992895fbaf58979ad2dbcdda596ea6490716fa75cc5fa951f4c"
+    },
+    {
+      "path": "documents/phap_luat/nd50_2026.pdf",
+      "sha256": "9f73d956804e0d64cb73a6dab2c8fc52e618599e8044cf743571ab582009ed9e"
+    },
+    {
+      "path": "documents/phap_luat/cv7713_btc_qlcs_20260608.pdf",
+      "sha256": "d7e558380a1442748c314ed1d58a29fe1beaa3a5f55b5cf0401715da5d27e1cd"
+    }
+  ]
+}

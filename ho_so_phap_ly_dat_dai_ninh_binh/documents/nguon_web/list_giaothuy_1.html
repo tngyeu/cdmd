@@ -1,0 +1,223 @@
+
+<!DOCTYPE html>
+
+<html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1" /><meta charset="utf-8" /><title>
+	Đăng nhập
+</title>
+    <script src="/Scripts/jquery-3.6.3.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/AutoHeightPanel.js"></script>
+    <style>
+        @media only screen and (max-width: 768px) {
+            .AdminLoginControl {
+                max-width: 90vw !important;
+                padding: 0 !important;
+                min-width: 90vw !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./login.aspx?ReturnURL=http%3a%2f%2fgiaothuy.ninhbinh.gov.vn%2fvan-ban-chi-dao-ve-kinh-te" id="form1" style="display: none">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="rjKNw54HMbfTO6B67iIJCOZgutZNBzdAZnLraa4OqIb6cSBZlT6ZjQqSclIS2HmsWVW/I6qPc9WsbYLcMDILpBV8IqeGdJA90OsA0rOpDZIqpME3bAGmu6FIAh39TyJp2i3Z5j7mmS/oVoGmMexZ5qzEeDztvJmREPPgr974b9QjTQO+DHEMx5u+0pszfkSm066kOmNT50mk6dC49n/XUiBTKoB4YM7tLEv2hLBsOeTyt36p+uqpwmsrLi76mseMAg+jBp2p5xKLcqX/lL0sLSXM2tHlhHA8Zx9Wblzprr6z1AdscZrF0HSOxUD4QoGC" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="82312306" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="eioU72wEoeJRxLhUaSB4NCjRq0jeBXOoTumDpP/51Wsj48Bnv8fgMgAg12xBNN1+cocoHV7XSpPUZlE/Iu+6zEc7FfiBOQ3749vgCVTEeWvZIE0rZbkUv98WGs2aY514G3nufvI3996Dh61MMdOtNS8VH1wZUdx1emWlB6HsaWjyYOoLP/YZha9YK6MmbK7q0eQth76uG0+owmKSxIxYCA==" />
+</div>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%" document="yes">
+            <tr>
+                <td align="center">
+                    
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&amp;display=swap');
+
+    * {
+        font-family: 'Roboto', sans-serif !important;
+        font-size: 13px !important;
+        outline: none;
+    }
+
+    body {
+        overflow: auto;
+        margin: 0;
+    }
+
+    span#LoginForm_lblUserName,
+    span#LoginForm_lblPassword {
+        padding: 10px 5px;
+        display: inline-block;
+        width: 200px;
+        font-size: 14px;
+        font-weight: bold;
+        color: dimgray;
+    }
+
+    .AdminLoginControl .lbl-header {
+        text-align: left;
+        color: #696969;
+        margin: 0 !important;
+        background: white;
+        padding: 15px 20px !important;
+        box-shadow: 0 1px 5px rgb(114,172,247);
+        border-radius: 3px;
+        font-size: 16px !important;
+        border-left: 7px solid #009688;
+        margin-bottom: 20px !important;
+    }
+
+    .AdminLoginControl td {
+        display: block;
+    }
+
+    .AdminLoginControl input[type="text"],
+    .AdminLoginControl input[type="password"],
+    .AdminLoginControl input[type="number"] {
+        height: 40px;
+        border-radius: 3px;
+        border: 1px solid #e5e5e5;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 0;
+        padding-bottom: 0;
+        box-sizing: border-box;
+        width: 100% !important;
+        font-size: 16px !important;
+    }
+
+    .AdminLoginControl input[type="submit"] {
+        height: 45px;
+        border: none;
+        border-radius: 3px;
+        background: #009688;
+        color: white;
+        cursor: pointer;
+        box-sizing: border-box;
+        width: 100%;
+        font-weight: 600;
+    }
+
+    .AdminLoginControl > table, .AdminLoginControl > .Form {
+        padding: 20px 20px 30px 20px !important;
+        background: white;
+        border-radius: 3px;
+        box-shadow: 0 1px 5px rgb(114,172,247);
+        margin-bottom: 20px !important;
+    }
+
+    .AdminLoginControl {
+        background-image: none !important;
+        height: auto !important;
+        width: 400px !important;
+    }
+
+
+    span#LoginForm_lblLoginInfo {
+        font-weight: bold;
+    }
+
+    #AdminLoginControl1_lblUserName,
+    #AdminLoginControl1_lblPassword {
+        padding: 10px 5px;
+        display: inline-block;
+        width: 200px;
+        font-size: 14px;
+        font-weight: bold;
+        color: dimgray;
+    }
+
+    a#LoginForm_lnkRegister, .btnreturn {
+        text-decoration: none;
+        color: #87909c;
+        display: block;
+        text-align: center;
+    }
+</style>
+<div id="LoginForm_AdminLoginControl" class="AdminLoginControl" style="font: normal 9pt Arial; width: 348px; height: 228px; background: url(&#39;/Images/bgAdminLogin.jpg&#39;) no-repeat center; padding: 16px;">
+    <div class="lbl-header"
+        style="font-family: Arial, Helvetica, sans-serif; font-size: 14pt; font-weight: bold; margin-bottom: 6px; padding-bottom: 6px;">
+        Đăng nhập hệ thống
+   
+   
+    </div>
+    <div id="LoginForm_pnlLoginForm" class="Form">
+	
+        <table border="0" cellpadding="2" cellspacing="0" width="100%" style="margin-bottom: 8px; text-align: justify;">
+            <tr>
+                <td style="width: 109px;">
+                    <span id="LoginForm_lblUserName" style="padding: 10px 5px; display: inline-block; width: 200px; font-size: 14px; font-weight: bold; color: dimgray;">Tên đăng nhập:</span>
+                </td>
+                <td>
+                    <input name="LoginForm$txtUserName" type="text" id="LoginForm_txtUserName" class="txtUserName" style="font-family:Arial;font-size:9pt;width:160px;" />
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 109px">
+                    <span id="LoginForm_lblPassword" style="padding: 10px 5px; display: inline-block; width: 200px; font-size: 14px; font-weight: bold; color: dimgray;">Mật khẩu:</span>
+                </td>
+                <td>
+                    <input name="LoginForm$txtPassword" type="password" id="LoginForm_txtPassword" style="font-family:Arial;font-size:9pt;width:160px;" />
+                    <div style="display: flex; align-items: center; gap: 5px; margin-top: 10px; opacity: 0.7">
+                        <input type="checkbox" onclick="ShowPass()">Hiển thị mật khẩu
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 109px">
+                    <span id="LoginForm_Label2" style="padding: 10px 5px; display: inline-block; width: 200px; font-size: 14px; font-weight: bold; color: dimgray;">Nhập mã kiểm tra:</span>
+                </td>
+                <td>
+                    <div style="display: flex; align-items: center;">
+                        <div style="flex-grow: 1">
+                            <input name="LoginForm$txtVerifier" type="text" id="LoginForm_txtVerifier" style="font-family:Arial;font-size:9pt;width:100%;" />
+                        </div>
+                        <div style="padding: 0 0 0 1rem">
+                            <img src="/ImageVerifier.axd?uid=dbd2073d-a1c9-4cea-8733-4ae4859cde64" id="LoginForm_imgVerifier" /><a href='javascript:void(0)' tabindex='-1' style='position: absolute; margin-left: -20px;' class='reload_cap' onclick="javscript:document.getElementById('LoginForm_imgVerifier').src='ImageVerifier.axd?uid=dbd2073d-a1c9-4cea-8733-4ae4859cde64&ts=' + new Date()"><svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="red"><path d="M13.5 2c-5.621 0-10.211 4.443-10.475 10h-3.025l5 6.625 5-6.625h-2.975c.257-3.351 3.06-6 6.475-6 3.584 0 6.5 2.916 6.5 6.5s-2.916 6.5-6.5 6.5c-1.863 0-3.542-.793-4.728-2.053l-2.427 3.216c1.877 1.754 4.389 2.837 7.155 2.837 5.79 0 10.5-4.71 10.5-10.5s-4.71-10.5-10.5-10.5z"></path></svg></a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 109px">&nbsp;</td>
+                <td>
+                    <input type="submit" name="LoginForm$btnLogin" value="Đăng nhập" id="LoginForm_btnLogin" />
+                </td>
+            </tr>
+          
+        </table>
+    
+</div>
+    <div>
+        
+    </div>
+    <input type="hidden" name="LoginForm$hidSiteName" id="LoginForm_hidSiteName" />
+</div>
+
+<div>
+    
+</div>
+<script>
+    function ShowPass() {
+        var x = document.getElementById("LoginForm_txtPassword");
+        if (x.type === "password") {
+            x.type = "text";
+        } else {
+            x.type = "password";
+        }
+    }
+</script>
+
+                </td>
+            </tr>
+        </table>
+    </form>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#form1').fadeIn(200);
+        })
+    </script>
+</body>
+</html>

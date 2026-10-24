@@ -1,0 +1,137 @@
+{
+  "mean_m2": 150,
+  "years": 5,
+  "months": 60,
+  "full_ha": 50.26,
+  "capacity_rows": [
+    {
+      "mean_m2": 106,
+      "household_capacity": 4741,
+      "share_of_baseline_percent": 53.06693530333557,
+      "all_households_area_ha": 94.7004,
+      "annual_equivalent": 948.3018867924527
+    },
+    {
+      "mean_m2": 150,
+      "household_capacity": 3350,
+      "share_of_baseline_percent": 37.49720170136557,
+      "all_households_area_ha": 134.01,
+      "annual_equivalent": 670.1333333333333
+    },
+    {
+      "mean_m2": 200,
+      "household_capacity": 2513,
+      "share_of_baseline_percent": 28.12849787329304,
+      "all_households_area_ha": 178.68,
+      "annual_equivalent": 502.6
+    }
+  ],
+  "monthly_capacity": 55.84444444444444,
+  "monthly_capacity_per_1000_households": 6.25077730517623,
+  "benchmark_rows": [
+    {
+      "locality": "Phường Đông A",
+      "kind": "Phường",
+      "period": "Tháng 8/2026",
+      "period_months": 1,
+      "count": 15,
+      "unit": "hồ sơ tiếp nhận, giải quyết",
+      "annualized_count": 180,
+      "meaning": "Tiếp nhận, giải quyết; chưa chứng minh tất cả đã có quyết định cho phép hoặc đã hoàn thành tài chính; không có diện tích.",
+      "source_url": "https://donga.ninhbinh.gov.vn/phuong-dong-a-tap-trung-danh-gia-ket-qua-thang-8-quyet-liet-trien-khai-nhiem-vu-trong-tam-thang-9-nam-2026",
+      "local_file": "documents/nguon_web/quota_comparison_donga_aug2026.html",
+      "source_date": "2026-08-28",
+      "status": "official_web_report",
+      "demographics": {
+        "locality": "Phường Đông A",
+        "households": 9406,
+        "population": 31980,
+        "source_url": "https://donga.ninhbinh.gov.vn/phuong-dong-a-mien-dat-giau-truyen-thong-khat-vong-vuon-minh-phat-trien",
+        "local_file": "documents/nguon_web/donga_demographics_2026.html",
+        "published_date": "2026-08-01",
+        "modified_date": "2026-08-09",
+        "source_period_label": "Bài công bố 01/08/2026, cập nhật 09/08/2026",
+        "status": "official_locality_publication",
+        "caveat": "Quy mô hộ/nhân khẩu của phường sau sắp xếp; bài không ghi ngày chốt sổ thống kê riêng. Không tự coi là số hộ hiện tại của tháng 10.",
+        "source_sha256": "7a3a9fc9f6f4655f86f5a6be00791a5947ecb0a2a3055e0115fc9ca0953be132"
+      },
+      "cases_per_1000_households_period": 1.594726770146715,
+      "cases_per_1000_households_month": 1.594726770146715,
+      "capacity_to_observed_rate": 3.919654088832508
+    },
+    {
+      "locality": "Xã Khánh Thiện",
+      "kind": "Xã",
+      "period": "Quý I/2026",
+      "period_months": 3,
+      "count": 82,
+      "unit": "trường hợp được quyết định cho phép chuyển mục đích",
+      "annualized_count": 328,
+      "meaning": "Báo cáo kết quả quý I, không có số diện tích/loại đất của 82 trường hợp; không mặc định đều là ODT/ONT. Tệp trống số/ngày đầu, tháng 3/2026.",
+      "source_url": "https://khanhthien.ninhbinh.gov.vn/uploads/images/Bao%20cao%20quy%20I%20-%20UBND%20%281%29.pdf",
+      "local_file": "documents/phap_luat/quota_comparison_khanhthien_q1_2026.pdf",
+      "pdf_page": 1,
+      "source_date": "",
+      "status": "official_report_identity_pending",
+      "demographics": {
+        "locality": "Xã Khánh Thiện",
+        "households": 6616,
+        "population": 24281,
+        "source_url": "https://khanhthien.ninhbinh.gov.vn/uploads/images/bc_thi_%C4%91ua_x%C3%B3a_nh%C3%A0_t%E1%BA%A1m_d%E1%BB%99t_n%C3%A1t-signed.pdf",
+        "local_file": "documents/phap_luat/khanhthien_demographics_2025.pdf",
+        "pdf_page": 1,
+        "published_date": null,
+        "source_period_label": "Báo cáo tháng 8/2025, trang 1; đầu tệp trống số/ngày",
+        "status": "official_report_identity_pending",
+        "caveat": "Quy mô xã mới gồm Khánh Cường, Khánh Lợi, Khánh Thiện; mẫu số công bố 2025, kỳ hồ sơ là quý I/2026. Tỷ lệ chỉ là đối chiếu gần đúng, chưa cập nhật cùng thời điểm.",
+        "source_sha256": "385b600fb3dad5a12af376cdd408a6bfd9a2bc3567337be6a5097cb6c4404ae0"
+      },
+      "cases_per_1000_households_period": 12.394195888754533,
+      "cases_per_1000_households_month": 4.131398629584845,
+      "capacity_to_observed_rate": 1.512993023818754
+    },
+    {
+      "locality": "Xã Hiển Khánh",
+      "kind": "Xã",
+      "period": "6 tháng đầu năm 2026",
+      "period_months": 6,
+      "count": 16,
+      "unit": "hồ sơ chuyển mục đích đã giải quyết",
+      "annualized_count": 32,
+      "meaning": "Bài thông tin địa phương, không có diện tích và chưa đối chiếu từng quyết định; không coi là số của Duy Tân.",
+      "source_url": "https://hienkhanh.ninhbinh.gov.vn/en/xa-hien-khanh-tap-trung-phat-trien-kinh-te-tao-dong-luc-moi-phat-trien-ben-vung",
+      "local_file": "documents/nguon_web/quota_comparison_hienkhanh_h1_2026.html",
+      "source_date": "",
+      "status": "official_web_report",
+      "demographics": {
+        "locality": "Xã Hiển Khánh",
+        "households": 8786,
+        "population": 30210,
+        "source_url": "https://hienkhanh.ninhbinh.gov.vn/xa-hien-khanh-xay-dung-phuong-an-sap-xep-to-chuc-lai-thon-xom-tu-32-thon-xuong-con-12-thon",
+        "local_file": "documents/nguon_web/hienkhanh_demographics_2026.html",
+        "published_date": "2026-06-14",
+        "modified_date": "2026-07-16",
+        "source_period_label": "Bài công bố 14/06/2026, cập nhật 16/07/2026",
+        "status": "official_locality_publication",
+        "caveat": "Quy mô trong phương án sắp xếp thôn năm 2026; không trộn với nguồn tháng 3/2026 từng ghi 8.560 hộ. Bài không ghi ngày chốt sổ thống kê riêng.",
+        "source_sha256": "5afb73bf63e39221a9fef33076053c4a889e95ecf8ed41dc873c59ee335d050b"
+      },
+      "cases_per_1000_households_period": 1.821078989301161,
+      "cases_per_1000_households_month": 0.3035131648835268,
+      "capacity_to_observed_rate": 20.594748526229385
+    }
+  ],
+  "projection": {
+    "source_locality": "Xã Khánh Thiện",
+    "source_count": 82,
+    "source_period_months": 3,
+    "period_start": "2026-01-01",
+    "period_end": "2030-12-31",
+    "annual_cases": 328,
+    "period_cases": 1640,
+    "mean_m2": 150,
+    "area_ha": 24.6,
+    "province_rank_confirmed": false,
+    "ranking_scope": "Ba nguồn đối chiếu trong hồ sơ; khác kỳ và cách ghi nhận"
+  }
+}

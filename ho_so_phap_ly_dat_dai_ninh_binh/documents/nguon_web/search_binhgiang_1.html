@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html  lang="vi">
+ 
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=1"
+        name="viewport" />
+    <meta name="csrf-token" content="kZptkZTCzLgGtySgSnWWvU8mpssyLjDL00pQwlhJ" />
+    <!-- Material Symbols -->
+    <style>
+        :root {
+            --primary-color: rgb(204, 0, 0);
+            --secondary-color: rgb(153, 28, 26);
+            --text-color: #3F3F46;
+            --background-image-banner: url(https://s3-cdn.ninhbinh.gov.vn/nbportalcdn/tenant-binhgiang1/anh-chup-man-hinh-2026-08-14-151025-1786695048-182497.png);
+        }
+    </style>
+    <title>Văn bản điều hành</title>
+<meta name="description" content="Danh sách văn bản điều hành">
+<meta name="DC.Title" content="Văn bản điều hành">
+<meta name="DC.Subject" content="Văn bản điều hành">
+<meta name="DC.Description" content="Danh sách văn bản điều hành">
+<meta name="DC.Language" scheme="ISO639-2" content="vie">
+<meta name="DC.Publisher" content="http://binhgiang.ninhbinh.gov.vn">
+<meta name="DC.Identifier" content="http://binhgiang.ninhbinh.gov.vn">
+<meta name="DC.Creator" content="Xã Bình Giang">
+<meta name="DC.Date" scheme="ISO8601" content="2026-10-19T15-55-37">
+<meta property="og:site_name" content="Trang thông tin điện tử Xã Bình Giang">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Văn bản điều hành">
+<meta property="og:description" content="Danh sách văn bản điều hành">
+<meta property="og:image" content="https://s3-cdn.ninhbinh.gov.vn/nbportalcdn/tenant-binhgiang1/anh-chup-man-hinh-2025-10-17-101532-1.png">
+<meta name="twitter:title" content="Văn bản điều hành">
+<meta name="twitter:description" content="Danh sách văn bản điều hành">
+
+    <link rel="icon" type="image/x-icon" href="https://s3-cdn.ninhbinh.gov.vn/nbportalcdn/tenant-binhgiang1/514647207-742161434868804-6136962715294651018-n.jpg">
+
+
+
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap" rel="stylesheet" type="text/css"><style>:root{--primary-font: "Roboto", sans-serif;--h1-size: 28px;--h2-size: 24px;--h3-size: 22px;--h4-size: 20px;--h5-size: 18px;--h6-size: 16px;--body-size: 14px;}h1{font-size: var(--h1-size);}h2{font-size: var(--h2-size);}h3{font-size: var(--h3-size);}h4{font-size: var(--h4-size);}h5{font-size: var(--h5-size);}h6{font-size: var(--h6-size);}body{font-size: var(--body-size);}</style>
+
+
+<link media="all" type="text/css" rel="stylesheet" href="https://binhgiang.ninhbinh.gov.vn/vendor/core/plugins/language/css/language-public.css?v=2.2.0">
+<link media="all" type="text/css" rel="stylesheet" href="https://binhgiang.ninhbinh.gov.vn/themes/ninhbinhportal/css/swiper-bundle.min.css?v=7.5.8">
+<link media="all" type="text/css" rel="stylesheet" href="https://binhgiang.ninhbinh.gov.vn/themes/ninhbinhportal/css/app.css?v=7.5.8">
+<link media="all" type="text/css" rel="stylesheet" href="https://binhgiang.ninhbinh.gov.vn/themes/ninhbinhportal/css/Merriweather.css?v=7.5.8">
+
+
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https:\/\/binhgiang.ninhbinh.gov.vn"},{"@type":"ListItem","position":2,"name":"Trang chủ","item":"https:\/\/binhgiang.ninhbinh.gov.vn"},{"@type":"ListItem","position":3,"name":"Văn bản điều hành","item":"https:\/\/binhgiang.ninhbinh.gov.vn"}]}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","name":"","url":"https:\/\/binhgiang.ninhbinh.gov.vn"}</script>
+
+<style>
+    .preloader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 99999;
+        background-color: rgba(255, 255, 255, .82);
+    }
+
+    .preloader.fade-in {
+        display: none;
+    }
+
+    .preloader-loading {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: block;
+    }
+
+    .preloader-loading::after {
+        content: " ";
+        display: block;
+        border-radius: 50%;
+        border-width: 1px;
+        border-style: solid;
+        animation: preloader-dual-ring .5s linear infinite;
+        width: 40px;
+        height: 40px;
+        border-color: var(--primary-color, #aa0909) transparent var(--primary-color, #aa0909) transparent;
+    }
+
+    @keyframes preloader-dual-ring {
+        0% {
+            transform: rotate(0deg)
+        }
+
+        100% {
+            transform: rotate(360deg)
+        }
+    }
+
+    @-webkit-keyframes preloader-dual-ring {
+        0% {
+            transform: rotate(0deg)
+        }
+
+        100% {
+            transform: rotate(360deg)
+        }
+    }
+
+    @-o-keyframes preloader-dual-ring {
+        0% {
+            transform: rotate(0deg)
+        }
+
+        100% {
+            transform: rotate(360deg)
+        }
+    }
+
+    @-ms-keyframes preloader-dual-ring {
+        0% {
+            transform: rotate(0deg)
+        }
+
+        100% {
+            transform: rotate(360deg)
+        }
+    }
+</style>
+
+<script>
+    window.addEventListener('load', function() {
+        document.getElementById('preloader').classList.add('fade-in');
+    });
+</script>
+
+<div
+    class="preloader"
+    id="preloader"
+>
+    <div class="preloader-loading"></div>
+</div>
+
+
+<script>
+    window.siteUrl = "https://binhgiang.ninhbinh.gov.vn";
+</script>
+
+    </head>
+
+<body  class="binhgiang-page" data-theme="ninhbinhportal" >
+    
+   
+    <div class="web-wrap ">
+        
+    <header>
+        <div class="">
+                            <div class="bannrer-top">
+                    <a href="/">
+                        <img src="https://s3-cdn.ninhbinh.gov.vn/nbportalcdn/tenant-binhgiang1/anh-chup-man-hinh-2026-08-14-151025-1786695048-182497.png" data-bb-lazy="true" class="w-full" loading="lazy" alt="Trang thông tin điện tử Xã Bình Giang">
+                    </a>
+                </div>
+                  
+        <div class="menu-top ">
+            <div class="container">
+                <div class="navbar-wrapper">
+                    <div class="mobile-home">
+                        <a href="/"><svg class="icon  svg-icon-ti-ti-home"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg></a>
+                    </div>
+                    <!-- Mobile menu toggle button (hidden on desktop) -->
+                    
+                    <!-- Main menu (single structure for both desktop and mobile) -->
+                    <nav class="main-navigation">
+                        <ul  class="main-menu">
+            <li class="menu-item menu-item-has-children ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/gioi-thieu" target="_self">
+                
+                <span class="menu-title">Giới thiệu</span>
+
+                 <span class="toggle-icon">
+                    <svg class="icon icon-xs svg-icon-ti-ti-chevron-down"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M6 9l6 6l6 -6" />
+</svg>
+                </span>            </a>
+                            <ul  class="sub-menu">
+            <li class="menu-item ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/co-cau-to-chuc" target="_self">
+                
+                <span class="menu-title">Cơ cấu tổ chức</span>
+
+                            </a>
+                    </li>
+    </ul>
+
+                    </li>
+            <li class="menu-item menu-item-has-children ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/tin-tuc-su-kien" target="_self">
+                
+                <span class="menu-title">Tin tức - Sự kiện</span>
+
+                 <span class="toggle-icon">
+                    <svg class="icon icon-xs svg-icon-ti-ti-chevron-down"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M6 9l6 6l6 -6" />
+</svg>
+                </span>            </a>
+                            <ul  class="sub-menu">
+            <li class="menu-item ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/tin-hoat-dong-ubnd" target="_self">
+                
+                <span class="menu-title">Tin hoạt động - UBND</span>
+
+                            </a>
+                    </li>
+            <li class="menu-item ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/thong-tin-tuyen-truyen" target="_self">
+                
+                <span class="menu-title">Thông tin tuyên truyền</span>
+
+                            </a>
+                    </li>
+            <li class="menu-item ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/tin-hoat-dong-dang-uy" target="_self">
+                
+                <span class="menu-title">Tin hoạt động - Đảng uỷ</span>
+
+                            </a>
+                    </li>
+    </ul>
+
+                    </li>
+            <li class="menu-item menu-item-has-children ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/tra-cuu-thu-tuc-hanh-chinh" target="_self">
+                
+                <span class="menu-title">Thủ tục hành chính</span>
+
+                 <span class="toggle-icon">
+                    <svg class="icon icon-xs svg-icon-ti-ti-chevron-down"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M6 9l6 6l6 -6" />
+</svg>
+                </span>            </a>
+                            <ul  class="sub-menu">
+            <li class="menu-item ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/ket-qua-giai-quyet-tthc-1" target="_self">
+                
+                <span class="menu-title">Kết quả giải quyết TTHC</span>
+
+                            </a>
+                    </li>
+            <li class="menu-item ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/thu-tuc-phi-dia-gioi-hanh-chinh" target="_self">
+                
+                <span class="menu-title">Thủ tục phi địa giới hành chính</span>
+
+                            </a>
+                    </li>
+    </ul>
+
+                    </li>
+            <li class="menu-item ">
+            <a href="https://binhgiang.ninhbinh.gov.vn/lich-lam-viec/lich-cong-tac-ubnd" target="_self">
+                
+                <span class="menu-title">Lịch Công Tác</span>
+
+                            </a>
+                    </li>
+            <li class="menu-item ">
+            <a href="https://www.facebook.com/profile.php?id=61580202097351" target="_self">
+                
+                <span class="menu-title">Phản ánh kiến nghị</span>
+
+                            </a>
+                    </li>
+            <li class="menu-item  active">
+            <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh" target="_self">
+                
+                <span class="menu-title">Hệ Thống văn bản</span>
+
+                            </a>
+                    </li>
+    </ul>
+
+                    </nav>
+                    
+                    <!-- Search button -->
+                    <div class="flex items-center gap-2">
+                        <div class="search-button">
+                        <svg class="icon  svg-icon-ti-ti-search"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+  <path d="M21 21l-6 -6" />
+</svg>                    </div><div class="mobile-toggle">
+                        <button class="toggle-menu-btn py-3 " aria-label="Toggle Menu">
+                            <svg class="icon  svg-icon-ti-ti-menu-2"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M4 6l16 0" />
+  <path d="M4 12l16 0" />
+  <path d="M4 18l16 0" />
+</svg>                        </button>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+
+
+
+    </header>
+
+    <!-- Search Modal -->
+            <div class="search-modal" id="searchModal" data-search-url="https://binhgiang.ninhbinh.gov.vn/ajax/search">
+            <div class="search-modal-overlay"></div>
+            <div class="search-modal-content">
+                <div class="search-modal-header">
+                    <form class="search-form" action="https://binhgiang.ninhbinh.gov.vn/search">
+                        <input type="text" name="q" placeholder="Nhập từ khóa ..." class="search-input" autocomplete="off">
+                        <button type="submit" class="search-submit-btn" aria-label="Search">
+                             <svg class="icon  svg-icon-ti-ti-search" width="16" height="16"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+  <path d="M21 21l-6 -6" />
+</svg>                        </button>
+                    </form>
+                    <button class="search-close-btn" aria-label="Close Search">
+                       <svg class="icon  svg-icon-ti-ti-x" width="16" height="16"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M18 6l-12 12" />
+  <path d="M6 6l12 12" />
+</svg>                    </button>
+                </div>
+                <div class="search-results"></div>
+            </div>
+        </div>
+    
+
+       
+
+<section class="breadcrumb-section">
+    <div class="container">
+                    <nav
+                class="d-inline-block"
+                aria-label="breadcrumb"
+            >
+                <ol class="breadcrumb">
+                                                                        <li class="breadcrumb-item">
+                                <a
+                                    href="https://binhgiang.ninhbinh.gov.vn"
+                                    title="Trang chủ"
+                                >
+                                    <div class="line-clamp-1">Trang chủ</div>
+                                </a>
+                            </li>
+                                                                                                <li class="breadcrumb-item active">
+                                <span>
+                                    Văn bản điều hành
+                                </span>
+                            </li>
+                                                            </ol>
+            </nav>
+            </div>
+</section>
+
+
+
+<div class="container">
+    <div class="grid grid-cols-1 md:grid-cols-[1fr_300px] gap-4">
+
+        <div class="document-archive">
+            <div class="page-head">
+                <h1> <svg class="icon  svg-icon-ti-ti-file-type-pdf"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M14 3v4a1 1 0 0 0 1 1h4" />
+  <path d="M5 12v-7a2 2 0 0 1 2 -2h7l5 5v4" />
+  <path d="M5 18h1.5a1.5 1.5 0 0 0 0 -3h-1.5v6" />
+  <path d="M17 18h2" />
+  <path d="M20 15h-3v6" />
+  <path d="M11 15v6h1a2 2 0 0 0 2 -2v-2a2 2 0 0 0 -2 -2h-1z" />
+</svg>                    <span>
+                                                Văn Bản Điều hành
+                    </span>
+                </h1>
+            </div>
+            <form method="GET" action="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh">
+                <div class="document-filter-form space-y-2">
+                    <div class="document-filter-form-title">Tìm kiếm văn bản</div>
+                    <div class="flex items-center gap-2">
+                        <input class="form-field grow" type="text" name="search"
+                            placeholder="Tìm kiếm văn bản với từ khóa" value="chuyển">
+                        <button class="success-button shrink-0 hidden md:block ">
+                            Tìm kiếm
+                        </button>
+                        <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh"
+                            class="bg-primary border-primary border   text-white shrink-0 px-3 py-2 rounded-md hover:bg-white hover:text-primary hidden md:block">Xóa bộ lọc</a>
+
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 ">
+                        <div class="grid grid-cols-1 gap-2">
+                            <label for="agency">Cơ quan ban hành</label>
+                            <select class="form-field" id="agency_id" name="agency_id">
+                                <option value="">Tất cả cơ quan</option>
+                                                                    <option value="505"
+                                        >
+                                        Hội đồng xét thăng hạng UBND xã Bình Giang</option>
+                                                                    <option value="170"
+                                        >
+                                        UBND XÃ</option>
+                                                                    <option value="313"
+                                        >
+                                        UỶ BAN BẦU CỬ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN XÃ BÌNH GIANG NHIỆM KỲ 2026-2031</option>
+                                                            </select>
+                        </div>
+
+
+                        <div class="grid grid-cols-1 gap-2">
+                            <label for="type_id">Loại văn bản</label>
+                            <select name="type_id" class="form-control form-field">
+                                <option value="">Tất cả loại văn bản</option>
+                                                                    <option value="440" >
+                                        Báo cáo
+                                    </option>
+                                                                    <option value="186" >
+                                        Kế hoạch
+                                    </option>
+                                                                    <option value="349" >
+                                        Nghị quyết
+                                    </option>
+                                                                    <option value="187" >
+                                        Quyết định
+                                    </option>
+                                                                    <option value="343" >
+                                        Thông báo
+                                    </option>
+                                                                    <option value="346" >
+                                        Thông báo
+                                    </option>
+                                                            </select>
+                        </div>
+                        <div class="grid grid-cols-1 gap-2">
+                            <label for="class_id">Lớp văn bản</label>
+                            <select name="class_id" class="form-control form-field">
+                                <option value="">Tất cả lớp văn bản</option>
+                                                            </select>
+
+                        </div>
+                    </div>
+                    <div class="flex justify-end gap-2">
+                         <button class="success-button shrink-0  md:hidden ">
+                            Tìm kiếm
+                        </button>
+                        <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh"
+                            class="bg-primary border-primary border   text-white shrink-0 px-3 py-2 rounded-md hover:bg-white hover:text-primary md:hidden">Xóa bộ lọc</a>
+                    </div>
+                </div>
+            </form>
+            <div class="documents-list overflow-x-scroll">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="text-nowrap">Số ký hiệu</th>
+                            <th>Trích yếu</th>
+                            <th class="text-nowrap"> Nội dung chi tiết</th>
+                            <th class="text-nowrap">Ngày ban hành</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                                                                                    <tr>
+                                    <td> <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/7154"
+                                            class="hover:text-ctext-red font-bold text-nowrap">51/KH-UBND (năm 2026)</a>
+                                    </td>
+                                    <td> <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/7154">Kế hoạch chuyển đổi số năm 2026</a></td>
+                                    <td >
+                                   
+                                     <div class="flex items-center justify-center">
+                                           <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/7154"
+                                            class="outline-primary-button text-nowrap flex items-center gap-2  "> <span
+                                                class="hidden md:inline-block">Xem chi tiết</span> <i
+                                                class="ti-arrow-circle-right"></i></a>
+                                     </div>
+                                    </td>
+                                    <td> 01/04/2026</td>
+                                                            <tr>
+                                    <td> <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1487"
+                                            class="hover:text-ctext-red font-bold text-nowrap">40/KH-UBND</a>
+                                    </td>
+                                    <td> <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1487">Kế hoạch tuyên truyền hưởng ứng ngày chuyển đổi số quốc gia 2025</a></td>
+                                    <td >
+                                   
+                                     <div class="flex items-center justify-center">
+                                           <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1487"
+                                            class="outline-primary-button text-nowrap flex items-center gap-2  "> <span
+                                                class="hidden md:inline-block">Xem chi tiết</span> <i
+                                                class="ti-arrow-circle-right"></i></a>
+                                     </div>
+                                    </td>
+                                    <td> 03/10/2025</td>
+                                                            <tr>
+                                    <td> <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1481"
+                                            class="hover:text-ctext-red font-bold text-nowrap">1175/QĐ-UBND</a>
+                                    </td>
+                                    <td> <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1481">Quyết định thành lập Ban Chỉ đạo xã về phát triển khoa học, công nghệ, 
+đổi mới sáng tạo, chuyển đổi số và Đề án 06 xã Bình Giang</a></td>
+                                    <td >
+                                   
+                                     <div class="flex items-center justify-center">
+                                           <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1481"
+                                            class="outline-primary-button text-nowrap flex items-center gap-2  "> <span
+                                                class="hidden md:inline-block">Xem chi tiết</span> <i
+                                                class="ti-arrow-circle-right"></i></a>
+                                     </div>
+                                    </td>
+                                    <td> 12/09/2025</td>
+                                                            <tr>
+                                    <td> <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1477"
+                                            class="hover:text-ctext-red font-bold text-nowrap">23/KH-UBND</a>
+                                    </td>
+                                    <td> <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1477">Kế hoạch Chuyển đổi số 6 tháng cuối năm 2025 của xã Bình Giang</a></td>
+                                    <td >
+                                   
+                                     <div class="flex items-center justify-center">
+                                           <a href="https://binhgiang.ninhbinh.gov.vn/van-ban-dieu-hanh/1477"
+                                            class="outline-primary-button text-nowrap flex items-center gap-2  "> <span
+                                                class="hidden md:inline-block">Xem chi tiết</span> <i
+                                                class="ti-arrow-circle-right"></i></a>
+                                     </div>
+                                    </td>
+                                    <td> 10/09/2025</td>
+                                                        </tr>
+                                                                        </tbody>
+                </table>
+            </div>
+
+        </div>
+
+        <div class="main-sidebar">
+            <div class="sticky top-0 space-y-4">
+    
+
+<div class="sidebar-block document-types-block">
+    <div class="sidbar-block-tite">
+        <h3>
+            <span class="icon">
+                
+            </span>
+            <span>Loại văn bản</span>
+        </h3>
+    </div>
+    <div class="sidbar-block-content">
+        <ul class="sidebar-menu">
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&type_id=440">
+                        Báo cáo
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&type_id=186">
+                        Kế hoạch
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&type_id=349">
+                        Nghị quyết
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&type_id=187">
+                        Quyết định
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&type_id=343">
+                        Thông báo
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&type_id=346">
+                        Thông báo
+                                            </a>
+                </li>
+                    </ul>
+    </div>
+</div>
+
+
+
+<div class="sidebar-block document-agencies-block">
+    <div class="sidbar-block-tite">
+        <h3>
+            <span class="icon">
+            </span>
+            <span>Cơ quan ban hành</span>
+        </h3>
+    </div>
+    <div class="sidbar-block-content">
+        <ul class="sidebar-menu">
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&agency_id=505">
+                        Hội đồng xét thăng hạng UBND xã Bình Giang
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&agency_id=170">
+                        UBND XÃ
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/van-ban-dieu-hanh?search=&agency_id=313">
+                        UỶ BAN BẦU CỬ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN XÃ BÌNH GIANG NHIỆM KỲ 2026-2031
+                                            </a>
+                </li>
+                    </ul>
+    </div>
+</div>
+
+
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+<div class="grid grid-cols-2 gap-2 md:grid-cols-4 md:gap-4"></div>
+            <div class="grid grid-cols-2 gap-2 md:grid-cols-5 md:gap-4"></div>
+            <footer class="bg-primary bg-trongdong2 bg-no-repeat bg-center bg-cover ">
+                <div class="container space-y-8">
+                    <div class="footer-nav hidden">
+                        <ul>
+                            <li><span class="material-symbols-outlined">
+                                    home
+                                </span><a href="">Trang chủ</a></li>
+                            <li><span class="material-symbols-outlined">
+                                    question_exchange
+                                </span><a href="">Hỏi đáp</a></li>
+                            <li><span class="material-symbols-outlined">
+                                    question_exchange
+                                </span><a href="">Thư điện tử</a></li>
+                            <li><span class="material-symbols-outlined">
+                                    graph_2
+                                </span><a href="">Sơ đồ cổng</a></li>
+                            <li><span class="material-symbols-outlined">
+                                    article_person
+                                </span><a href="">Liên hệ - Góp ý</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-info-wrap">
+                        <div class="footer-info">
+                            <div class="footer-title">Trang thông tin điện tử Xã Bình Giang</div>
+                            <div class="xb_info">
+                                <p>Trường Ban biên tập: Nguyễn Trọng Tuấn - Phó Chủ tịch UBND xã</p><p> </p>
+                            </div>
+                            <div class="list-social-link">
+                            <a href=""><img class="h-10" src="/themes/ninhbinhportal/images/handle_cert.png" alt=""></a>
+                            <a href="#"><img class="h-10" src="/themes/ninhbinhportal/images/button-ipv6-small.png"
+                                    alt=""></a>
+                            <a href="https://www.facebook.com/profile.php?id=61580202097351" class="fa-icon fa-brands fa-facebook-f"> <svg class="icon  svg-icon-ti-ti-brand-facebook"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
+</svg>  </a>
+                            <a href="" class="fa-icon fa-brands fa-youtube"> <svg class="icon  svg-icon-ti-ti-brand-youtube"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M2 8a4 4 0 0 1 4 -4h12a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12a4 4 0 0 1 -4 -4v-8z" />
+  <path d="M10 9l5 3l-5 3z" />
+</svg></a>
+                                                       
+                        </div>
+
+                        </div>
+                        <div class="footer-contact">
+                            <div class="footer-title">Liên hệ</div>
+                            <div class="footer-contact-info">
+                                <ul>
+                                    <li>
+                                        <svg class="icon  svg-icon-ti-ti-map-2"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 18.5l-3 -1.5l-6 3v-13l6 -3l6 3l6 -3v7.5" />
+  <path d="M9 4v13" />
+  <path d="M15 7v5.5" />
+  <path d="M21.121 20.121a3 3 0 1 0 -4.242 0c.418 .419 1.125 1.045 2.121 1.879c1.051 -.89 1.759 -1.516 2.121 -1.879z" />
+  <path d="M19 18v.01" />
+</svg>                                        <a href="">Xã Bình Giang, Tỉnh Ninh Bình</a>
+                                    </li>
+                                    <li>
+                                        <svg class="icon  svg-icon-ti-ti-device-mobile-vibration"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M3 3m0 2a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2z" />
+  <path d="M8 4l2 0" />
+  <path d="M9 17l0 .01" />
+  <path d="M21 6l-2 3l2 3l-2 3l2 3" />
+</svg>                                        <a href=""></a>
+                                    </li>
+                                    <li>
+                                         <svg class="icon  svg-icon-ti-ti-mail"
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" />
+  <path d="M3 7l9 6l9 -6" />
+</svg>                                        <a
+                                            href="mail:tuannt.xabinhgiang@ninhbinh.gov.vn">tuannt.xabinhgiang@ninhbinh.gov.vn</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <p></p>
+            </footer>
+
+
+         
+            </div>
+                        
+<script type="text/javascript"> var _govaq=window._govaq||[];_govaq.push(["trackPageView"]),_govaq.push(["enableLinkTracking"]),function(){_govaq.push(["setTrackerUrl","https://f-emc.ngsp.gov.vn/tracking"]),_govaq.push(["setSiteId","000"]);var e=document,t=e.createElement("script"),a=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=!0,t.defer=!0,t.src="https://f-emc.ngsp.gov.vn/embed/gov-tracking.min.js",a.parentNode.insertBefore(t,a)}();</script>
+               
+            
+
+            
+            
+            <script data-pagespeed-no-defer="1" src="https://binhgiang.ninhbinh.gov.vn/themes/ninhbinhportal/libraries/jquery.min.js"></script>
+<script src="https://binhgiang.ninhbinh.gov.vn/themes/ninhbinhportal/js/pdf-viewer.js?v=7.5.8"></script>
+<script src="https://binhgiang.ninhbinh.gov.vn/themes/ninhbinhportal/js/poll-widget.js?v=7.5.8"></script>
+<script src="https://binhgiang.ninhbinh.gov.vn/themes/ninhbinhportal/js/swiper-bundle.min.js?v=7.5.8"></script>
+<script src="https://binhgiang.ninhbinh.gov.vn/themes/ninhbinhportal/js/app-script.js?v=7.5.8"></script>
+<script src="https://binhgiang.ninhbinh.gov.vn/vendor/core/plugins/language/js/language-public.js?v=2.2.0"></script>
+
+
+
+
+
+<script src="https://binhgiang.ninhbinh.gov.vn/vendor/core/packages/theme/js/toast.js?v=7.5.8"></script>
+
+    
+
+                        
+                        </body>
+
+            </html>
+

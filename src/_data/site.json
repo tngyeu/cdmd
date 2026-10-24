@@ -1,0 +1,16 @@
+{
+  "name": "Sổ tay đất đai",
+  "location": "Ninh Bình",
+  "cutoff": "20/10/2026",
+  "description": "Một nơi để hiểu thủ tục, theo dõi hồ sơ và tra cứu căn cứ về chuyển mục đích sử dụng đất tại Ninh Bình.",
+  "navigation": [
+    { "label": "Bắt đầu", "url": "/", "icon": "home", "key": "home" },
+    { "label": "Thủ tục & biểu mẫu", "url": "/thu-tuc/", "icon": "route", "key": "procedure" },
+    { "label": "Hồ sơ Duy Tân", "url": "/ho-so-duy-tan/", "icon": "folder", "key": "case" },
+    { "label": "Chuẩn bị phản hồi", "url": "/ho-so-duy-tan/chuan-bi-phan-hoi/", "icon": "shield", "key": "response" },
+    { "label": "Hồ sơ pháp lý", "url": "/phap-ly/", "icon": "book", "key": "legal" },
+    { "label": "Quyết định công khai", "url": "/quyet-dinh/", "icon": "table", "key": "decisions" },
+    { "label": "Chỉ tiêu đất ở 2030", "url": "/chi-tieu/", "icon": "chart", "key": "quota" },
+    { "label": "Hỏi đáp", "url": "/hoi-dap/", "icon": "help", "key": "faq" }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "reviewed_on": "2026-10-22",
+  "report": "reports/sau_chuyen_don_tinh_20261022.md",
+  "actual_referral_or_response_received": false,
+  "new_source": {
+    "document": "Thông tư 05/2021/TT-TTCP",
+    "issued_on": "2021-10-01",
+    "effective_from": "2021-11-15",
+    "filename": "tt05_2021_xu_ly_don.pdf",
+    "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/10/05-ttcp.pdf",
+    "metadata_url": "https://vanban.chinhphu.vn/default.aspx?docid=204278&pageid=27160",
+    "history_url": "https://vbpl.moj.gov.vn/thanhtrachinhphu/Pages/vbpq-lichsu.aspx?ItemID=153688&Keyword=&dvid=327",
+    "relationship_url": "https://vbpl.moj.gov.vn/thanhtrachinhphu/Pages/vbpq-luocdo.aspx?ItemID=153688&Keyword=",
+    "bytes": 5277382,
+    "pages": 18,
+    "sha256": "2782f626d667fb3e155b895421b42b4d0b4d3a929b7afd689a7d123e78719354",
+    "provisions_used": [
+      { "provision": "Article 6 clause 1", "pdf_pages": [3] },
+      { "provision": "Article 20", "pdf_pages": [9] },
+      { "provision": "Article 29", "pdf_pages": [11, 12] },
+      { "provision": "Article 30 clause 2, provincial reception board only", "pdf_pages": [12] }
+    ],
+    "visual_review_pages": [3, 9, 11, 12],
+    "validity_check": "Official government metadata and original PDF checked. National database search-index history reports still in force and relationship index shows no amendments/repeal, but direct history retrieval failed with HTTP 502; indexes were crawled months earlier. Targeted official-domain amendment/repeal searches found no relevant modifying document. This is not a comprehensive or fresh full validity certification.",
+    "limits": "No district-level route inferred from the original 2021 text. No universal reply deadline inferred. No assertion that forwarding means the province agrees or that an unchanged conclusion proves noncompliance."
+  },
+  "reused_sources": [
+    {
+      "document": "Luật 72/2025/QH15",
+      "provisions": "Article 17 clauses 4 and 15",
+      "provenance": "data/province_petition_sources_20261022.json",
+      "purpose": "Provincial chair oversight; not substitution of land-permit authority."
+    },
+    {
+      "document": "Luật Khiếu nại, VBHN 28/VBHN-VPQH dated 2026-03-13",
+      "filename": "vbhn28_2026_luat_khieu_nai.pdf",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/28-vbhn-vpqh.pdf",
+      "reread_pdf_pages": [16, 20, 21],
+      "focus": "Articles 29, 38-42: verification assignment, competent resolver's decision, and subsequent court route.",
+      "provenance": "data/escalation_sources_20261022.json"
+    },
+    {
+      "document": "Luật Tố tụng hành chính, VBHN 13/VBHN-VPQH dated 2026-02-06",
+      "provenance": "data/escalation_sources_20261022.json",
+      "purpose": "Identify actual administrative decision/action and preserve limitation periods; existing conditional route table reused."
+    }
+  ],
+  "scope_limits": [
+    "Not a full re-audit of all land-law amendments or judicial jurisdiction boundaries.",
+    "No verified provincial submission channel or special deadline for this management petition.",
+    "The default prepared letter is not a substitute for a formal complaint or a submission in an admitted complaint proceeding; classification depends on actual content and purpose.",
+    "The initial 106-square-metre application has not been verified as formally amended; the 50-square-metre boundary and GCN remain unverified."
+  ]
+}

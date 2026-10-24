@@ -1,0 +1,33 @@
+{
+  "document_id": "NB-DA08-2026",
+  "source_url": "https://ninhbinh.gov.vn/?pageid=27160&p_steering=47854",
+  "local_file": "documents/phap_luat/land_fund_project_08_2026_original.pdf",
+  "sha256": "388d6ae675d5d4472de19b5404676706f88e776f30ea4b160c36e1c18b5f62f6",
+  "checked_on": "2026-10-19",
+  "pdf_pages": 11,
+  "visual_pages": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    10,
+    11
+  ],
+  "identity": {
+    "number": "08/ĐA-UBND",
+    "issued_date": "2026-07-29"
+  },
+  "interpretation": {
+    "assessment": "Tín hiệu chủ trương tích cực để triển khai nhóm giao đất/chuyển mục đích phù hợp; yêu cầu rút ngắn thủ tục đi cùng điều kiện quy hoạch và pháp luật.",
+    "basis": "Mục II.2, III và VI.9; đọc cùng mức tăng ODT 50,26 ha trong phụ lục Duy Tân của bộ 3279.",
+    "quota_scope": "Mức tăng cho thấy dư địa quy hoạch đáng kể so với 106 m². Chưa có chứng cứ đã hết chỉ tiêu; số còn khả dụng cần đối chiếu thực hiện/phân bổ khi được viện dẫn.",
+    "project_scope": "Mục VI.4 về tham mưu điều chỉnh chỉ tiêu có phạm vi dự án trọng điểm và dự án tạo nguồn thu; chưa phải cam kết phân bổ cho hồ sơ hộ cá nhân."
+  },
+  "limitations": [
+    "Tệp không gồm các Biểu 1–5B được viện dẫn.",
+    "Chưa có phân bổ riêng cho Duy Tân.",
+    "Trang cuối in tên người ký, không có ảnh chữ ký/dấu.",
+    "Không dùng ngày hiệu lực metadata thay điều khoản hiệu lực chưa đọc được."
+  ]
+}

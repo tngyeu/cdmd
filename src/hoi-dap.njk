@@ -1,0 +1,11 @@
+---
+layout: base.njk
+title: Hỏi đáp để trao đổi hồ sơ
+permalink: /hoi-dap/index.html
+navKey: faq
+eyebrow: 22 TÌNH HUỐNG · CÂU HỎI CÓ CĂN CỨ
+description: Tìm tình huống bạn đang gặp, đọc cách hiểu và câu hỏi làm rõ. Nội dung bám phạm vi nghiên cứu hồ sơ 106 m² tại Duy Tân.
+pageScript: faq
+---
+<form id="faq-filters" class="filter-bar" role="search" aria-label="Tìm câu hỏi"><label class="search-field">{% icon "search" %}<input type="search" name="q" placeholder="Tìm tình huống: hạn mức, hết chỉ tiêu, chờ hồ sơ…" aria-label="Tìm câu hỏi và câu trả lời"></label><label><span class="sr-only">Nhóm câu hỏi</span><select name="topic"><option value="">Mọi nhóm câu hỏi</option><option value="han-muc">Hạn mức & diện tích</option><option value="chi-tieu">Chỉ tiêu & quy hoạch</option><option value="tai-chinh">Tài chính & ngân sách</option><option value="trao-doi">Tiến độ & cách trao đổi</option></select></label><button type="reset" class="reset-button">Đặt lại</button></form><div class="results-line"><span id="faq-count" role="status">22 tình huống</span><div class="button-group"><button class="text-button" id="faq-expand" type="button">Mở tất cả kết quả</button><button class="text-button" id="faq-collapse" type="button">Thu gọn</button></div></div>
+<div class="faq-list">{% for item in research.faq %}<details class="disclosure faq-item" id="{{ item.id }}" data-topic="{{ item.topic }}"><summary><span class="faq-number">{{ loop.index }}</span><span>{{ item.title }}</span></summary><div class="prose disclosure-content">{{ item.html | safe }}</div></details>{% endfor %}</div><div class="empty-state" id="faq-empty" hidden>{% icon "search" %}<h3>Chưa có tình huống khớp từ khóa</h3><p>Thử tìm “chỉ tiêu”, “hạn mức”, “hồ sơ” hoặc bỏ bộ lọc.</p></div>

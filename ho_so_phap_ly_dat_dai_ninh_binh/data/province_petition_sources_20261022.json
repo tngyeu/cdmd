@@ -1,0 +1,27 @@
+{
+  "retrieved_on": "2026-10-22",
+  "document": "Luật 72/2025/QH15",
+  "issued_on": "2025-06-16",
+  "effective_from": "2025-06-16",
+  "filename": "luat72_2025_chinh_quyen_dia_phuong.pdf",
+  "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/2025_807-808_72-2025-qh15..pdf",
+  "metadata_url": "https://vanban.chinhphu.vn/?classid=1&docid=214553&pageid=27160&typegroupid=3",
+  "html_url": "https://xaydungchinhsach.chinhphu.vn/toan-van-luat-so-72-2025-qh15-to-chuc-chinh-quyen-dia-phuong-119250618161434371.htm",
+  "sha256": "da82939331f3a38f00d8ce9073e223586222b6ff02ac651f9b1e3b62319f84bf",
+  "pages": 61,
+  "article17_start_pdf_pages": [
+    19
+  ],
+  "review_scope": "Targeted review of Article 17 clauses 4 and 15 for provincial chair supervision; not a full audit of the Act or current local submission channels.",
+  "reviewed_provisions": [
+    "Article 17 clause 4",
+    "Article 17 clause 15"
+  ],
+  "visual_pages": [
+    20,
+    21
+  ],
+  "pagination_note": "PDF pages 20 and 21 correspond to printed Cong bao pages 27 and 28.",
+  "report": "reports/de_nghi_tinh_kiem_tra_50m2_20261022.md",
+  "retrieval_limits": "Targeted official-source search; no comprehensive amendment audit. The national database history/details pages were unavailable on direct open (403/502), so the report does not treat them as a fresh full validity confirmation."
+}

@@ -1,0 +1,18 @@
+---
+pagination:
+  data: aliases
+  size: 1
+  alias: legacy
+aliases:
+  - path: /ho_so_phap_ly_dat_dai_ninh_binh/index.html
+    target: /
+  - path: /ho_so_phap_ly_dat_dai_ninh_binh/chi_tieu_dat_o_2030.html
+    target: /chi-tieu/
+  - path: /nghien_cuu_quy_trinh/nghien_cuu_quy_trinh_chuyen_muc_dich_dat_chuyen_sau.html
+    target: /thu-tuc/nghien-cuu/
+eleventyComputed:
+  permalink: "{{ legacy.path }}"
+eleventyExcludeFromCollections: true
+---
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Nội dung đã chuyển vào Sổ tay đất đai</title><link rel="canonical" href="{{ legacy.target }}"></head><body><main id="noi-dung"><h1>Nội dung đã được sắp xếp lại</h1><p><a href="{{ legacy.target }}">Mở nội dung trong Sổ tay đất đai</a></p></main><script>const routes={overview:'/', 'duy-tan':'/ho-so-duy-tan/', decisions:'/quyet-dinh/', 'decisions-list':'/quyet-dinh/', 'decisions-localities':'/quyet-dinh/#theo-dia-phuong', 'decisions-notes':'/quyet-dinh/ghi-chu/', legal:'/phap-ly/', budget:'/ngan-sach/', gaps:'/nguon-va-gioi-han/', qa:'/hoi-dap/'};location.replace(routes[location.hash.slice(1)]||'{{ legacy.target }}');</script></body></html>

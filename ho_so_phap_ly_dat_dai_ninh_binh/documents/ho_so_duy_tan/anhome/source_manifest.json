@@ -1,0 +1,33 @@
+[
+  {
+    "source_path": "D:\\Workspace\\Anhome\\01-nguon\\ban-ve\\20260404 - Layout chỉ dẫn.pdf",
+    "local_file": "layout_20260404.pdf",
+    "sha256": "9cecabb7eb116e2338eb2363fa9701b669d3849043835805f3a7d9d73bd4348b",
+    "visually_checked_pages": [
+      1
+    ],
+    "checked_on": "2026-10-20",
+    "role": "Architectural drawing; not cadastral boundary evidence"
+  },
+  {
+    "source_path": "D:\\Workspace\\Anhome\\01-nguon\\ban-ve\\20260423 Gửi Ánh.pdf",
+    "local_file": "layout_20260423.pdf",
+    "sha256": "b50d8fa010246ab2e87c73f945cfb348da56d0bc4f379f5ca69e028923a8f94e",
+    "visually_checked_pages": [
+      1,
+      2
+    ],
+    "checked_on": "2026-10-20",
+    "role": "Architectural drawing; not cadastral boundary evidence"
+  },
+  {
+    "source_path": "D:\\Workspace\\Anhome\\01-nguon\\ban-ve\\Gửi Ánh 2012.pdf",
+    "local_file": "layout_legacy_2012.pdf",
+    "sha256": "ac545af5138293d177e97ebbf58fae3dafe59c0d304c23f9d51901f49d2fe5e8",
+    "visually_checked_pages": [
+      1
+    ],
+    "checked_on": "2026-10-20",
+    "role": "Historical drawing; date not inferred from filename"
+  }
+]

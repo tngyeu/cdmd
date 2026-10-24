@@ -1,0 +1,293 @@
+{
+  "checked_on": "2026-10-21",
+  "baseline_records": 438,
+  "added_records": 8,
+  "reviewed_records": 14,
+  "additional_verified_area_m2": "1604.3",
+  "records": [
+    {
+      "decision_id": "phuongnamhoalu|2117/QĐ-UBND|2026-08-04",
+      "added_record": true,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-48.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2118_2026-08-04.pdf",
+      "sha256": "a23c43ae31301c01b9fcdd22f6db96642614c06ee73b33e77c6fbe6ef1a71a32",
+      "page_start": 1,
+      "page_end": 2,
+      "article_page": 1,
+      "area_m2": "240",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "193.7"
+        },
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "46.3"
+        }
+      ],
+      "land_price_vnd_m2": "2000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2118/QĐ-UBND|2026-08-04",
+      "added_record": false,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-48.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2118_2026-08-04.pdf",
+      "sha256": "a23c43ae31301c01b9fcdd22f6db96642614c06ee73b33e77c6fbe6ef1a71a32",
+      "page_start": 3,
+      "page_end": 4,
+      "article_page": 3,
+      "area_m2": "199",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "199"
+        }
+      ],
+      "land_price_vnd_m2": "800000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2187/QĐ-UBND|2026-08-18",
+      "added_record": true,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-63.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+      "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+      "page_start": 1,
+      "page_end": 3,
+      "article_page": 2,
+      "area_m2": "167.8",
+      "components": [
+        {
+          "land_before": "HNK",
+          "land_after": "ODT",
+          "area_m2": "167.8"
+        }
+      ],
+      "land_price_vnd_m2": "3000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2189/QĐ-UBND|2026-08-18",
+      "added_record": true,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-63.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+      "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+      "page_start": 4,
+      "page_end": 6,
+      "article_page": 5,
+      "area_m2": "119.8",
+      "components": [
+        {
+          "land_before": "HNK",
+          "land_after": "ODT",
+          "area_m2": "119.8"
+        }
+      ],
+      "land_price_vnd_m2": "3000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2190/QĐ-UBND|2026-08-18",
+      "added_record": true,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-63.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+      "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+      "page_start": 7,
+      "page_end": 9,
+      "article_page": 8,
+      "area_m2": "56.1",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "56.1"
+        }
+      ],
+      "land_price_vnd_m2": "3000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2191/QĐ-UBND|2026-08-18",
+      "added_record": true,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-63.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+      "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+      "page_start": 10,
+      "page_end": 12,
+      "article_page": 11,
+      "area_m2": "134.7",
+      "components": [
+        {
+          "land_before": "HNK",
+          "land_after": "ODT",
+          "area_m2": "134.7"
+        }
+      ],
+      "land_price_vnd_m2": "3000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2192/QĐ-UBND|2026-08-18",
+      "added_record": true,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-63.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+      "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+      "page_start": 13,
+      "page_end": 15,
+      "article_page": 14,
+      "area_m2": "29.2",
+      "components": [
+        {
+          "land_before": "HNK",
+          "land_after": "ODT",
+          "area_m2": "29.2"
+        }
+      ],
+      "land_price_vnd_m2": "3000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2193/QĐ-UBND|2026-08-18",
+      "added_record": false,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-63.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+      "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+      "page_start": 16,
+      "page_end": 18,
+      "article_page": 17,
+      "area_m2": "59.4",
+      "components": [
+        {
+          "land_before": "HNK",
+          "land_after": "ODT",
+          "area_m2": "59.4"
+        }
+      ],
+      "land_price_vnd_m2": "2000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2620/QĐ-UBND|2026-09-23",
+      "added_record": false,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-104.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2620_2026-09-23.pdf",
+      "sha256": "83ee6497a7316ec970281fdd33dd0906b60b6db67d8804eae2c7742a65474b9c",
+      "page_start": 1,
+      "page_end": 3,
+      "article_page": 2,
+      "area_m2": "167.2",
+      "components": [
+        {
+          "land_before": "HNK",
+          "land_after": "ODT",
+          "area_m2": "167.2"
+        }
+      ],
+      "land_price_vnd_m2": "3000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2702/QĐ-UBND|2026-10-07",
+      "added_record": true,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-111.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2703_2026-10-07.pdf",
+      "sha256": "f87f7a31d8fd844438fe9dbcd139288182a77eb87f4ad0f4758cc474557f9206",
+      "page_start": 1,
+      "page_end": 3,
+      "article_page": 2,
+      "area_m2": "100",
+      "components": [
+        {
+          "land_before": "HNK",
+          "land_after": "ODT",
+          "area_m2": "77"
+        },
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "23"
+        }
+      ],
+      "land_price_vnd_m2": "4000000"
+    },
+    {
+      "decision_id": "phuongnamhoalu|2703/QĐ-UBND|2026-10-07",
+      "added_record": false,
+      "source_page": "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-111.html",
+      "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2703_2026-10-07.pdf",
+      "sha256": "f87f7a31d8fd844438fe9dbcd139288182a77eb87f4ad0f4758cc474557f9206",
+      "page_start": 4,
+      "page_end": 6,
+      "article_page": 5,
+      "area_m2": "41.1",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "41.1"
+        }
+      ],
+      "land_price_vnd_m2": "4000000"
+    },
+    {
+      "decision_id": "xanhoquan|1260/QĐ-UBND|2026-09-03",
+      "added_record": false,
+      "source_page": "https://nhoquan.ninhbinh.gov.vn/vanban/chitietvb-215.html",
+      "source_pdf": "documents/quyet_dinh_2026/xanhoquan_1260_2026-09-03.pdf",
+      "sha256": "b910190b29f803bac7e87e79ec71385ef1a7ea9b202c0b752d4db3d72e4f7425",
+      "page_start": 1,
+      "page_end": 2,
+      "article_page": 1,
+      "area_m2": "150",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ONT",
+          "area_m2": "150"
+        }
+      ],
+      "land_price_vnd_m2": ""
+    },
+    {
+      "decision_id": "xayentu|1065/QĐ-UBND|2026-07-23",
+      "added_record": false,
+      "source_page": "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-880.html",
+      "source_pdf": "documents/quyet_dinh_2026/xayentu_1065_2026-07-23.pdf",
+      "sha256": "ee1da7c60d60b3ed3998d32fb27e29c5e8dc2ec7c8f98f6158213d9ddc87b0fc",
+      "page_start": 1,
+      "page_end": 3,
+      "article_page": 2,
+      "area_m2": "65",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ONT",
+          "area_m2": "65"
+        }
+      ],
+      "land_price_vnd_m2": ""
+    },
+    {
+      "decision_id": "xaquanghung|1058/QĐ-UBND|2026-09-28",
+      "added_record": true,
+      "source_page": "https://quanghung.ninhbinh.gov.vn/?pageid=33115&p_steering=200142",
+      "source_pdf": "documents/doi_chieu_549_20261021/gap_076465382dc7.pdf",
+      "sha256": "73cb32040aa55d4bd80294b71f9eb459c435b9df15d0ecf6c4e7220e1e32e8c1",
+      "page_start": 1,
+      "page_end": 3,
+      "article_page": 2,
+      "area_m2": "75",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ONT",
+          "area_m2": "75"
+        }
+      ],
+      "land_price_vnd_m2": "2000000",
+      "supersedes_decision_ids": [
+        "xaquanghung|1058/QĐ-UBND|2026-10-19"
+      ]
+    }
+  ],
+  "limitations": [
+    "Chưa xác định diện tích đất ở ban đầu của các quyết định Nam Hoa Lư, Yên Từ 1065 và Quang Hưng 1058.",
+    "Rà soát sáu tệp đã có và khép thêm một đầu mối PDF Quang Hưng; không phải lần tìm mới toàn bộ địa phương."
+  ],
+  "reviewed_pdf_files": 7
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "locality": "Phường Đông A",
+    "households": 9406,
+    "population": 31980,
+    "source_url": "https://donga.ninhbinh.gov.vn/phuong-dong-a-mien-dat-giau-truyen-thong-khat-vong-vuon-minh-phat-trien",
+    "local_file": "documents/nguon_web/donga_demographics_2026.html",
+    "published_date": "2026-08-01",
+    "modified_date": "2026-08-09",
+    "source_period_label": "Bài công bố 01/08/2026, cập nhật 09/08/2026",
+    "status": "official_locality_publication",
+    "caveat": "Quy mô hộ/nhân khẩu của phường sau sắp xếp; bài không ghi ngày chốt sổ thống kê riêng. Không tự coi là số hộ hiện tại của tháng 10."
+  },
+  {
+    "locality": "Xã Khánh Thiện",
+    "households": 6616,
+    "population": 24281,
+    "source_url": "https://khanhthien.ninhbinh.gov.vn/uploads/images/bc_thi_%C4%91ua_x%C3%B3a_nh%C3%A0_t%E1%BA%A1m_d%E1%BB%99t_n%C3%A1t-signed.pdf",
+    "local_file": "documents/phap_luat/khanhthien_demographics_2025.pdf",
+    "pdf_page": 1,
+    "published_date": null,
+    "source_period_label": "Báo cáo tháng 8/2025, trang 1; đầu tệp trống số/ngày",
+    "status": "official_report_identity_pending",
+    "caveat": "Quy mô xã mới gồm Khánh Cường, Khánh Lợi, Khánh Thiện; mẫu số công bố 2025, kỳ hồ sơ là quý I/2026. Tỷ lệ chỉ là đối chiếu gần đúng, chưa cập nhật cùng thời điểm."
+  },
+  {
+    "locality": "Xã Hiển Khánh",
+    "households": 8786,
+    "population": 30210,
+    "source_url": "https://hienkhanh.ninhbinh.gov.vn/xa-hien-khanh-xay-dung-phuong-an-sap-xep-to-chuc-lai-thon-xom-tu-32-thon-xuong-con-12-thon",
+    "local_file": "documents/nguon_web/hienkhanh_demographics_2026.html",
+    "published_date": "2026-06-14",
+    "modified_date": "2026-07-16",
+    "source_period_label": "Bài công bố 14/06/2026, cập nhật 16/07/2026",
+    "status": "official_locality_publication",
+    "caveat": "Quy mô trong phương án sắp xếp thôn năm 2026; không trộn với nguồn tháng 3/2026 từng ghi 8.560 hộ. Bài không ghi ngày chốt sổ thống kê riêng."
+  }
+]

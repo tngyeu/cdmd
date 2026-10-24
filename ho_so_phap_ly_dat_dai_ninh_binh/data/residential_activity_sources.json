@@ -1,0 +1,45 @@
+[
+  {
+    "locality": "Phường Đông A",
+    "kind": "Phường",
+    "period": "Tháng 8/2026",
+    "period_months": 1,
+    "count": 15,
+    "unit": "hồ sơ tiếp nhận, giải quyết",
+    "annualized_count": 180,
+    "meaning": "Tiếp nhận, giải quyết; chưa chứng minh tất cả đã có quyết định cho phép hoặc đã hoàn thành tài chính; không có diện tích.",
+    "source_url": "https://donga.ninhbinh.gov.vn/phuong-dong-a-tap-trung-danh-gia-ket-qua-thang-8-quyet-liet-trien-khai-nhiem-vu-trong-tam-thang-9-nam-2026",
+    "local_file": "documents/nguon_web/quota_comparison_donga_aug2026.html",
+    "source_date": "2026-08-28",
+    "status": "official_web_report"
+  },
+  {
+    "locality": "Xã Khánh Thiện",
+    "kind": "Xã",
+    "period": "Quý I/2026",
+    "period_months": 3,
+    "count": 82,
+    "unit": "trường hợp được quyết định cho phép chuyển mục đích",
+    "annualized_count": 328,
+    "meaning": "Báo cáo kết quả quý I, không có số diện tích/loại đất của 82 trường hợp; không mặc định đều là ODT/ONT. Tệp trống số/ngày đầu, tháng 3/2026.",
+    "source_url": "https://khanhthien.ninhbinh.gov.vn/uploads/images/Bao%20cao%20quy%20I%20-%20UBND%20%281%29.pdf",
+    "local_file": "documents/phap_luat/quota_comparison_khanhthien_q1_2026.pdf",
+    "pdf_page": 1,
+    "source_date": "",
+    "status": "official_report_identity_pending"
+  },
+  {
+    "locality": "Xã Hiển Khánh",
+    "kind": "Xã",
+    "period": "6 tháng đầu năm 2026",
+    "period_months": 6,
+    "count": 16,
+    "unit": "hồ sơ chuyển mục đích đã giải quyết",
+    "annualized_count": 32,
+    "meaning": "Bài thông tin địa phương, không có diện tích và chưa đối chiếu từng quyết định; không coi là số của Duy Tân.",
+    "source_url": "https://hienkhanh.ninhbinh.gov.vn/en/xa-hien-khanh-tap-trung-phat-trien-kinh-te-tao-dong-luc-moi-phat-trien-ben-vung",
+    "local_file": "documents/nguon_web/quota_comparison_hienkhanh_h1_2026.html",
+    "source_date": "",
+    "status": "official_web_report"
+  }
+]

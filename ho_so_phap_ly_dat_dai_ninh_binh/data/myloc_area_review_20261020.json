@@ -1,0 +1,895 @@
+{
+  "reviewed_on": "2026-10-20",
+  "decisions": 40,
+  "residential_area_m2": "6196.0",
+  "residential_area_ha": "0.6196",
+  "mean_m2": "154.9",
+  "first_date": "2026-05-14",
+  "last_date": "2026-10-20",
+  "land_after": "ODT",
+  "method": "Đọc ảnh trang 1 và Điều 1 trang 2 của từng PDF; cộng các phần được phép chuyển sang đất ở.",
+  "monthly": [
+    {
+      "month": "2026-05",
+      "decisions": 7,
+      "area_m2": "1188"
+    },
+    {
+      "month": "2026-06",
+      "decisions": 11,
+      "area_m2": "1551.3"
+    },
+    {
+      "month": "2026-08",
+      "decisions": 10,
+      "area_m2": "1886.2"
+    },
+    {
+      "month": "2026-09",
+      "decisions": 9,
+      "area_m2": "1287.5"
+    },
+    {
+      "month": "2026-10",
+      "decisions": 3,
+      "area_m2": "283"
+    }
+  ],
+  "records": [
+    {
+      "decision_id": "phuongmyloc|1556/QĐ-UBND|2026-05-14",
+      "decision_number": "1556/QĐ-UBND",
+      "issue_date": "2026-05-14",
+      "land_after": "ODT",
+      "residential_area_m2": "120",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "120"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194302",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1556_2026-05-14.pdf",
+      "sha256": "bd627f1c3df462813b7577385a47a849ff70b2c0aff2376af3e07d9568957251",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|1594/QĐ-UBND|2026-05-18",
+      "decision_number": "1594/QĐ-UBND",
+      "issue_date": "2026-05-18",
+      "land_after": "ODT",
+      "residential_area_m2": "145",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "145"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194427",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1594_2026-05-18.pdf",
+      "sha256": "36e43768ea7584984e5be967779be2321eebc9b0764480a4854fa9de3e5d8d2e",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|1595/QĐ-UBND|2026-05-18",
+      "decision_number": "1595/QĐ-UBND",
+      "issue_date": "2026-05-18",
+      "land_after": "ODT",
+      "residential_area_m2": "150",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "150"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194428",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1595_2026-05-18.pdf",
+      "sha256": "bab2bd71227225ca2cb9fbe36089afb4a399d3fd5dc549a613102d1b298be112",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|1706/QĐ-UBND|2026-05-25",
+      "decision_number": "1706/QĐ-UBND",
+      "issue_date": "2026-05-25",
+      "land_after": "ODT",
+      "residential_area_m2": "80",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "80"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194631",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1706_2026-05-25.pdf",
+      "sha256": "d16d1d707f04507104235e00880a8c354b555d5f464b9238828629a92389d9b6",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|1707/QĐ-UBND|2026-05-25",
+      "decision_number": "1707/QĐ-UBND",
+      "issue_date": "2026-05-25",
+      "land_after": "ODT",
+      "residential_area_m2": "225",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "225"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194632",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1707_2026-05-25.pdf",
+      "sha256": "57648800dec374e4184c66dfe07bf5a45e67dc8a9289b2a3f7c8b5f2f7a2b0ca",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|1708/QĐ-UBND|2026-05-25",
+      "decision_number": "1708/QĐ-UBND",
+      "issue_date": "2026-05-25",
+      "land_after": "ODT",
+      "residential_area_m2": "368",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "368"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194633",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1708_2026-05-25.pdf",
+      "sha256": "d261102794c960a5267466a9fbf153e2ed31ac02cdc573e0c1a1990eb380b88a",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|1709/QĐ-UBND|2026-05-25",
+      "decision_number": "1709/QĐ-UBND",
+      "issue_date": "2026-05-25",
+      "land_after": "ODT",
+      "residential_area_m2": "100",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "100"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194634",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1709_2026-05-25.pdf",
+      "sha256": "3e48aabe406eca7575efb706ca6b7ab54f468e274357d0e72f72bab69944a485",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2000/QĐ-UBND|2026-06-10",
+      "decision_number": "2000/QĐ-UBND",
+      "issue_date": "2026-06-10",
+      "land_after": "ODT",
+      "residential_area_m2": "168",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "168"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195224",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2000_2026-06-10.pdf",
+      "sha256": "2a5d290a5a84beff5d2fdae65ea024f0f6d9b0607536de3197d4b829f6e13fb9",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2089/QĐ-UBND|2026-06-16",
+      "decision_number": "2089/QĐ-UBND",
+      "issue_date": "2026-06-16",
+      "land_after": "ODT",
+      "residential_area_m2": "120",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "120"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195380",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2089_2026-06-16.pdf",
+      "sha256": "590a6b7d236b56ca78be3ced169f3f81c3ec33ce8811da99169d99c1185deaf1",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2090/QĐ-UBND|2026-06-16",
+      "decision_number": "2090/QĐ-UBND",
+      "issue_date": "2026-06-16",
+      "land_after": "ODT",
+      "residential_area_m2": "120",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "120"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195379",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2090_2026-06-16.pdf",
+      "sha256": "5a0858f072801a510ef5e3959384497c6103a6eee22311d3704f87d0699a6b3e",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2091/QĐ-UBND|2026-06-16",
+      "decision_number": "2091/QĐ-UBND",
+      "issue_date": "2026-06-16",
+      "land_after": "ODT",
+      "residential_area_m2": "125",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "125"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195381",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2091_2026-06-16.pdf",
+      "sha256": "9501c6fac22ecb9b21c2c6a0e3810e4b90157bc7db08081a1c71aa6938d3ed3e",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2092/QĐ-UBND|2026-06-16",
+      "decision_number": "2092/QĐ-UBND",
+      "issue_date": "2026-06-16",
+      "land_after": "ODT",
+      "residential_area_m2": "290",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "290"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195382",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2092_2026-06-16.pdf",
+      "sha256": "7246baf172bd80b5f114168f5f4b78286158d26eea2b1e8100f742f021cbb22a",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2254/QĐ-UBND|2026-06-24",
+      "decision_number": "2254/QĐ-UBND",
+      "issue_date": "2026-06-24",
+      "land_after": "ODT",
+      "residential_area_m2": "132",
+      "components": [
+        {
+          "land_before": "HNK",
+          "land_after": "ODT",
+          "area_m2": "132"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195760",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2254_2026-06-24.pdf",
+      "sha256": "e58ddb7334f081563a2bbd0fbc31c37b72e969672dcecf489564c575a6f7f239",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2255/QĐ-UBND|2026-06-24",
+      "decision_number": "2255/QĐ-UBND",
+      "issue_date": "2026-06-24",
+      "land_after": "ODT",
+      "residential_area_m2": "90",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "90"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195762",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2255_2026-06-24.pdf",
+      "sha256": "3b4aed09312eb40e4a45b885bcc67c00e1216c869772a1722efeea920212596c",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2256/QĐ-UBND|2026-06-24",
+      "decision_number": "2256/QĐ-UBND",
+      "issue_date": "2026-06-24",
+      "land_after": "ODT",
+      "residential_area_m2": "160",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "160"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195763",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2256_2026-06-24.pdf",
+      "sha256": "34a997dfdc2687c2ccd1e6bf6b85f25bf48fdea6b3cd08d3bb5427e0de6541f2",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2257/QĐ-UBND|2026-06-24",
+      "decision_number": "2257/QĐ-UBND",
+      "issue_date": "2026-06-24",
+      "land_after": "ODT",
+      "residential_area_m2": "118.3",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "118.3"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195764",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2257_2026-06-24.pdf",
+      "sha256": "5d479e95c34f533a3ebfe85e78675e89188094baf0655516abd138e0f3280eb7",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2260/QĐ-UBND|2026-06-24",
+      "decision_number": "2260/QĐ-UBND",
+      "issue_date": "2026-06-24",
+      "land_after": "ODT",
+      "residential_area_m2": "113",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "113"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195765",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2260_2026-06-24.pdf",
+      "sha256": "bf98931b2d5487a13dadb23d1e3a7766c15aa3a126a0385e8991c7d9e0edfb76",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|2315/QĐ-UBND|2026-06-29",
+      "decision_number": "2315/QĐ-UBND",
+      "issue_date": "2026-06-29",
+      "land_after": "ODT",
+      "residential_area_m2": "115",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "115"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195875",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2315_2026-06-29.pdf",
+      "sha256": "ae2d6fcb5f938fba6864d19bcf555aba77561c7a0a0e53765da94d83eee83492",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|3414/QĐ-UBND|2026-08-13",
+      "decision_number": "3414/QĐ-UBND",
+      "issue_date": "2026-08-13",
+      "land_after": "ODT",
+      "residential_area_m2": "150",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "150"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197316",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3414_2026-08-13.pdf",
+      "sha256": "d022acc5bc212d5e5731bc36a8ae8849790c27c72e9a73cef26194e458e3e5ec",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|3415/QĐ-UBND|2026-08-13",
+      "decision_number": "3415/QĐ-UBND",
+      "issue_date": "2026-08-13",
+      "land_after": "ODT",
+      "residential_area_m2": "70",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "70"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197317",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3415_2026-08-13.pdf",
+      "sha256": "69a8f4c8747ba609c381c7b9f129e6b9bb944d71ee0f69289e28b3530dc1c4f9",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|3416/QĐ-UBND|2026-08-13",
+      "decision_number": "3416/QĐ-UBND",
+      "issue_date": "2026-08-13",
+      "land_after": "ODT",
+      "residential_area_m2": "120",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "120"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197318",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3416_2026-08-13.pdf",
+      "sha256": "0f0587707786e31fc3866ff2e749ef86f0e0a389b2f2a6e9ce02f1d4c39ac202",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa. Dòng nguồn lặp giữa hai trang tìm kiếm, chỉ tính quyết định này một lần."
+    },
+    {
+      "decision_id": "phuongmyloc|3418/QĐ-UBND|2026-08-13",
+      "decision_number": "3418/QĐ-UBND",
+      "issue_date": "2026-08-13",
+      "land_after": "ODT",
+      "residential_area_m2": "385.4",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "65.4"
+        },
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "320"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197319",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3418_2026-08-13.pdf",
+      "sha256": "e752324d067500a73ed2a3e99051fcedff2f2c8aa9f96f236cd7e2e7431bd8e4",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa. Tổng 385,4 m² gồm 65,4 m² CLN + 320 m² NTS; chỉ cộng tổng một lần."
+    },
+    {
+      "decision_id": "phuongmyloc|3438/QĐ-UBND|2026-08-13",
+      "decision_number": "3438/QĐ-UBND",
+      "issue_date": "2026-08-13",
+      "land_after": "ODT",
+      "residential_area_m2": "289.8",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "74.8"
+        },
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "215"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197328",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3438_2026-08-13.pdf",
+      "sha256": "71b27832d1781a8c880d2c7f1be588a8988f636c4bc9915319f4412187d31213",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa. Hai phần 74,8 m² CLN + 215 m² NTS = 289,8 m², đều chuyển sang ODT."
+    },
+    {
+      "decision_id": "phuongmyloc|4068/QĐ-UBND|2026-08-18",
+      "decision_number": "4068/QĐ-UBND",
+      "issue_date": "2026-08-18",
+      "land_after": "ODT",
+      "residential_area_m2": "80",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "80"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197688",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4068_2026-08-18.pdf",
+      "sha256": "c2093a2e603bba214e8f86374753dac710f04c6794763bf50cf47bcb1b8d9f16",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4109/QĐ-UBND|2026-08-19",
+      "decision_number": "4109/QĐ-UBND",
+      "issue_date": "2026-08-19",
+      "land_after": "ODT",
+      "residential_area_m2": "88",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "88"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197956",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4109_2026-08-19.pdf",
+      "sha256": "cc42507a81f6152624089ffca5ce1c8eb1d5c3f97facdd4f4699e8588d764469",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4162/QĐ-UBND|2026-08-22",
+      "decision_number": "4162/QĐ-UBND",
+      "issue_date": "2026-08-22",
+      "land_after": "ODT",
+      "residential_area_m2": "407",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "407"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198199",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4162_2026-08-22.pdf",
+      "sha256": "5b05a8c3d043a6d9caa86f84cd2cb4ac96122a1b711e4463aa61428f4620bc07",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4351/QĐ-UBND|2026-08-27",
+      "decision_number": "4351/QĐ-UBND",
+      "issue_date": "2026-08-27",
+      "land_after": "ODT",
+      "residential_area_m2": "180",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "180"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198355",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4351_2026-08-27.pdf",
+      "sha256": "9eeee3f80ca251985c4fb7409c6bd06e697b63e03111505f32fd1cd6b5e102a6",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4385/QĐ-UBND|2026-08-28",
+      "decision_number": "4385/QĐ-UBND",
+      "issue_date": "2026-08-28",
+      "land_after": "ODT",
+      "residential_area_m2": "116",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "116"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198395",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4385_2026-08-28.pdf",
+      "sha256": "05886a6cafb3163397a7143e6e6c798f4e846c98b75c38be02c714ee1dd84cc1",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4410/QĐ-UBND|2026-09-03",
+      "decision_number": "4410/QĐ-UBND",
+      "issue_date": "2026-09-03",
+      "land_after": "ODT",
+      "residential_area_m2": "160",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "160"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198468",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4410_2026-09-03.pdf",
+      "sha256": "ac4e71aabcc737d1b59ba8d008c2ae088159e54fa543fdb369ef61326fefd2c5",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4577/QĐ-UBND|2026-09-12",
+      "decision_number": "4577/QĐ-UBND",
+      "issue_date": "2026-09-12",
+      "land_after": "ODT",
+      "residential_area_m2": "80",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "80"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198793",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4577_2026-09-12.pdf",
+      "sha256": "ac4542b1f98d621ee12177ef5056f8bc5e05083e4582d716b85a2691839fbb88",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4652/QĐ-UBND|2026-09-17",
+      "decision_number": "4652/QĐ-UBND",
+      "issue_date": "2026-09-17",
+      "land_after": "ODT",
+      "residential_area_m2": "130",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "130"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198992",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4652_2026-09-17.pdf",
+      "sha256": "40fdad871353c5a8bc027e4ca8a6e8e53eef024b12a243ed185e85d563567e39",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4809/QĐ-UBND|2026-09-22",
+      "decision_number": "4809/QĐ-UBND",
+      "issue_date": "2026-09-22",
+      "land_after": "ODT",
+      "residential_area_m2": "242.5",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "242.5"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199161",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4809_2026-09-22.pdf",
+      "sha256": "5838dfa9bb4944426647c5c9b25e539349565c6a85450ac172a37a0327dc3e43",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4864/QĐ-UBND|2026-09-24",
+      "decision_number": "4864/QĐ-UBND",
+      "issue_date": "2026-09-24",
+      "land_after": "ODT",
+      "residential_area_m2": "70",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "70"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199223",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4864_2026-09-24.pdf",
+      "sha256": "a7baa3f2fd51caf86b12f1a4a054bf61c5111e957d40aadbb0e5970bc35e2cf0",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4865/QĐ-UBND|2026-09-24",
+      "decision_number": "4865/QĐ-UBND",
+      "issue_date": "2026-09-24",
+      "land_after": "ODT",
+      "residential_area_m2": "210",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "210"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199224",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4865_2026-09-24.pdf",
+      "sha256": "8258cc992e008b63a0ddf721ac6d24f6c63fc6cbbe49726e318385586cf41f71",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4931/QĐ-UBND|2026-09-29",
+      "decision_number": "4931/QĐ-UBND",
+      "issue_date": "2026-09-29",
+      "land_after": "ODT",
+      "residential_area_m2": "95",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "95"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199353",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4931_2026-09-29.pdf",
+      "sha256": "723e8c6322cba34eb4dd8aa325f937bdcef1925366a0f9ff48e7e0ee4060a2e6",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4932/QĐ-UBND|2026-09-29",
+      "decision_number": "4932/QĐ-UBND",
+      "issue_date": "2026-09-29",
+      "land_after": "ODT",
+      "residential_area_m2": "100",
+      "components": [
+        {
+          "land_before": "NTS",
+          "land_after": "ODT",
+          "area_m2": "100"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199351",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4932_2026-09-29.pdf",
+      "sha256": "b1ddb140a1fab90cafa6aea479f7a27e065d6beac908536f2fc02bb231228dd0",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|4933/QĐ-UBND|2026-09-29",
+      "decision_number": "4933/QĐ-UBND",
+      "issue_date": "2026-09-29",
+      "land_after": "ODT",
+      "residential_area_m2": "200",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "200"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199352",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4933_2026-09-29.pdf",
+      "sha256": "85a6cb5abc5f9a9c716de3c7579b450e256c1d34eab37b0e9fffe2dbfcfeed70",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|5179/QĐ-UBND|2026-10-13",
+      "decision_number": "5179/QĐ-UBND",
+      "issue_date": "2026-10-13",
+      "land_after": "ODT",
+      "residential_area_m2": "55",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "55"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199925",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_5179_2026-10-13.pdf",
+      "sha256": "3abf39b3e0226e4e4c76bdc2508ca72013b508178236dd749eb69c3569a7e174",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    },
+    {
+      "decision_id": "phuongmyloc|5305/QĐ-UBND|2026-10-20",
+      "decision_number": "5305/QĐ-UBND",
+      "issue_date": "2026-10-20",
+      "land_after": "ODT",
+      "residential_area_m2": "160",
+      "components": [
+        {
+          "land_before": "LNK",
+          "land_after": "ODT",
+          "area_m2": "113"
+        },
+        {
+          "land_before": "TSN",
+          "land_after": "ODT",
+          "area_m2": "47"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=200182",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_5305_2026-10-20.pdf",
+      "sha256": "56f9b0e6b9838d16a80043372bded30b84fb252349cf75fbdb174599085e67c7",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa. Hai phần 113 m² LNK + 47 m² TSN = 160 m²; giữ nguyên ký hiệu nguồn."
+    },
+    {
+      "decision_id": "phuongmyloc|5306/QĐ-UBND|2026-10-20",
+      "decision_number": "5306/QĐ-UBND",
+      "issue_date": "2026-10-20",
+      "land_after": "ODT",
+      "residential_area_m2": "68",
+      "components": [
+        {
+          "land_before": "CLN",
+          "land_after": "ODT",
+          "area_m2": "68"
+        }
+      ],
+      "source_page": "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=200183",
+      "local_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_5306_2026-10-20.pdf",
+      "sha256": "4092eeeea1d28b39be5496c6516ab84fa2beeb0f0f0487e7a3b7426ca71cbf82",
+      "identity_pdf_page": 1,
+      "content_pdf_page": 2,
+      "reviewed_on": "2026-10-20",
+      "note": "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    }
+  ]
+}

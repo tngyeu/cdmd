@@ -1,0 +1,663 @@
+{
+  "checked_on": "2026-10-21",
+  "scope": "Counts, indexed local files, scenario source links and drawing hashes. Does not certify current legal force, completeness of collection, parcel eligibility or success probability.",
+  "legal": {
+    "records": 52,
+    "source_statuses": {
+      "official_pdf": 35,
+      "official_metadata": 9,
+      "official_original_images": 1,
+      "historical_attachment": 1,
+      "citation_only": 1,
+      "official_attachment_identity_pending": 3,
+      "official_citation": 1,
+      "official_metadata_attachment_pending": 1
+    },
+    "records_without_article_locator": [
+      "L43",
+      "L47-2024",
+      "L58-2024",
+      "L71-2025",
+      "L84-2025",
+      "L93-2025",
+      "L95-2025",
+      "L146-2025",
+      "L147-2025",
+      "ND102",
+      "ND151",
+      "ND226",
+      "ND118",
+      "ND123",
+      "ND281",
+      "103-2024",
+      "71-2024",
+      "16-2022",
+      "ND291",
+      "NB162",
+      "NB1702",
+      "NB568",
+      "NB1543",
+      "CV10108",
+      "CV6456",
+      "NB-PL-201-2026"
+    ],
+    "records_without_source_url": [
+      "NB568",
+      "CV10108"
+    ],
+    "records_with_no_local_file": [
+      "NB-PL-201-2026"
+    ],
+    "missing_referenced_files": [],
+    "file_checks": [
+      {
+        "id": "LDD31",
+        "file": "documents/phap_luat/luat31_1.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã được sửa đổi; đối chiếu điều trọng tâm qua VBHN 44 ngày 16/03/2026 và NQ 254, NĐ 49 ngày rà soát 21/10"
+      },
+      {
+        "id": "L43",
+        "file": "documents/phap_luat/luat43_1.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "L47-2024",
+        "file": "documents/nguon_web/laws_47.html",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "L58-2024",
+        "file": "documents/nguon_web/laws_58.html",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "L71-2025",
+        "file": "documents/nguon_web/laws_71.html",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "L84-2025",
+        "file": "documents/nguon_web/laws_84.html",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "L93-2025",
+        "file": "documents/nguon_web/laws_93.html",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "L95-2025",
+        "file": "documents/nguon_web/laws_95.html",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "L146-2025",
+        "file": "documents/nguon_web/laws_146.html",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "L147-2025",
+        "file": "documents/nguon_web/laws_147.html",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "NQ254",
+        "file": "documents/phap_luat/nq254_2025_trang_1.jpg",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_original_images",
+        "currentStatus": "Hiệu lực chung 01/01/2026; riêng điểm b khoản 3 Điều 12 từ 11/12/2025; đã đối chiếu điều trọng tâm ngày 21/10"
+      },
+      {
+        "id": "ND102",
+        "file": "documents/phap_luat/nd102_1.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Có phần hết hiệu lực theo khoản 3 Điều 16 NĐ 49/2026 từ 31/01/2026; đã đối chiếu danh sách, chưa rà mọi nội dung"
+      },
+      {
+        "id": "ND151",
+        "file": "documents/phap_luat/nd151_1.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Có phần hết hiệu lực theo khoản 3 Điều 16 NĐ 49/2026 từ 31/01/2026; đã đối chiếu danh sách, chưa rà mọi nội dung"
+      },
+      {
+        "id": "ND226",
+        "file": "documents/phap_luat/nd226_1.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Có phần hết hiệu lực theo khoản 3 Điều 16 NĐ 49/2026 từ 31/01/2026; đã đối chiếu danh sách, chưa rà mọi nội dung"
+      },
+      {
+        "id": "ND49",
+        "file": "documents/phap_luat/nd49_1.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Hiệu lực từ 31/01/2026; đã đối chiếu Điều 16; Chương IV có mốc đến trước 01/03/2027 và điều kiện chuyển sang văn bản mới"
+      },
+      {
+        "id": "ND50",
+        "file": "documents/phap_luat/nd50_2026.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Hiệu lực từ 31/01/2026; đã đối chiếu Điều 6,13,14; chưa tìm được sửa riêng Điều 6 trong phạm vi tra cứu 21/10"
+      },
+      {
+        "id": "ND118",
+        "file": "documents/phap_luat/nd118_1.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "ND123",
+        "file": "documents/phap_luat/nd123_1.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "ND281",
+        "file": "documents/phap_luat/nd281_official_0.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "ND367",
+        "file": "documents/phap_luat/nd367_2025.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "103-2024",
+        "file": "documents/phap_luat/nd103_2024.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã sửa đổi bởi NĐ 291/2025 và Điều 13 NĐ 50/2026; có phần bị bãi bỏ bởi Điều 14 NĐ 50"
+      },
+      {
+        "id": "71-2024",
+        "file": "documents/phap_luat/nd71_2024.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "16-2022",
+        "file": "documents/phap_luat/nd16_2022.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "ND291",
+        "file": "documents/phap_luat/nd291_2025.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Văn bản sửa NĐ 103/2024,104/2024; phần tiền sử dụng đất phải đọc tiếp NĐ 50/2026"
+      },
+      {
+        "id": "NB193",
+        "file": "documents/phap_luat/province_193_original.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Hiệu lực từ 01/01/2026; đã khớp bản ký và Công báo; chưa phát hiện sửa trực tiếp trong phạm vi rà soát 21/10"
+      },
+      {
+        "id": "NB38",
+        "file": "documents/phap_luat/nq38_official_0.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã được sửa đổi bởi 33/2026"
+      },
+      {
+        "id": "NB33",
+        "file": "documents/phap_luat/nq33_2026_quyet_nghi.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đối chiếu bản sao ký; chưa rà hết sửa đổi sau ngày ban hành"
+      },
+      {
+        "id": "NB76",
+        "file": "documents/phap_luat/province_76_original.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chưa xác nhận độc lập hiện trạng hiệu lực"
+      },
+      {
+        "id": "NB64",
+        "file": "../nghien_cuu_quy_trinh/Ninh Bình - QĐ 64-2026-QĐ-UBND - Trình tự TTHC lĩnh vực đất đai.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Hiệu lực từ 20/06/2026; đã khớp số/ngày bản lưu và Công báo; rà soát phạm vi liên quan ngày 21/10"
+      },
+      {
+        "id": "NB43",
+        "file": "documents/phap_luat/province_43_original.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Hiệu lực từ 13/04/2026; đã khớp số/ngày bản ký và Công báo; rà soát phạm vi liên quan ngày 21/10"
+      },
+      {
+        "id": "NB-3279-2026",
+        "file": "documents/quy_hoach/3279_2026_quyet_dinh.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Metadata có hiệu lực; định danh bộ tệp cần xác nhận"
+      },
+      {
+        "id": "NB162",
+        "file": "documents/phap_luat/province_162_original.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "historical_attachment",
+        "currentStatus": "Hết hiệu lực theo Điều 3 tệp 3279; giữ để so sánh lịch sử"
+      },
+      {
+        "id": "NB1702",
+        "file": "documents/phap_luat/province_1702_original.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Hết hiệu lực theo Điều 3 tệp 3279; giữ để so sánh lịch sử"
+      },
+      {
+        "id": "NB568",
+        "file": "documents/quy_hoach/3279_2026_quyet_dinh.pdf",
+        "exists": true,
+        "hasSourceURL": false,
+        "hasArticleLocator": false,
+        "sourceStatus": "citation_only",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "NB1543",
+        "file": "documents/phap_luat/province_1543_original.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_attachment_identity_pending",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "CV10108",
+        "file": "documents/phap_luat/cv6456_page_0.pdf",
+        "exists": true,
+        "hasSourceURL": false,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_citation",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "CV6456",
+        "file": "documents/phap_luat/cv6456_page_0.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata_attachment_pending",
+        "currentStatus": "Chưa đối chiếu đầy đủ hiệu lực hiện tại"
+      },
+      {
+        "id": "NB-PL-231-2026",
+        "file": "documents/phap_luat/phulong_notice_375.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Thông báo tiếp tục tiếp nhận từ 01/08/2026 tại Phú Long; chưa rà mọi văn bản tiếp theo"
+      },
+      {
+        "id": "NB-PL-201-2026",
+        "file": "",
+        "exists": false,
+        "hasSourceURL": true,
+        "hasArticleLocator": false,
+        "sourceStatus": "official_metadata",
+        "currentStatus": "Metadata lịch sử; trang 231 sau đó thông báo tiếp tục tiếp nhận"
+      },
+      {
+        "id": "NB-VPUBND-QUYDAT-GIAOBAN-20260326",
+        "file": "documents/phap_luat/budget_land_fund_direction_202603.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_attachment_identity_pending",
+        "currentStatus": "Tệp công khai trống số/ngày; nhiệm vụ tại thời điểm kết luận, chưa rà chỉ đạo tiếp theo"
+      },
+      {
+        "id": "NB-NQ48-2025",
+        "file": "documents/phap_luat/nq48_2025_official_0.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã đọc bản ký và Biểu số 02; chưa rà hết nghị quyết điều chỉnh sau ban hành"
+      },
+      {
+        "id": "NB-NQ28-2026",
+        "file": "documents/phap_luat/nq28_2026_official_0.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã đọc bản sao ký và Điều 2; chưa rà toàn bộ điều chỉnh/phụ lục dự án"
+      },
+      {
+        "id": "NB-KL-QUYDAT-202605",
+        "file": "documents/phap_luat/budget_land_fund_direction_202605.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_attachment_identity_pending",
+        "currentStatus": "Tệp công khai trống số/ngày; chỉ xác nhận nội dung nhiệm vụ"
+      },
+      {
+        "id": "NB-DA08-2026",
+        "file": "documents/phap_luat/land_fund_project_08_2026_original.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã đối chiếu số/ngày trên PDF công bố; chưa rà mọi điều chỉnh sau ban hành và chưa có các biểu chi tiết được viện dẫn"
+      },
+      {
+        "id": "NB-CV5061-2026",
+        "file": "documents/phap_luat/province_5061_original.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Chỉ đạo công tác thu năm 2026; chưa rà mọi văn bản triển khai hoặc điều chỉnh tiếp theo"
+      },
+      {
+        "id": "ND309",
+        "file": "documents/phap_luat/nd309_2026.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã kiểm tra điều khoản liên quan ngày 20/10/2026; không xác nhận đã rà toàn bộ sửa đổi"
+      },
+      {
+        "id": "LTC01-2026",
+        "file": "documents/phap_luat/luat_tiep_can_thong_tin_01_2026.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã kiểm tra điều khoản liên quan ngày 20/10/2026; không xác nhận đã rà toàn bộ sửa đổi"
+      },
+      {
+        "id": "ND337",
+        "file": "documents/phap_luat/nd337_2026.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã kiểm tra điều khoản liên quan ngày 20/10/2026; không xác nhận đã rà toàn bộ sửa đổi"
+      },
+      {
+        "id": "BTC-CV7713-2026",
+        "file": "documents/phap_luat/cv7713_btc_qlcs_20260608.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Công văn hướng dẫn ngày 08/06/2026; đã đối chiếu bản ký và giải đáp Bộ Tài chính; không phải VBQPPL"
+      },
+      {
+        "id": "NB192",
+        "file": "documents/phap_luat/qd192_2025_congbao.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã đối chiếu nội dung Công báo và ngày hiệu lực; rà soát phạm vi liên quan 21/10"
+      },
+      {
+        "id": "NB194",
+        "file": "documents/phap_luat/qd194_2025_congbao.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã sửa Điều 5 bởi QĐ 86/2026; đọc bản sau sửa"
+      },
+      {
+        "id": "NB86",
+        "file": "documents/phap_luat/qd86_2026_congbao.pdf",
+        "exists": true,
+        "hasSourceURL": true,
+        "hasArticleLocator": true,
+        "sourceStatus": "official_pdf",
+        "currentStatus": "Đã đối chiếu nội dung Công báo và ngày hiệu lực; rà soát phạm vi liên quan 21/10"
+      }
+    ]
+  },
+  "decisions": {
+    "records": 446,
+    "localities": 27,
+    "identity_statuses": {
+      "blank_or_image_header": 326,
+      "matched_number_and_date": 82,
+      "(blank)": 31,
+      "number_or_date_conflict": 5,
+      "shared_pdf_conflict": 2
+    },
+    "verification_statuses": {
+      "official_metadata": 364,
+      "official_pdf": 82
+    },
+    "area_statuses": {
+      "official_attachment_identity_pending": 306,
+      "ambiguous_decimal_manual_review": 1,
+      "verified_pdf_identity": 80,
+      "(blank)": 31,
+      "manual_review_needed": 12,
+      "classification_manual_review": 9,
+      "mixed_requires_component_review": 2,
+      "source_internal_area_conflict": 3,
+      "shared_pdf_excluded_from_verified_totals": 2
+    },
+    "records_with_local_pdf": 415,
+    "unique_referenced_local_pdfs": 403,
+    "missing_referenced_files": [],
+    "duy_tan_records": 0,
+    "comparator_549_verified": 0,
+    "comparator_549_scope": "Text screening of downloaded PDFs and targeted image review, not full manual image review of every PDF; official metadata refreshed for near matches",
+    "display_stats": {
+      "records": 446,
+      "verified": 444,
+      "pdf_verified": 82,
+      "metadata_verified": 362,
+      "conflicts": 2,
+      "downloaded_pdfs": 415,
+      "localities": 27,
+      "coverage_checked": 127,
+      "verified_area_records": 80,
+      "verified_area_m2": "11917.8",
+      "pending_area_records": 306,
+      "pending_area_m2": "43828.65",
+      "cutoff": "2026-10-20",
+      "parcel_area_records": 108,
+      "visual_reviewed": 74,
+      "component_decisions": 333,
+      "detail_issue_records": 5,
+      "verified_residential_conversion_m2": "11522.8"
+    },
+    "record_count_matches_display": true
+  },
+  "response_kit": {
+    "count": 11,
+    "source_links": [
+      {
+        "id": "S01",
+        "links": 5,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S02",
+        "links": 3,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S03",
+        "links": 3,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S04",
+        "links": 3,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S05",
+        "links": 3,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S06",
+        "links": 3,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S07",
+        "links": 4,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S08",
+        "links": 2,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S09",
+        "links": 7,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S10",
+        "links": 3,
+        "missingLocalTargets": []
+      },
+      {
+        "id": "S11",
+        "links": 4,
+        "missingLocalTargets": []
+      }
+    ]
+  },
+  "case_drawings": [
+    {
+      "file": "layout_20260404.pdf",
+      "exists": true,
+      "hashMatches": true,
+      "role": "Architectural drawing; not cadastral boundary evidence"
+    },
+    {
+      "file": "layout_20260423.pdf",
+      "exists": true,
+      "hashMatches": true,
+      "role": "Architectural drawing; not cadastral boundary evidence"
+    },
+    {
+      "file": "layout_legacy_2012.pdf",
+      "exists": true,
+      "hashMatches": true,
+      "role": "Historical drawing; date not inferred from filename"
+    }
+  ],
+  "input_sha256": {
+    "data/legal_documents.csv": "36c955abf3c48beb8e163f6da9319fe84dfb10e2e57cb6a0f113e287716ae4b6",
+    "data/decisions_2026.csv": "4484ecfb5384cedf303079335a02e546dfa39814533ec3172cf250ae8f9b10be",
+    "data/display_data.json": "46fae2d50d9c9d31a1acab02ffac26bac0a8bc6cb0dd52074599a98f9d84f01d",
+    "data/doi_chieu_549_review_20261021.json": "1fed22e71afe49adafa9a131d29408ba02467f9192b02985910c1504dab90ad5",
+    "reports/bo_phan_hoi_van_ban.md": "4631f461427a99ebb69d37062f056d00eacdbaaf7da9589743a6542a8858d0fc"
+  }
+}

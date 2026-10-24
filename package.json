@@ -1,0 +1,19 @@
+{
+  "name": "so-tay-dat-dai-ninh-binh",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sổ tay thủ tục và hồ sơ pháp lý đất đai Ninh Bình — Eleventy + Vanilla JS",
+  "scripts": {
+    "dev": "eleventy --serve --port=8080",
+    "build": "eleventy",
+    "check": "node --test tests/*.test.mjs && node scripts/check-site.mjs",
+    "test": "npm run build && npm run check"
+  },
+  "engines": { "node": ">=20" },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "csv-parse": "^6.1.0",
+    "markdown-it": "^14.1.0"
+  }
+}

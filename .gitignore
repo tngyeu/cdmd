@@ -1,0 +1,33 @@
+# Node.js dependencies and Eleventy build output
+node_modules/
+/_site/
+.cache/
+.eleventy-cache/
+
+# Research downloads, OCR, previews and working copies
+tmp/
+/tmp_don_de_nghi/*
+!/tmp_don_de_nghi/*.py
+
+# Python caches (research and document scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment settings; keep example configuration files
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Logs and editor/OS temporary files
+*.log
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.swp
+*.swo

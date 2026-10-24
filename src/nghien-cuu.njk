@@ -1,0 +1,9 @@
+---
+layout: base.njk
+title: Nghiên cứu quy trình chuyên sâu
+permalink: /thu-tuc/nghien-cuu/index.html
+navKey: procedure
+description: Nối từng công việc chuyên môn với căn cứ, thông tin cần có và sản phẩm trước khi trình lãnh đạo.
+---
+<div class="page-tabs"><a href="/thu-tuc/">Đường đi hồ sơ</a><a href="/thu-tuc/bieu-mau/">Biểu mẫu & đầu ra</a><a class="is-active" href="/thu-tuc/nghien-cuu/" aria-current="page">Nghiên cứu chuyên sâu</a></div>
+<div class="document-layout"><article class="prose panel article-panel">{{ research.procedure.html | safe }}</article><aside class="toc-panel"><span class="eyebrow">TRONG TÀI LIỆU NÀY</span><nav aria-label="Mục lục nghiên cứu quy trình">{% for item in research.procedure.toc %}<a href="#{{ item.id }}">{{ item.title }}</a>{% endfor %}</nav><button type="button" class="button button-secondary" data-print>{% icon "print" %} In tài liệu</button></aside></div>

@@ -1,0 +1,1311 @@
+{
+  "xalienminh|602/QĐ-UBND|2026-05-07": {
+    "pages": "2",
+    "fields": {
+      "parcel_area_m2": "349",
+      "initial_land_json": "{\"ONT\": \"150\", \"CLN\": \"199\"}",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"50\"}]"
+    },
+    "notes": [
+      "Đối chiếu ảnh trang 2: chuyển 50 m² trong 199 m² CLN trên thửa 349 m². Phép tính tham khảo sau chuyển: ONT 200 m², CLN 149 m²."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/xalienminh_602_2026-05-07.pdf",
+    "sha256": "2743fea1c868d0d63c6cc671a7e01e56a58ebca9c1d4d7f20f2a514a8b602e9e"
+  },
+  "xalienminh|608/QĐ-UBND|2026-05-07": {
+    "pages": "2",
+    "fields": {
+      "parcel_area_m2": "804",
+      "initial_land_json": "{\"ONT\": \"371\", \"CLN\": \"433\"}",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"30\"}]"
+    },
+    "notes": [
+      "Đối chiếu ảnh trang 2: chỉ chuyển 30/433 m² CLN, tổng thửa 804 m²; trước đó đã có 371 m² ONT. Sau chuyển theo phép tính: ONT 401 m², CLN 403 m²."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/xalienminh_608_2026-05-07.pdf",
+    "sha256": "cd9a6b6b63fa42a4cb5939bdf5c9a05e6ad362545f0b3b4bec40d67adbd47be3"
+  },
+  "xaphulong|230/QĐ-UBND|2026-03-27": {
+    "pages": "1",
+    "fields": {
+      "parcel_area_m2": "109.5",
+      "post_land_json": "{\"ONT\": \"87.5\", \"CLN\": \"22.0\"}",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"87.5\"}]"
+    },
+    "notes": [
+      "Trang 1 ghi sau chuyển: 87,5 m² ONT và 22 m² CLN; không chuyển toàn bộ thửa 109,5 m²."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/phulong_230_2026-03-27.pdf",
+    "sha256": "f82a0be870b13b816f474b16389ece0fbd5a3e2ec5063c359dcd81724576fba1"
+  },
+  "xaphulong|237/QĐ-UBND|2026-03-27": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "1215.5",
+      "post_land_json": "{\"ONT\": \"1058.2\", \"CLN\": \"61.8\", \"NTS\": \"95.5\"}",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"681.4\"}]",
+      "detail_flags_json": "[\"recipient_clause_mismatch\"]"
+    },
+    "notes": [
+      "Sau chuyển có 1.058,2 m² ONT nhưng phần được chuyển thêm chỉ là 681,4 m²; suy ra ONT đã có là 376,8 m² (phép trừ, không phải số nêu trực tiếp).",
+      "Cần đối chiếu bản ký: phần đối tượng thi hành ở Điều 4 trang 2 khác với người được cho phép ở Điều 1 trang 1. Chỉ ghi nhận điểm không thống nhất, chưa kết luận giá trị pháp lý."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/phulong_237_2026-03-27.pdf",
+    "sha256": "85f0b4c5a7885fb16876e40560e85fa100609a76bd7102a2ff53221d2d974474"
+  },
+  "xaphulong|488/QĐ-UBND|2026-05-14": {
+    "pages": "1",
+    "fields": {
+      "parcel_area_m2": "2440.8",
+      "post_land_json": "{\"ONT\": \"810.8\", \"CLN\": \"1630.0\"}",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"670.0\"}]",
+      "detail_flags_json": "[\"citation_number_to_check\"]"
+    },
+    "notes": [
+      "Chuyển 670 m² CLN; sau chuyển là 810,8 m² ONT và 1.630 m² CLN. Phần ONT có trước suy ra bằng phép trừ là 140,8 m².",
+      "Phần căn cứ trên trang 1 ghi Nghị quyết 215/2025/QH15 về cơ chế tháo gỡ đất đai; cần kiểm tra lại số hiệu với bản ký và Nghị quyết 254/2025/QH15 trong kho, không tự sửa nội dung nguồn."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/phulong_488_2026-05-14.pdf",
+    "sha256": "96c7b93037805caae6cafdb5457c55f42606539f05395401b336692c70a83507"
+  },
+  "xavuban|414/QĐ-UBND|2026-01-29": {
+    "pages": "1",
+    "fields": {
+      "parcel_area_m2": "256.6",
+      "initial_land_json": "{\"ONT\": \"156.3\", \"CLN\": \"100.3\"}",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"100.3\"}]"
+    },
+    "notes": [
+      "Chuyển hết 100,3 m² CLN còn lại; thửa đã có 156,3 m² ONT. Tổng ONT sau chuyển theo phép cộng là 256,6 m², không phải diện tích được chuyển mới."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/xavuban_414_2026-01-29.pdf",
+    "sha256": "17e8bfd839d5e1913753c5dca13e73fa105829a9ec74ed950f4cce39ec10d388"
+  },
+  "xavuban|435/QĐ-UBND|2026-01-30": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "553",
+      "initial_land_json": "{\"ONT\": \"373\", \"CLN\": \"50\", \"NTS\": \"130\"}",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"50\"}, {\"land_before\": \"NTS\", \"land_after\": \"ONT\", \"area_m2\": \"20\"}, {\"land_before\": \"NTS\", \"land_after\": \"CLN\", \"area_m2\": \"110\"}]"
+    },
+    "notes": [
+      "Ba thành phần: 50 m² CLN → ONT; 20 m² NTS → ONT; 110 m² NTS → CLN. Tổng đổi mục đích 180 m², chỉ 70 m² thành đất ở. Sau chuyển theo phép tính: ONT 443 m² và CLN 110 m²."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/xavuban_435_2026-01-30.pdf",
+    "sha256": "564cd1ff510a21b635db3f8171e611caa1365e053ec94bdc949548ea924f2813"
+  },
+  "xaminhtan|941/QĐ-UBND|2026-06-12": {
+    "pages": "2",
+    "fields": {
+      "parcel_area_m2": "952",
+      "initial_land_json": "{\"CLN\": \"461\", \"NTS\": \"491\"}",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"112\"}, {\"land_before\": \"NTS\", \"land_after\": \"ONT\", \"area_m2\": \"96\"}, {\"land_before\": \"NTS\", \"land_after\": \"CLN\", \"area_m2\": \"395\"}]"
+    },
+    "notes": [
+      "Tổng thửa 952 m² gồm 461 m² CLN và 491 m² NTS trước chuyển. Quyết định cho 112 CLN → ONT, 96 NTS → ONT, 395 NTS → CLN (m²).",
+      "208 m² lên ONT; tổng diện tích đổi mục đích là 603 m². Sau chuyển theo phép tính: ONT 208 m², CLN 744 m²; không coi 603 m² đều là đất ở."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/xaminhtan_941_2026-06-12.pdf",
+    "sha256": "5e58335a0a15b3df5e903f91d5d5e7cf8ae85fb099ec3a8f285f398b0c4b3a65"
+  },
+  "phuonghongquang|673/QĐ-UBND|2026-06-12": {
+    "pages": "2",
+    "fields": {
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"DAT_O\", \"area_m2\": \"280\"}, {\"land_before\": \"CLN\", \"land_after\": \"DAT_O\", \"area_m2\": \"12\"}]",
+      "land_price_vnd_m2": "3000000"
+    },
+    "notes": [
+      "Bản gốc dùng dấu chấm ở 280.0 m²; đã đọc ảnh xác nhận là 280 m² NTS cộng 12 m² CLN, tổng chuyển 292 m².",
+      "Đích ghi đất ở tại phường; tệp không nêu trực tiếp mã ODT, nên giữ nhãn đất ở chưa ghi mã. Không xác định được tổng thửa."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/phuonghongquang_673_2026-06-12.pdf",
+    "sha256": "0f09b65ebefdca5b8f1ad3347ab8b04103a970fd3452086eb03534d80d352e5a"
+  },
+  "xaphatdiem|1076/QĐ-UBND|2026-06-17": {
+    "pages": "2",
+    "fields": {
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ONT\", \"area_m2\": \"78.8\"}, {\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"103.8\"}]",
+      "land_price_vnd_m2": "700000"
+    },
+    "notes": [
+      "Đã đọc ảnh các số dùng dấu chấm: 78,8 m² NTS + 103,8 m² CLN = 182,6 m² ONT. Đây là tổng chuyển, chưa có bằng chứng đó là tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/xaphatdiem_1076_2026-06-17.pdf",
+    "sha256": "e34b6e904257348520fb3afdf0b0a37d92ca6bacb3097001cf400a359699cf31"
+  },
+  "xaphulong|252/QĐ-UBND|2026-03-31": {
+    "pages": "1",
+    "fields": {
+      "parcel_area_m2": "175.5",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"70.0\"}]",
+      "post_land_json": "{\"ONT\": \"100.5\", \"CLN\": \"70.0\"}"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1: câu cho phép chuyển ghi 70 m² CLN, phần sau lại ghi gồm 100,5 m² chuyển mục đích. Cơ cấu 100,5 ONT + 70 CLN chỉ bằng 170,5 m², khác tổng thửa ghi 175,5 m². Chưa đủ căn cứ chọn số đúng; loại khỏi tổng diện tích xác minh."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/phulong_252_2026-03-31.pdf",
+    "sha256": "7cebbdc38ebe697d32812c6869cd232431e4cd8c6b5dc63e183341ca7ec0feb5"
+  },
+  "xaphulong|260/QĐ-UBND|2026-04-02": {
+    "pages": "1",
+    "fields": {
+      "parcel_area_m2": "928",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"130\"}]",
+      "post_land_json": "{\"ONT\": \"469\", \"CLN\": \"459\"}"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1: câu cho phép chuyển ghi 130 m² CLN, phần cơ cấu sau chuyển ghi 219 m² chuyển mục đích. Cần bản ký/đính chính để chốt số; chưa cộng vào tổng diện tích xác minh."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/phulong_260_2026-04-02.pdf",
+    "sha256": "8043e4b2824490ac1c3d58f41fdf90f8961ccbb9a8dc68a9857d3322584e576b"
+  },
+  "xaphulong|264/QĐ-UBND|2026-04-03": {
+    "pages": "1",
+    "fields": {
+      "parcel_area_m2": "974.4",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"100\"}]",
+      "post_land_json": "{\"ONT\": \"250\", \"CLN\": \"724.4\"}"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1: câu cho phép chuyển ghi 100 m² CLN, phần cơ cấu sau chuyển ghi 120 m² chuyển mục đích. Cần bản ký/đính chính để chốt số; chưa cộng vào tổng diện tích xác minh."
+    ],
+    "checked_on": "2026-10-19",
+    "source_pdf": "documents/quyet_dinh_2026/phulong_264_2026-04-03.pdf",
+    "sha256": "04b544c50d2f02f3b6c231147faaa746c8679803d5f7d268e0865a046b6c0b45"
+  },
+  "phuongmyloc|5305/QĐ-UBND|2026-10-20": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "160",
+      "components_json": "[{\"land_before\": \"LNK\", \"land_after\": \"ODT\", \"area_m2\": \"113\"}, {\"land_before\": \"TSN\", \"land_after\": \"ODT\", \"area_m2\": \"47\"}]",
+      "area_m2": "160",
+      "area_status": "verified_pdf_identity",
+      "land_before": "LNK+TSN",
+      "land_after": "ODT",
+      "conversion_group": "hon_hop_da_tach",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa. Hai phần 113 m² LNK + 47 m² TSN = 160 m²; giữ nguyên ký hiệu nguồn."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_5305_2026-10-20.pdf",
+    "sha256": "56f9b0e6b9838d16a80043372bded30b84fb252349cf75fbdb174599085e67c7"
+  },
+  "phuongmyloc|5306/QĐ-UBND|2026-10-20": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "68",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"68\"}]",
+      "area_m2": "68",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_5306_2026-10-20.pdf",
+    "sha256": "4092eeeea1d28b39be5496c6516ab84fa2beeb0f0f0487e7a3b7426ca71cbf82"
+  },
+  "phuongmyloc|5179/QĐ-UBND|2026-10-13": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "55",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"55\"}]",
+      "area_m2": "55",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_5179_2026-10-13.pdf",
+    "sha256": "3abf39b3e0226e4e4c76bdc2508ca72013b508178236dd749eb69c3569a7e174"
+  },
+  "phuongmyloc|4932/QĐ-UBND|2026-09-29": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "100",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"100\"}]",
+      "area_m2": "100",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4932_2026-09-29.pdf",
+    "sha256": "b1ddb140a1fab90cafa6aea479f7a27e065d6beac908536f2fc02bb231228dd0"
+  },
+  "phuongmyloc|4933/QĐ-UBND|2026-09-29": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "200",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"200\"}]",
+      "area_m2": "200",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4933_2026-09-29.pdf",
+    "sha256": "85a6cb5abc5f9a9c716de3c7579b450e256c1d34eab37b0e9fffe2dbfcfeed70"
+  },
+  "phuongmyloc|4931/QĐ-UBND|2026-09-29": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "95",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"95\"}]",
+      "area_m2": "95",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4931_2026-09-29.pdf",
+    "sha256": "723e8c6322cba34eb4dd8aa325f937bdcef1925366a0f9ff48e7e0ee4060a2e6"
+  },
+  "phuongmyloc|4864/QĐ-UBND|2026-09-24": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "70",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"70\"}]",
+      "area_m2": "70",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4864_2026-09-24.pdf",
+    "sha256": "a7baa3f2fd51caf86b12f1a4a054bf61c5111e957d40aadbb0e5970bc35e2cf0"
+  },
+  "phuongmyloc|4865/QĐ-UBND|2026-09-24": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "210",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"210\"}]",
+      "area_m2": "210",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4865_2026-09-24.pdf",
+    "sha256": "8258cc992e008b63a0ddf721ac6d24f6c63fc6cbbe49726e318385586cf41f71"
+  },
+  "phuongmyloc|4809/QĐ-UBND|2026-09-22": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "242.5",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"242.5\"}]",
+      "area_m2": "242.5",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4809_2026-09-22.pdf",
+    "sha256": "5838dfa9bb4944426647c5c9b25e539349565c6a85450ac172a37a0327dc3e43"
+  },
+  "phuongmyloc|4652/QĐ-UBND|2026-09-17": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "130",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"130\"}]",
+      "area_m2": "130",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4652_2026-09-17.pdf",
+    "sha256": "40fdad871353c5a8bc027e4ca8a6e8e53eef024b12a243ed185e85d563567e39"
+  },
+  "phuongmyloc|4577/QĐ-UBND|2026-09-12": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "80",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"80\"}]",
+      "area_m2": "80",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4577_2026-09-12.pdf",
+    "sha256": "ac4542b1f98d621ee12177ef5056f8bc5e05083e4582d716b85a2691839fbb88"
+  },
+  "phuongmyloc|4410/QĐ-UBND|2026-09-03": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "160",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"160\"}]",
+      "area_m2": "160",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4410_2026-09-03.pdf",
+    "sha256": "ac4e71aabcc737d1b59ba8d008c2ae088159e54fa543fdb369ef61326fefd2c5"
+  },
+  "phuongmyloc|4385/QĐ-UBND|2026-08-28": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "116",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"116\"}]",
+      "area_m2": "116",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4385_2026-08-28.pdf",
+    "sha256": "05886a6cafb3163397a7143e6e6c798f4e846c98b75c38be02c714ee1dd84cc1"
+  },
+  "phuongmyloc|4351/QĐ-UBND|2026-08-27": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "180",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"180\"}]",
+      "area_m2": "180",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4351_2026-08-27.pdf",
+    "sha256": "9eeee3f80ca251985c4fb7409c6bd06e697b63e03111505f32fd1cd6b5e102a6"
+  },
+  "phuongmyloc|4162/QĐ-UBND|2026-08-22": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "407",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"407\"}]",
+      "area_m2": "407",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4162_2026-08-22.pdf",
+    "sha256": "5b05a8c3d043a6d9caa86f84cd2cb4ac96122a1b711e4463aa61428f4620bc07"
+  },
+  "phuongmyloc|4109/QĐ-UBND|2026-08-19": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "88",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"88\"}]",
+      "area_m2": "88",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4109_2026-08-19.pdf",
+    "sha256": "cc42507a81f6152624089ffca5ce1c8eb1d5c3f97facdd4f4699e8588d764469"
+  },
+  "phuongmyloc|4068/QĐ-UBND|2026-08-18": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "80",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"80\"}]",
+      "area_m2": "80",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_4068_2026-08-18.pdf",
+    "sha256": "c2093a2e603bba214e8f86374753dac710f04c6794763bf50cf47bcb1b8d9f16"
+  },
+  "phuongmyloc|3414/QĐ-UBND|2026-08-13": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "150",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"150\"}]",
+      "area_m2": "150",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3414_2026-08-13.pdf",
+    "sha256": "d022acc5bc212d5e5731bc36a8ae8849790c27c72e9a73cef26194e458e3e5ec"
+  },
+  "phuongmyloc|3415/QĐ-UBND|2026-08-13": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "70",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"70\"}]",
+      "area_m2": "70",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3415_2026-08-13.pdf",
+    "sha256": "69a8f4c8747ba609c381c7b9f129e6b9bb944d71ee0f69289e28b3530dc1c4f9"
+  },
+  "phuongmyloc|3416/QĐ-UBND|2026-08-13": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "120",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"120\"}]",
+      "area_m2": "120",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa. Dòng nguồn lặp giữa hai trang tìm kiếm, chỉ tính quyết định này một lần."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3416_2026-08-13.pdf",
+    "sha256": "0f0587707786e31fc3866ff2e749ef86f0e0a389b2f2a6e9ce02f1d4c39ac202"
+  },
+  "phuongmyloc|3418/QĐ-UBND|2026-08-13": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "385.4",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"65.4\"}, {\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"320\"}]",
+      "area_m2": "385.4",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN+NTS",
+      "land_after": "ODT",
+      "conversion_group": "hon_hop_da_tach",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa. Tổng 385,4 m² gồm 65,4 m² CLN + 320 m² NTS; chỉ cộng tổng một lần."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3418_2026-08-13.pdf",
+    "sha256": "e752324d067500a73ed2a3e99051fcedff2f2c8aa9f96f236cd7e2e7431bd8e4"
+  },
+  "phuongmyloc|3438/QĐ-UBND|2026-08-13": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "289.8",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"74.8\"}, {\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"215\"}]",
+      "area_m2": "289.8",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN+NTS",
+      "land_after": "ODT",
+      "conversion_group": "hon_hop_da_tach",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa. Hai phần 74,8 m² CLN + 215 m² NTS = 289,8 m², đều chuyển sang ODT."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_3438_2026-08-13.pdf",
+    "sha256": "71b27832d1781a8c880d2c7f1be588a8988f636c4bc9915319f4412187d31213"
+  },
+  "phuongmyloc|2315/QĐ-UBND|2026-06-29": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "115",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"115\"}]",
+      "area_m2": "115",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2315_2026-06-29.pdf",
+    "sha256": "ae2d6fcb5f938fba6864d19bcf555aba77561c7a0a0e53765da94d83eee83492"
+  },
+  "phuongmyloc|2254/QĐ-UBND|2026-06-24": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "132",
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"132\"}]",
+      "area_m2": "132",
+      "area_status": "verified_pdf_identity",
+      "land_before": "HNK",
+      "land_after": "ODT",
+      "conversion_group": "HNK->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2254_2026-06-24.pdf",
+    "sha256": "e58ddb7334f081563a2bbd0fbc31c37b72e969672dcecf489564c575a6f7f239"
+  },
+  "phuongmyloc|2255/QĐ-UBND|2026-06-24": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "90",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"90\"}]",
+      "area_m2": "90",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2255_2026-06-24.pdf",
+    "sha256": "3b4aed09312eb40e4a45b885bcc67c00e1216c869772a1722efeea920212596c"
+  },
+  "phuongmyloc|2256/QĐ-UBND|2026-06-24": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "160",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"160\"}]",
+      "area_m2": "160",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2256_2026-06-24.pdf",
+    "sha256": "34a997dfdc2687c2ccd1e6bf6b85f25bf48fdea6b3cd08d3bb5427e0de6541f2"
+  },
+  "phuongmyloc|2257/QĐ-UBND|2026-06-24": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "118.3",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"118.3\"}]",
+      "area_m2": "118.3",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2257_2026-06-24.pdf",
+    "sha256": "5d479e95c34f533a3ebfe85e78675e89188094baf0655516abd138e0f3280eb7"
+  },
+  "phuongmyloc|2260/QĐ-UBND|2026-06-24": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "113",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"113\"}]",
+      "area_m2": "113",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2260_2026-06-24.pdf",
+    "sha256": "bf98931b2d5487a13dadb23d1e3a7766c15aa3a126a0385e8991c7d9e0edfb76"
+  },
+  "phuongmyloc|2090/QĐ-UBND|2026-06-16": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "120",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"120\"}]",
+      "area_m2": "120",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2090_2026-06-16.pdf",
+    "sha256": "5a0858f072801a510ef5e3959384497c6103a6eee22311d3704f87d0699a6b3e"
+  },
+  "phuongmyloc|2089/QĐ-UBND|2026-06-16": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "120",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"120\"}]",
+      "area_m2": "120",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2089_2026-06-16.pdf",
+    "sha256": "590a6b7d236b56ca78be3ced169f3f81c3ec33ce8811da99169d99c1185deaf1"
+  },
+  "phuongmyloc|2091/QĐ-UBND|2026-06-16": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "125",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"125\"}]",
+      "area_m2": "125",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2091_2026-06-16.pdf",
+    "sha256": "9501c6fac22ecb9b21c2c6a0e3810e4b90157bc7db08081a1c71aa6938d3ed3e"
+  },
+  "phuongmyloc|2092/QĐ-UBND|2026-06-16": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "290",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"290\"}]",
+      "area_m2": "290",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2092_2026-06-16.pdf",
+    "sha256": "7246baf172bd80b5f114168f5f4b78286158d26eea2b1e8100f742f021cbb22a"
+  },
+  "phuongmyloc|2000/QĐ-UBND|2026-06-10": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "168",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"168\"}]",
+      "area_m2": "168",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_2000_2026-06-10.pdf",
+    "sha256": "2a5d290a5a84beff5d2fdae65ea024f0f6d9b0607536de3197d4b829f6e13fb9"
+  },
+  "phuongmyloc|1706/QĐ-UBND|2026-05-25": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "80",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"80\"}]",
+      "area_m2": "80",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1706_2026-05-25.pdf",
+    "sha256": "d16d1d707f04507104235e00880a8c354b555d5f464b9238828629a92389d9b6"
+  },
+  "phuongmyloc|1707/QĐ-UBND|2026-05-25": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "225",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"225\"}]",
+      "area_m2": "225",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1707_2026-05-25.pdf",
+    "sha256": "57648800dec374e4184c66dfe07bf5a45e67dc8a9289b2a3f7c8b5f2f7a2b0ca"
+  },
+  "phuongmyloc|1708/QĐ-UBND|2026-05-25": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "368",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"368\"}]",
+      "area_m2": "368",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1708_2026-05-25.pdf",
+    "sha256": "d261102794c960a5267466a9fbf153e2ed31ac02cdc573e0c1a1990eb380b88a"
+  },
+  "phuongmyloc|1709/QĐ-UBND|2026-05-25": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "100",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"100\"}]",
+      "area_m2": "100",
+      "area_status": "verified_pdf_identity",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1709_2026-05-25.pdf",
+    "sha256": "3e48aabe406eca7575efb706ca6b7ab54f468e274357d0e72f72bab69944a485"
+  },
+  "phuongmyloc|1594/QĐ-UBND|2026-05-18": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "145",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"145\"}]",
+      "area_m2": "145",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1594_2026-05-18.pdf",
+    "sha256": "36e43768ea7584984e5be967779be2321eebc9b0764480a4854fa9de3e5d8d2e"
+  },
+  "phuongmyloc|1595/QĐ-UBND|2026-05-18": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "150",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"150\"}]",
+      "area_m2": "150",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1595_2026-05-18.pdf",
+    "sha256": "bab2bd71227225ca2cb9fbe36089afb4a399d3fd5dc549a613102d1b298be112"
+  },
+  "phuongmyloc|1556/QĐ-UBND|2026-05-14": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "120",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"120\"}]",
+      "area_m2": "120",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT",
+      "term_after": "Lâu dài",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đối chiếu ảnh trang 1 (số/ngày) và Điều 1 trang 2: diện tích được phép chuyển sang ODT; không lấy tổng diện tích thửa."
+    ],
+    "checked_on": "2026-10-20",
+    "source_pdf": "documents/quyet_dinh_myloc_20261020/2026/myloc_1556_2026-05-14.pdf",
+    "sha256": "bd627f1c3df462813b7577385a47a849ff70b2c0aff2376af3e07d9568957251"
+  },
+  "phuongnamhoalu|2117/QĐ-UBND|2026-08-04": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2118_2026-08-04.pdf",
+    "sha256": "a23c43ae31301c01b9fcdd22f6db96642614c06ee73b33e77c6fbe6ef1a71a32",
+    "pages": "1,2",
+    "fields": {
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"193.7\"}, {\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"46.3\"}]",
+      "land_price_vnd_m2": "2000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 1–2; Điều 1 tại trang 1. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2118/QĐ-UBND|2026-08-04": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2118_2026-08-04.pdf",
+    "sha256": "a23c43ae31301c01b9fcdd22f6db96642614c06ee73b33e77c6fbe6ef1a71a32",
+    "pages": "3,4",
+    "fields": {
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"199\"}]",
+      "land_price_vnd_m2": "800000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 3–4; Điều 1 tại trang 3. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2187/QĐ-UBND|2026-08-18": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+    "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+    "pages": "1,2,3",
+    "fields": {
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"167.8\"}]",
+      "land_price_vnd_m2": "3000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 1–3; Điều 1 tại trang 2. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định.",
+      "Số viết tay trên trang 1 là 2187; không suy thành 2188 theo thứ tự của các quyết định kế tiếp."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2189/QĐ-UBND|2026-08-18": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+    "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+    "pages": "4,5,6",
+    "fields": {
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"119.8\"}]",
+      "land_price_vnd_m2": "3000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 4–6; Điều 1 tại trang 5. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2190/QĐ-UBND|2026-08-18": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+    "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+    "pages": "7,8,9",
+    "fields": {
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"56.1\"}]",
+      "land_price_vnd_m2": "3000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 7–9; Điều 1 tại trang 8. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2191/QĐ-UBND|2026-08-18": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+    "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+    "pages": "10,11,12",
+    "fields": {
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"134.7\"}]",
+      "land_price_vnd_m2": "3000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 10–12; Điều 1 tại trang 11. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2192/QĐ-UBND|2026-08-18": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+    "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+    "pages": "13,14,15",
+    "fields": {
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"29.2\"}]",
+      "land_price_vnd_m2": "3000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 13–15; Điều 1 tại trang 14. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2193/QĐ-UBND|2026-08-18": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2193_2026-08-18.pdf",
+    "sha256": "0dbbac4a29013b4c109ca9006bf6ed1af3e13022b269d50f1919cb8422d48db6",
+    "pages": "16,17,18",
+    "fields": {
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"59.4\"}]",
+      "land_price_vnd_m2": "2000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 16–18; Điều 1 tại trang 17. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2620/QĐ-UBND|2026-09-23": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2620_2026-09-23.pdf",
+    "sha256": "83ee6497a7316ec970281fdd33dd0906b60b6db67d8804eae2c7742a65474b9c",
+    "pages": "1,2,3",
+    "fields": {
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"167.2\"}]",
+      "land_price_vnd_m2": "3000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 1–3; Điều 1 tại trang 2. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2702/QĐ-UBND|2026-10-07": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2703_2026-10-07.pdf",
+    "sha256": "f87f7a31d8fd844438fe9dbcd139288182a77eb87f4ad0f4758cc474557f9206",
+    "pages": "1,2,3",
+    "fields": {
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"77\"}, {\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"23\"}]",
+      "land_price_vnd_m2": "4000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 1–3; Điều 1 tại trang 2. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "phuongnamhoalu|2703/QĐ-UBND|2026-10-07": {
+    "source_pdf": "documents/quyet_dinh_2026/phuongnamhoalu_2703_2026-10-07.pdf",
+    "sha256": "f87f7a31d8fd844438fe9dbcd139288182a77eb87f4ad0f4758cc474557f9206",
+    "pages": "4,5,6",
+    "fields": {
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"41.1\"}]",
+      "land_price_vnd_m2": "4000000",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 4–6; Điều 1 tại trang 5. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "xanhoquan|1260/QĐ-UBND|2026-09-03": {
+    "source_pdf": "documents/quyet_dinh_2026/xanhoquan_1260_2026-09-03.pdf",
+    "sha256": "b910190b29f803bac7e87e79ec71385ef1a7ea9b202c0b752d4db3d72e4f7425",
+    "pages": "1,2",
+    "fields": {
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"150\"}]",
+      "land_price_vnd_m2": "",
+      "detail_flags_json": "[]",
+      "parcel_area_m2": "354.2",
+      "post_land_json": "{\"ONT\": \"150\", \"CLN\": \"204.2\"}"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 1–2; Điều 1 tại trang 1. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định.",
+      "Điều 1 ghi tổng thửa 354,2 m²; cơ cấu sau chuyển là 150 m² ONT và 204,2 m² CLN. Chỉ chuyển 150 m², không chuyển cả thửa."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "xayentu|1065/QĐ-UBND|2026-07-23": {
+    "source_pdf": "documents/quyet_dinh_2026/xayentu_1065_2026-07-23.pdf",
+    "sha256": "ee1da7c60d60b3ed3998d32fb27e29c5e8dc2ec7c8f98f6158213d9ddc87b0fc",
+    "pages": "1,2,3",
+    "fields": {
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"65\"}]",
+      "land_price_vnd_m2": "",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Đã đọc ảnh riêng các trang 1–3; Điều 1 tại trang 2. Phạm vi trang tính từ đầu tệp PDF, không phải số trang in của từng quyết định.",
+      "Điều 1 ghi chuyển 65 m² CLN trong cùng thửa đất có đất ở sang ONT; không nêu diện tích đất ở có trước. Chưa dùng làm ví dụ đạt ngưỡng đất ở trước chuyển từ 549 m²."
+    ],
+    "checked_on": "2026-10-21"
+  },
+  "xaquanghung|1058/QĐ-UBND|2026-09-28": {
+    "source_pdf": "documents/doi_chieu_549_20261021/gap_076465382dc7.pdf",
+    "sha256": "73cb32040aa55d4bd80294b71f9eb459c435b9df15d0ecf6c4e7220e1e32e8c1",
+    "pages": "1,2,3",
+    "checked_on": "2026-10-21",
+    "fields": {
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"75\"}]",
+      "land_price_vnd_m2": "2000000",
+      "term_after": "Đất ở: lâu dài (theo nội dung tệp)",
+      "detail_flags_json": "[]"
+    },
+    "notes": [
+      "Số 1058 và ngày 28/09/2026 đọc từ trang 1; 19/10/2026 là mốc sao y.",
+      "Điều 1 trang 2 ghi 75 m² CLN sang ONT, đơn giá đất ở 2.000.000 đồng/m² và hệ số điều chỉnh 1,1. Không suy tổng tiền phải nộp bằng phép nhân trực tiếp."
+    ]
+  }
+}

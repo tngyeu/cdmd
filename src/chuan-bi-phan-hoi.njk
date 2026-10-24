@@ -1,0 +1,82 @@
+---
+layout: base.njk
+title: Chuẩn bị phản hồi văn bản
+permalink: /ho-so-duy-tan/chuan-bi-phan-hoi/index.html
+navKey: response
+eyebrow: HỒ SƠ DUY TÂN · SẴN SÀNG KHI CÓ TRẢ LỜI
+description: Nhập văn bản nhận được, chọn đúng lý do và ghép bản trả lời có căn cứ. Chưa cần đọc hết kho nghiên cứu.
+pageScript: reply
+pageStyle: reply
+---
+<div class="reply-intro panel section-block no-reply-print">
+  <strong>Đã chuẩn bị {{ reply.scenarios | length }} kịch bản. Hiện chưa có văn bản trả lời trong kho.</strong>
+  <p><a class="text-link" href="/ho-so-duy-tan/muc-san-sang/">Mức sẵn sàng: mỗi lý do dùng căn cứ nào, còn cần chứng cứ gì {% icon "arrow" %}</a></p>
+  <p>Các nhánh dưới đây là phương án dự phòng. Khi nhận văn bản, dùng nguyên văn lý do và chỉ chọn những nhánh liên quan. Dự thảo có thể sao chép sang Word, tải dạng văn bản hoặc in.</p>
+  <p><strong>Phương án mới: 50 m² có thể đáp ứng nhu cầu.</strong> S09 giúp đề nghị điều chỉnh; S11 xử lý khi vẫn nhất quyết không đồng ý. Chưa có sơ đồ 50 m² và chưa tự thay hồ sơ 106 m² đã nộp.</p>
+  <p><a class="button button-secondary" href="/ho-so-duy-tan/bo-sung-50m2/">Mở bản bổ sung 50 m² đã soạn sẵn {% icon "arrow" %}</a></p>
+  <p><a class="button button-secondary" href="/ho-so-duy-tan/de-nghi-so-huong-dan/">Bản đề nghị Sở hướng dẫn khi vẫn không đồng ý hoặc chưa rõ căn cứ {% icon "arrow" %}</a></p>
+  <p><a class="text-link" href="/ho-so-duy-tan/sau-phan-hoi-so/">Nếu Sở cũng chưa làm rõ hoặc đồng ý với phường: kịch bản và bản hỏi tiếp {% icon "arrow" %}</a></p>
+  <p><a class="text-link" href="/ho-so-duy-tan/de-nghi-tinh-kiem-tra/">Bản đề nghị Chủ tịch UBND tỉnh kiểm tra về phương án 50 m² {% icon "arrow" %}</a></p>
+  <p><a class="text-link" href="/ho-so-duy-tan/sau-chuyen-don-tinh/">Nếu tỉnh chuyển đơn mà vẫn giữ nguyên quan điểm: kịch bản, bản phản hồi và bảng đối chiếu {% icon "arrow" %}</a></p>
+  <p><a class="text-link" href="/ho-so-duy-tan/hieu-luc-han-muc-50/">Rà soát hiệu lực và hạn mức: 50 m², tách thửa và hệ quả tính tiền một lần {% icon "arrow" %}</a></p>
+  <p><a class="text-link" href="/ho-so-duy-tan/van-khong-dong-y/">Kịch bản xấu nhất: câu hỏi, cách hỏi tiếp và khung đề nghị Sở {% icon "arrow" %}</a></p>
+  <div class="reply-actions"><a class="button button-primary" href="#chon-ly-do">Chọn lý do cần phản hồi {% icon "arrow" %}</a><a class="button button-secondary" href="#du-lieu-san-co">Dữ liệu đã có và còn thiếu</a><a class="text-link" href="/ho-so-duy-tan/kich-ban-phan-hoi/">Đọc toàn bộ kịch bản</a></div>
+  <p class="small">Nguồn chuẩn bị ngày 21/10/2026. Trước khi ký, đối chiếu quy định còn áp dụng tại ngày trả lời, số liệu của chính thửa đất và tài liệu thực tế đính kèm.</p>
+</div>
+<form id="reply-form" class="no-reply-print" autocomplete="off">
+  <section class="panel section-block">
+    <div class="section-heading"><div><span class="eyebrow">BƯỚC 1</span><h2>Ghi nhận văn bản thực nhận</h2></div></div>
+    <p class="small">Giữ bản đủ trang, phụ lục và bằng chứng ngày nhận. Tên “công văn” chưa tự xác định tính chất pháp lý; cần đọc nội dung và tác động.</p>
+    <div class="reply-fields">
+      <label>Loại phản hồi theo nội dung<select name="responseKind"><option value="unknown">Chưa xác định / chưa nhận</option><option value="progress">Thông tin tiến độ</option><option value="supplement">Yêu cầu bổ sung</option><option value="answer">Trả lời kiến nghị / giải trình</option><option value="decision">Có kết luận từ chối hoặc quyết định ảnh hưởng quyền lợi</option></select></label>
+      <label>Số văn bản<input name="documentNumber" placeholder="Điền đúng bản nhận được"></label>
+      <label>Ngày ban hành<input name="documentDate" type="date"></label>
+      <label>Ngày nhận thực tế<input name="receivedDate" type="date"></label>
+      <label>Cơ quan ban hành<input name="issuer" placeholder="Tên cơ quan trên văn bản"></label>
+      <label>Người ký và chức danh<input name="signer" placeholder="Dùng để kiểm tra thẩm quyền"></label>
+    </div>
+    <p id="kind-note" class="reply-notice" role="status">Bộ soạn này tạo văn bản đề nghị làm rõ và xem xét giải quyết hồ sơ. Chưa tự kết luận phường đã từ chối.</p>
+    <details class="reply-details"><summary>Thông tin người đứng tên và thửa đất</summary>
+      <p class="small">Các ô trống được giữ thành chỗ cần điền. Không tự lấy 06/10 hoặc 20/10 làm ngày tiếp nhận hợp lệ.</p>
+      <div class="reply-fields">
+        <label>Họ và tên<input name="name"></label><label>Tư cách đối với hồ sơ<input name="capacity" placeholder="Người sử dụng đất / đại diện theo ủy quyền…"></label>
+        <label>Địa chỉ liên hệ<input name="address"></label><label>Điện thoại hoặc cách liên hệ<input name="contact"></label>
+        <label>Số thửa<input name="parcel"></label><label>Tờ bản đồ số<input name="mapSheet"></label>
+        <label>Địa chỉ thửa đất<input name="landAddress"></label><label>Mã / ngày tiếp nhận theo phiếu nếu có<input name="receipt"></label>
+        <label>Nơi nhận dự thảo<input name="recipient" value="Chủ tịch UBND phường Duy Tân"></label><label>Ngày lập dự thảo<input name="draftDate" type="date"></label>
+      </div>
+    </details>
+  </section>
+  <section class="section-block" id="chon-ly-do">
+    <div class="section-heading"><div><span class="eyebrow">BƯỚC 2</span><h2>Chọn từng lý do trong văn bản</h2></div><span id="selected-count" class="badge green" role="status">Chưa chọn lý do</span></div>
+    <p class="small">Có thể chọn nhiều lý do. Mở “Căn cứ và chứng cứ” khi cần; từng nhánh có sẵn đoạn phản hồi. Nhánh quy hoạch, ranh và điều kiện cần được xử lý trước các lập luận hỗ trợ.</p>
+    <div class="reply-scenarios">
+      {% for item in reply.scenarios %}<section class="panel reply-scenario" id="{{ item.id }}">
+        <label class="reply-choice"><input type="checkbox" name="scenario" value="{{ item.id }}"><span><span class="micro-label">{{ item.id }}</span><strong>{{ item.title }}</strong></span></label>
+        <p>{{ item.trigger }}</p>
+        <div class="reply-quote" data-quote-for="{{ item.id }}" hidden><label>Nguyên văn lý do {{ item.id }} và trang hoặc mục<textarea name="quote-{{ item.id }}" rows="3" placeholder="Dán đúng đoạn của phường, không thay bằng nhận xét miệng trước đó"></textarea></label></div>
+        <details class="reply-details"><summary>Căn cứ và chứng cứ cần đối chiếu</summary><div class="prose"><h3>Kiểm tra trước khi trả lời</h3>{{ item.check | safe }}<h3>Dữ liệu và giới hạn</h3>{{ item.evidence | safe }}<h3>Tài liệu cần bổ sung</h3>{{ item.needed | safe }}<h3>Đoạn phản hồi đã chuẩn bị</h3>{% for paragraph in item.paragraphs %}<p>{{ paragraph }}</p>{% endfor %}<h3>Nguồn đối chiếu</h3>{{ item.sources | safe }}</div></details>
+      </section>{% endfor %}
+    </div>
+  </section>
+  <section class="panel section-block"><div class="section-heading"><div><span class="eyebrow">BƯỚC 3</span><h2>Bổ sung dữ kiện và tài liệu thực gửi</h2></div></div>
+    <label class="reply-wide-label">Giải trình thêm đã kiểm chứng<textarea name="extra" rows="3" placeholder="Chỉ ghi dữ kiện có thể đối chiếu; để trống nếu chưa có"></textarea></label>
+    <label class="reply-wide-label">Danh mục tài liệu thực sự gửi kèm<textarea name="attachments" rows="3" placeholder="Mỗi dòng một tài liệu, số trang và mục đích chứng minh. Chưa có thì để trống."></textarea></label>
+    <div class="reply-actions"><button class="button button-primary" type="button" id="make-reply">Ghép dự thảo {% icon "arrow" %}</button><button class="button button-secondary" type="button" id="save-reply">Lưu trên trình duyệt này</button><button class="button button-secondary" type="button" id="restore-reply">Khôi phục bản đã lưu</button><button class="button button-secondary" type="button" id="forget-reply">Xóa bản lưu, giữ nội dung đang mở</button></div>
+    <p class="small">Nội dung nhập được xử lý trong trình duyệt, không gửi ra ngoài. Chỉ lưu vào trình duyệt khi bấm “Lưu”; bản tải xuống giúp giữ lại khi đổi máy hoặc cổng web.</p>
+    <p id="save-status" class="small" role="status"></p>
+  </section>
+</form>
+<section class="panel section-block" id="ban-du-thao">
+  <div class="section-heading no-reply-print"><div><span class="eyebrow">BẢN CÓ THỂ CHỈNH SỬA</span><h2>Dự thảo phản hồi</h2></div></div>
+  <p id="draft-status" class="reply-notice no-reply-print" role="status">Chọn lý do để ghép dự thảo. Những chỗ chưa có dữ kiện được giữ trong ngoặc vuông.</p>
+  <label class="reply-wide-label no-reply-print" for="reply-output">Rà soát và chỉnh trực tiếp trước khi sao chép</label>
+  <textarea id="reply-output" class="reply-output no-reply-print" rows="22" spellcheck="false" placeholder="Dự thảo sẽ xuất hiện ở đây."></textarea>
+  <div class="reply-actions no-reply-print"><button type="button" class="button button-primary" id="copy-reply" disabled>Sao chép sang Word</button><button type="button" class="button button-secondary" id="download-reply" disabled>Tải bản văn bản .txt</button><button type="button" class="button button-secondary" id="print-reply" disabled>{% icon "print" %} In dự thảo</button></div>
+  <p id="output-status" class="small no-reply-print" role="status"></p>
+  <p class="small no-reply-print">Bản ghép là dự thảo cần kiểm tra. Nếu sửa thông tin hoặc chọn nhánh khác, bấm ghép lại; phần bạn sửa trực tiếp không bị tự ghi đè.</p>
+  <pre id="reply-print" class="reply-print"></pre>
+</section>
+<section id="du-lieu-san-co" class="panel section-block prose no-reply-print">{{ reply.evidence | safe }}</section>
+<section class="panel section-block no-reply-print"><h2>Trước khi ký và gửi</h2><ul><li>Đối chiếu nguyên văn, người ký, thẩm quyền và ngày nhận; không chỉ nhìn tên loại văn bản.</li><li>Điền hết chỗ trống; bỏ kịch bản không liên quan và chỉ kê tài liệu thực gửi.</li><li>Rà lại căn cứ pháp luật tại thời điểm trả lời; tách điều kiện cho phép chuyển với cách tính tiền.</li><li>Nếu có quyết định hoặc hành vi ảnh hưởng quyền lợi, đánh giá riêng việc khiếu nại/khởi kiện và thời hiệu. Gửi thêm kiến nghị không tự được coi là gia hạn thời hiệu.</li></ul><a class="text-link" href="/ho-so-duy-tan/kich-ban-phan-hoi/">Mở bộ kịch bản và nguồn đầy đủ {% icon "arrow" %}</a></section>
+<script id="reply-data" type="application/json">{{ reply.scenarios | jsonScript | safe }}</script>

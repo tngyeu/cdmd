@@ -1,0 +1,3444 @@
+{
+  "cutoff": "2026-10-20",
+  "elapsed_days": 293,
+  "source_pdf": "documents/quy_hoach/3279_2026_phu_luc_129.pdf",
+  "source_pdf_sha256": "68b879bc931ebc5012ecddd3f781fb0e41cd6e6910b6358f14c90c02ada7886c",
+  "duy_tan": {
+    "locality": "Phường Duy Tân",
+    "kind": "Phường",
+    "appendix": 121,
+    "pdf_page": 241,
+    "ODT": {
+      "baseline_ha": 269.76,
+      "target_ha": 320.02,
+      "change_ha": 50.26,
+      "status": "official_attachment_identity_pending"
+    },
+    "ONT": {
+      "baseline_ha": 0.0,
+      "target_ha": 0.0,
+      "change_ha": 0.0,
+      "status": "official_attachment_identity_pending"
+    }
+  },
+  "gain_m2": 502600,
+  "baseline_growth_percent": 18.63137603795967,
+  "square_side_m": 708.9428749906441,
+  "rectangle_100_100_m_count": 50.26,
+  "scenarios": [
+    {
+      "mean_m2": 80,
+      "total_cases": 6282,
+      "annual_capacity": 1256.5
+    },
+    {
+      "mean_m2": 100,
+      "total_cases": 5026,
+      "annual_capacity": 1005.2
+    },
+    {
+      "mean_m2": 106,
+      "total_cases": 4741,
+      "annual_capacity": 948.3018867924528
+    },
+    {
+      "mean_m2": 120,
+      "total_cases": 4188,
+      "annual_capacity": 837.6666666666666
+    },
+    {
+      "mean_m2": 150,
+      "total_cases": 3350,
+      "annual_capacity": 670.1333333333333
+    },
+    {
+      "mean_m2": 200,
+      "total_cases": 2513,
+      "annual_capacity": 502.6
+    },
+    {
+      "mean_m2": 300,
+      "total_cases": 1675,
+      "annual_capacity": 335.06666666666666
+    }
+  ],
+  "sample": {
+    "n": 328,
+    "mean_m2": 147.14618902439025,
+    "median_m2": 120.0,
+    "ward_n": 76,
+    "ward_mean_m2": 147.61315789473684,
+    "ward_median_m2": 120.0,
+    "status": "content_from_selected_public_decisions_not_representative"
+  },
+  "quotas": [
+    {
+      "locality": "Xã Đồng Thái",
+      "kind": "Xã",
+      "appendix": 1,
+      "pdf_page": 1,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 155.39,
+        "target_ha": 211.78,
+        "change_ha": 56.39,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Yên Mạc",
+      "kind": "Xã",
+      "appendix": 2,
+      "pdf_page": 3,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 159.08,
+        "target_ha": 182.89,
+        "change_ha": 23.81,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Yên Từ",
+      "kind": "Xã",
+      "appendix": 3,
+      "pdf_page": 5,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 211.13,
+        "target_ha": 292.62,
+        "change_ha": 81.49,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Yên Mô",
+      "kind": "Xã",
+      "appendix": 4,
+      "pdf_page": 7,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 225.59,
+        "target_ha": 263.39,
+        "change_ha": 37.8,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Kim Đông",
+      "kind": "Xã",
+      "appendix": 5,
+      "pdf_page": 9,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 46.8,
+        "target_ha": 98.66,
+        "change_ha": 51.86,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Định Hóa",
+      "kind": "Xã",
+      "appendix": 6,
+      "pdf_page": 11,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 120.78,
+        "target_ha": 191.0,
+        "change_ha": 70.22,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Lai Thành",
+      "kind": "Xã",
+      "appendix": 7,
+      "pdf_page": 13,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 160.19,
+        "target_ha": 405.04,
+        "change_ha": 244.85,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Chất Bình",
+      "kind": "Xã",
+      "appendix": 8,
+      "pdf_page": 15,
+      "ODT": {
+        "baseline_ha": null,
+        "target_ha": null,
+        "change_ha": null,
+        "status": "blank_in_source"
+      },
+      "ONT": {
+        "baseline_ha": 111.63,
+        "target_ha": 132.9,
+        "change_ha": 21.27,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Quang Thiện",
+      "kind": "Xã",
+      "appendix": 9,
+      "pdf_page": 17,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 147.46,
+        "target_ha": 201.79,
+        "change_ha": 54.33,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Kim Sơn",
+      "kind": "Xã",
+      "appendix": 10,
+      "pdf_page": 19,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 144.95,
+        "target_ha": 186.7,
+        "change_ha": 41.75,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Bình Minh",
+      "kind": "Xã",
+      "appendix": 11,
+      "pdf_page": 21,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 155.74,
+        "target_ha": 197.37,
+        "change_ha": 41.63,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Phát Diệm",
+      "kind": "Xã",
+      "appendix": 12,
+      "pdf_page": 23,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 213.11,
+        "target_ha": 381.89,
+        "change_ha": 168.78,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Khánh Hội",
+      "kind": "Xã",
+      "appendix": 13,
+      "pdf_page": 25,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 181.54,
+        "target_ha": 204.91,
+        "change_ha": 23.37,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Khánh Nhạc",
+      "kind": "Xã",
+      "appendix": 14,
+      "pdf_page": 27,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 155.19,
+        "target_ha": 193.56,
+        "change_ha": 38.37,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Khánh Trung",
+      "kind": "Xã",
+      "appendix": 15,
+      "pdf_page": 29,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 165.18,
+        "target_ha": 182.53,
+        "change_ha": 17.35,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Đông Hoa Lư",
+      "kind": "Phường",
+      "appendix": 16,
+      "pdf_page": 31,
+      "ODT": {
+        "baseline_ha": 220.19,
+        "target_ha": 295.55,
+        "change_ha": 75.36,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Khánh Thiện",
+      "kind": "Xã",
+      "appendix": 17,
+      "pdf_page": 33,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 194.49,
+        "target_ha": 220.16,
+        "change_ha": 25.67,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Yên Khánh",
+      "kind": "Xã",
+      "appendix": 18,
+      "pdf_page": 35,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 249.15,
+        "target_ha": 297.88,
+        "change_ha": 48.73,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Tây Hoa Lư",
+      "kind": "Phường",
+      "appendix": 19,
+      "pdf_page": 37,
+      "ODT": {
+        "baseline_ha": 321.01,
+        "target_ha": 437.29,
+        "change_ha": 116.28,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Gia Phong",
+      "kind": "Xã",
+      "appendix": 20,
+      "pdf_page": 39,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 96.77,
+        "target_ha": 136.67,
+        "change_ha": 39.9,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Đại Hoàng",
+      "kind": "Xã",
+      "appendix": 21,
+      "pdf_page": 41,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 148.17,
+        "target_ha": 397.0,
+        "change_ha": 248.83,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Gia Trấn",
+      "kind": "Xã",
+      "appendix": 22,
+      "pdf_page": 43,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 142.35,
+        "target_ha": 291.18,
+        "change_ha": 148.83,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Gia Vân",
+      "kind": "Xã",
+      "appendix": 23,
+      "pdf_page": 45,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 172.8,
+        "target_ha": 408.34,
+        "change_ha": 235.54,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Gia Hưng",
+      "kind": "Xã",
+      "appendix": 24,
+      "pdf_page": 47,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 156.55,
+        "target_ha": 189.04,
+        "change_ha": 32.49,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Gia Viễn",
+      "kind": "Xã",
+      "appendix": 25,
+      "pdf_page": 49,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 262.85,
+        "target_ha": 312.92,
+        "change_ha": 50.07,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Phú Long",
+      "kind": "Xã",
+      "appendix": 26,
+      "pdf_page": 51,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 100.93,
+        "target_ha": 391.96,
+        "change_ha": 291.03,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Quỳnh Lưu",
+      "kind": "Xã",
+      "appendix": 27,
+      "pdf_page": 53,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 147.91,
+        "target_ha": 312.71,
+        "change_ha": 164.8,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nho Quan",
+      "kind": "Xã",
+      "appendix": 28,
+      "pdf_page": 55,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 236.9,
+        "target_ha": 271.52,
+        "change_ha": 34.62,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Phú Sơn",
+      "kind": "Xã",
+      "appendix": 29,
+      "pdf_page": 57,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 154.01,
+        "target_ha": 187.17,
+        "change_ha": 33.16,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Cúc Phương",
+      "kind": "Xã",
+      "appendix": 30,
+      "pdf_page": 59,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 70.96,
+        "target_ha": 140.25,
+        "change_ha": 69.29,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Gia Tường",
+      "kind": "Xã",
+      "appendix": 31,
+      "pdf_page": 61,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 136.04,
+        "target_ha": 218.2,
+        "change_ha": 82.16,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Gia Lâm",
+      "kind": "Xã",
+      "appendix": 32,
+      "pdf_page": 63,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 163.06,
+        "target_ha": 215.69,
+        "change_ha": 52.63,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Yên Sơn",
+      "kind": "Phường",
+      "appendix": 33,
+      "pdf_page": 65,
+      "ODT": {
+        "baseline_ha": 135.7,
+        "target_ha": 219.3,
+        "change_ha": 83.6,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Trung Sơn",
+      "kind": "Xã",
+      "appendix": 34,
+      "pdf_page": 67,
+      "ODT": {
+        "baseline_ha": 160.71,
+        "target_ha": 241.06,
+        "change_ha": 80.35,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Tam Điệp",
+      "kind": "Phường",
+      "appendix": 35,
+      "pdf_page": 69,
+      "ODT": {
+        "baseline_ha": 198.21,
+        "target_ha": 390.09,
+        "change_ha": 191.88,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Nam Hoa Lư",
+      "kind": "Phường",
+      "appendix": 36,
+      "pdf_page": 71,
+      "ODT": {
+        "baseline_ha": 373.85,
+        "target_ha": 561.47,
+        "change_ha": 187.62,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Hoa Lư",
+      "kind": "Phường",
+      "appendix": 37,
+      "pdf_page": 73,
+      "ODT": {
+        "baseline_ha": 859.95,
+        "target_ha": 1152.22,
+        "change_ha": 292.27,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hải Xuân",
+      "kind": "Xã",
+      "appendix": 38,
+      "pdf_page": 75,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 265.84,
+        "target_ha": 358.35,
+        "change_ha": 92.51,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hải Quang",
+      "kind": "Xã",
+      "appendix": 39,
+      "pdf_page": 77,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 149.83,
+        "target_ha": 197.05,
+        "change_ha": 47.22,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hải An",
+      "kind": "Xã",
+      "appendix": 40,
+      "pdf_page": 79,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 154.64,
+        "target_ha": 214.56,
+        "change_ha": 59.92,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hải Hưng",
+      "kind": "Xã",
+      "appendix": 41,
+      "pdf_page": 81,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 347.24,
+        "target_ha": 416.0,
+        "change_ha": 68.76,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hải Anh",
+      "kind": "Xã",
+      "appendix": 42,
+      "pdf_page": 83,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 241.14,
+        "target_ha": 302.91,
+        "change_ha": 61.77,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hải Thịnh",
+      "kind": "Xã",
+      "appendix": 43,
+      "pdf_page": 85,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 186.69,
+        "target_ha": 428.24,
+        "change_ha": 241.55,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hải Tiến",
+      "kind": "Xã",
+      "appendix": 44,
+      "pdf_page": 87,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 233.31,
+        "target_ha": 293.62,
+        "change_ha": 60.31,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hải Hậu",
+      "kind": "Xã",
+      "appendix": 45,
+      "pdf_page": 89,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 232.07,
+        "target_ha": 262.9,
+        "change_ha": 30.83,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Giao Ninh",
+      "kind": "Xã",
+      "appendix": 46,
+      "pdf_page": 91,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 225.78,
+        "target_ha": 397.96,
+        "change_ha": 172.18,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Giao Phúc",
+      "kind": "Xã",
+      "appendix": 47,
+      "pdf_page": 93,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 160.35,
+        "target_ha": 246.44,
+        "change_ha": 86.09,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Giao Bình",
+      "kind": "Xã",
+      "appendix": 48,
+      "pdf_page": 95,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 156.47,
+        "target_ha": 350.22,
+        "change_ha": 193.75,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Giao Hòa",
+      "kind": "Xã",
+      "appendix": 49,
+      "pdf_page": 97,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 212.89,
+        "target_ha": 296.62,
+        "change_ha": 83.73,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Giao Hưng",
+      "kind": "Xã",
+      "appendix": 50,
+      "pdf_page": 99,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 170.66,
+        "target_ha": 290.71,
+        "change_ha": 120.05,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Giao Thủy",
+      "kind": "Xã",
+      "appendix": 51,
+      "pdf_page": 101,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 272.66,
+        "target_ha": 422.4,
+        "change_ha": 149.74,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Giao Minh",
+      "kind": "Xã",
+      "appendix": 52,
+      "pdf_page": 103,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 156.13,
+        "target_ha": 221.07,
+        "change_ha": 64.94,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Xuân Hưng",
+      "kind": "Xã",
+      "appendix": 53,
+      "pdf_page": 105,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 253.58,
+        "target_ha": 310.27,
+        "change_ha": 56.69,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Xuân Giang",
+      "kind": "Xã",
+      "appendix": 54,
+      "pdf_page": 107,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 249.73,
+        "target_ha": 272.55,
+        "change_ha": 22.82,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Xuân Hồng",
+      "kind": "Xã",
+      "appendix": 55,
+      "pdf_page": 109,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 204.81,
+        "target_ha": 245.89,
+        "change_ha": 41.08,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Xuân Trường",
+      "kind": "Xã",
+      "appendix": 56,
+      "pdf_page": 111,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 341.96,
+        "target_ha": 498.9,
+        "change_ha": 156.94,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Ninh Cường",
+      "kind": "Xã",
+      "appendix": 57,
+      "pdf_page": 113,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 178.77,
+        "target_ha": 254.86,
+        "change_ha": 76.09,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Minh Thái",
+      "kind": "Xã",
+      "appendix": 58,
+      "pdf_page": 115,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 184.55,
+        "target_ha": 225.92,
+        "change_ha": 41.37,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Quang Hưng",
+      "kind": "Xã",
+      "appendix": 59,
+      "pdf_page": 117,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 129.28,
+        "target_ha": 191.78,
+        "change_ha": 62.5,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Cát Thành",
+      "kind": "Xã",
+      "appendix": 60,
+      "pdf_page": 119,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 187.23,
+        "target_ha": 240.55,
+        "change_ha": 53.32,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Trực Ninh",
+      "kind": "Xã",
+      "appendix": 61,
+      "pdf_page": 121,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 117.31,
+        "target_ha": 161.02,
+        "change_ha": 43.71,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Ninh Giang",
+      "kind": "Xã",
+      "appendix": 62,
+      "pdf_page": 123,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 188.29,
+        "target_ha": 281.7,
+        "change_ha": 93.41,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Cổ Lễ",
+      "kind": "Xã",
+      "appendix": 63,
+      "pdf_page": 125,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 174.19,
+        "target_ha": 273.02,
+        "change_ha": 98.83,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nam Đồng",
+      "kind": "Xã",
+      "appendix": 64,
+      "pdf_page": 127,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 139.78,
+        "target_ha": 176.43,
+        "change_ha": 36.65,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nam Minh",
+      "kind": "Xã",
+      "appendix": 65,
+      "pdf_page": 129,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 177.98,
+        "target_ha": 178.0,
+        "change_ha": 0.02,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nam Ninh",
+      "kind": "Xã",
+      "appendix": 66,
+      "pdf_page": 131,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 195.27,
+        "target_ha": 279.74,
+        "change_ha": 84.47,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nam Hồng",
+      "kind": "Xã",
+      "appendix": 67,
+      "pdf_page": 133,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 177.76,
+        "target_ha": 209.95,
+        "change_ha": 32.19,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nam Trực",
+      "kind": "Xã",
+      "appendix": 68,
+      "pdf_page": 135,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 165.7,
+        "target_ha": 293.48,
+        "change_ha": 127.78,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nghĩa Lâm",
+      "kind": "Xã",
+      "appendix": 69,
+      "pdf_page": 137,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 190.27,
+        "target_ha": 284.08,
+        "change_ha": 93.81,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Quỹ Nhất",
+      "kind": "Xã",
+      "appendix": 70,
+      "pdf_page": 139,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 217.92,
+        "target_ha": 298.61,
+        "change_ha": 80.69,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hồng Phong",
+      "kind": "Xã",
+      "appendix": 71,
+      "pdf_page": 141,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 167.79,
+        "target_ha": 182.86,
+        "change_ha": 15.07,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nghĩa Sơn",
+      "kind": "Xã",
+      "appendix": 72,
+      "pdf_page": 143,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 152.79,
+        "target_ha": 202.81,
+        "change_ha": 50.02,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Đồng Thịnh",
+      "kind": "Xã",
+      "appendix": 73,
+      "pdf_page": 145,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 195.73,
+        "target_ha": 236.04,
+        "change_ha": 40.31,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Rạng Đông",
+      "kind": "Xã",
+      "appendix": 74,
+      "pdf_page": 147,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 152.42,
+        "target_ha": 491.74,
+        "change_ha": 339.32,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nghĩa Hưng",
+      "kind": "Xã",
+      "appendix": 75,
+      "pdf_page": 149,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 246.03,
+        "target_ha": 339.25,
+        "change_ha": 93.22,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Yên Đồng",
+      "kind": "Xã",
+      "appendix": 76,
+      "pdf_page": 151,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 209.21,
+        "target_ha": 292.07,
+        "change_ha": 82.86,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Yên Cường",
+      "kind": "Xã",
+      "appendix": 77,
+      "pdf_page": 153,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 281.74,
+        "target_ha": 414.91,
+        "change_ha": 133.17,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Vạn Thắng",
+      "kind": "Xã",
+      "appendix": 78,
+      "pdf_page": 155,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 206.43,
+        "target_ha": 256.37,
+        "change_ha": 49.94,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Vũ Dương",
+      "kind": "Xã",
+      "appendix": 79,
+      "pdf_page": 157,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 205.09,
+        "target_ha": 305.4,
+        "change_ha": 100.31,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Phong Doanh",
+      "kind": "Xã",
+      "appendix": 80,
+      "pdf_page": 159,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 216.18,
+        "target_ha": 362.33,
+        "change_ha": 146.15,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Tân Minh",
+      "kind": "Xã",
+      "appendix": 81,
+      "pdf_page": 161,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 252.19,
+        "target_ha": 291.23,
+        "change_ha": 39.04,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Ý Yên",
+      "kind": "Xã",
+      "appendix": 82,
+      "pdf_page": 163,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 329.14,
+        "target_ha": 648.63,
+        "change_ha": 319.49,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Liên Minh",
+      "kind": "Xã",
+      "appendix": 83,
+      "pdf_page": 165,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 184.04,
+        "target_ha": 320.07,
+        "change_ha": 136.03,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Trường Thi",
+      "kind": "Phường",
+      "appendix": 84,
+      "pdf_page": 167,
+      "ODT": {
+        "baseline_ha": 322.88,
+        "target_ha": 413.55,
+        "change_ha": 90.67,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Hiển Khánh",
+      "kind": "Xã",
+      "appendix": 85,
+      "pdf_page": 169,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 184.44,
+        "target_ha": 256.54,
+        "change_ha": 72.1,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Minh Tân",
+      "kind": "Xã",
+      "appendix": 86,
+      "pdf_page": 171,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 193.01,
+        "target_ha": 240.74,
+        "change_ha": 47.73,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Vụ Bản",
+      "kind": "Xã",
+      "appendix": 87,
+      "pdf_page": 173,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 155.51,
+        "target_ha": 222.87,
+        "change_ha": 67.36,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Mỹ Lộc",
+      "kind": "Phường",
+      "appendix": 88,
+      "pdf_page": 175,
+      "ODT": {
+        "baseline_ha": 216.4,
+        "target_ha": 472.77,
+        "change_ha": 256.37,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Thành Nam",
+      "kind": "Phường",
+      "appendix": 89,
+      "pdf_page": 177,
+      "ODT": {
+        "baseline_ha": 147.83,
+        "target_ha": 274.41,
+        "change_ha": 126.58,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Đông A",
+      "kind": "Phường",
+      "appendix": 90,
+      "pdf_page": 179,
+      "ODT": {
+        "baseline_ha": 188.4,
+        "target_ha": 502.05,
+        "change_ha": 313.65,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Thiên Trường",
+      "kind": "Phường",
+      "appendix": 91,
+      "pdf_page": 181,
+      "ODT": {
+        "baseline_ha": 223.57,
+        "target_ha": 308.88,
+        "change_ha": 85.31,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Nam Định",
+      "kind": "Phường",
+      "appendix": 92,
+      "pdf_page": 183,
+      "ODT": {
+        "baseline_ha": 487.56,
+        "target_ha": 622.2,
+        "change_ha": 134.64,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nam Lý",
+      "kind": "Xã",
+      "appendix": 93,
+      "pdf_page": 185,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 213.55,
+        "target_ha": 277.48,
+        "change_ha": 63.93,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nhân Hà",
+      "kind": "Xã",
+      "appendix": 94,
+      "pdf_page": 187,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 140.28,
+        "target_ha": 203.47,
+        "change_ha": 63.19,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Vĩnh Trụ",
+      "kind": "Xã",
+      "appendix": 95,
+      "pdf_page": 189,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 196.89,
+        "target_ha": 266.72,
+        "change_ha": 69.83,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Trần Thương",
+      "kind": "Xã",
+      "appendix": 96,
+      "pdf_page": 191,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 9.0,
+        "change_ha": 9.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 141.72,
+        "target_ha": 171.58,
+        "change_ha": 29.86,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Nam Xang",
+      "kind": "Xã",
+      "appendix": 97,
+      "pdf_page": 193,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 242.18,
+        "target_ha": 292.74,
+        "change_ha": 50.56,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Bắc Lý",
+      "kind": "Xã",
+      "appendix": 98,
+      "pdf_page": 195,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 176.21,
+        "target_ha": 324.88,
+        "change_ha": 148.67,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Lý Nhân",
+      "kind": "Xã",
+      "appendix": 99,
+      "pdf_page": 197,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 195.64,
+        "target_ha": 250.27,
+        "change_ha": 54.63,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Bình Sơn",
+      "kind": "Xã",
+      "appendix": 100,
+      "pdf_page": 199,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 198.15,
+        "target_ha": 282.82,
+        "change_ha": 84.67,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Bình An",
+      "kind": "Xã",
+      "appendix": 101,
+      "pdf_page": 201,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 256.01,
+        "target_ha": 325.69,
+        "change_ha": 69.68,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Bình Giang",
+      "kind": "Xã",
+      "appendix": 102,
+      "pdf_page": 203,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 166.42,
+        "target_ha": 211.75,
+        "change_ha": 45.33,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Bình Lục",
+      "kind": "Xã",
+      "appendix": 103,
+      "pdf_page": 205,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 239.61,
+        "target_ha": 304.16,
+        "change_ha": 64.55,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Bình Mỹ",
+      "kind": "Xã",
+      "appendix": 104,
+      "pdf_page": 207,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 227.16,
+        "target_ha": 338.37,
+        "change_ha": 111.21,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Thanh Liêm",
+      "kind": "Xã",
+      "appendix": 105,
+      "pdf_page": 209,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 177.21,
+        "target_ha": 259.6,
+        "change_ha": 82.39,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Thanh Lâm",
+      "kind": "Xã",
+      "appendix": 106,
+      "pdf_page": 211,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 219.08,
+        "target_ha": 272.38,
+        "change_ha": 53.3,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Thanh Bình",
+      "kind": "Xã",
+      "appendix": 107,
+      "pdf_page": 213,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 148.27,
+        "target_ha": 251.14,
+        "change_ha": 102.87,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Tân Thanh",
+      "kind": "Xã",
+      "appendix": 108,
+      "pdf_page": 215,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 237.55,
+        "target_ha": 267.56,
+        "change_ha": 30.01,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Liêm Hà",
+      "kind": "Xã",
+      "appendix": 109,
+      "pdf_page": 217,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 178.38,
+        "target_ha": 301.3,
+        "change_ha": 122.92,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Liêm Tuyền",
+      "kind": "Phường",
+      "appendix": 110,
+      "pdf_page": 219,
+      "ODT": {
+        "baseline_ha": 234.6,
+        "target_ha": 329.2,
+        "change_ha": 94.6,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Lý Thường Kiệt",
+      "kind": "Phường",
+      "appendix": 111,
+      "pdf_page": 221,
+      "ODT": {
+        "baseline_ha": 154.32,
+        "target_ha": 214.11,
+        "change_ha": 59.79,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Tam Chúc",
+      "kind": "Phường",
+      "appendix": 112,
+      "pdf_page": 223,
+      "ODT": {
+        "baseline_ha": 154.28,
+        "target_ha": 214.71,
+        "change_ha": 60.43,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Kim Thanh",
+      "kind": "Phường",
+      "appendix": 113,
+      "pdf_page": 225,
+      "ODT": {
+        "baseline_ha": 149.06,
+        "target_ha": 217.93,
+        "change_ha": 68.87,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Nguyễn Úy",
+      "kind": "Phường",
+      "appendix": 114,
+      "pdf_page": 227,
+      "ODT": {
+        "baseline_ha": 160.75,
+        "target_ha": 418.97,
+        "change_ha": 258.22,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Lê Hồ",
+      "kind": "Phường",
+      "appendix": 115,
+      "pdf_page": 229,
+      "ODT": {
+        "baseline_ha": 202.6,
+        "target_ha": 411.7,
+        "change_ha": 209.1,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Kim Bảng",
+      "kind": "Phường",
+      "appendix": 116,
+      "pdf_page": 231,
+      "ODT": {
+        "baseline_ha": 144.15,
+        "target_ha": 195.0,
+        "change_ha": 50.85,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Hà Nam",
+      "kind": "Phường",
+      "appendix": 117,
+      "pdf_page": 233,
+      "ODT": {
+        "baseline_ha": 517.09,
+        "target_ha": 630.93,
+        "change_ha": 113.84,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Tiên Sơn",
+      "kind": "Phường",
+      "appendix": 118,
+      "pdf_page": 235,
+      "ODT": {
+        "baseline_ha": 210.3,
+        "target_ha": 519.03,
+        "change_ha": 308.73,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Đồng Văn",
+      "kind": "Phường",
+      "appendix": 119,
+      "pdf_page": 237,
+      "ODT": {
+        "baseline_ha": 241.17,
+        "target_ha": 372.18,
+        "change_ha": 131.01,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Duy Hà",
+      "kind": "Phường",
+      "appendix": 120,
+      "pdf_page": 239,
+      "ODT": {
+        "baseline_ha": 211.57,
+        "target_ha": 282.0,
+        "change_ha": 70.43,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Duy Tân",
+      "kind": "Phường",
+      "appendix": 121,
+      "pdf_page": 241,
+      "ODT": {
+        "baseline_ha": 269.76,
+        "target_ha": 320.02,
+        "change_ha": 50.26,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Duy Tiên",
+      "kind": "Phường",
+      "appendix": 122,
+      "pdf_page": 243,
+      "ODT": {
+        "baseline_ha": 386.89,
+        "target_ha": 444.48,
+        "change_ha": 57.59,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Châu Sơn",
+      "kind": "Phường",
+      "appendix": 123,
+      "pdf_page": 245,
+      "ODT": {
+        "baseline_ha": 196.73,
+        "target_ha": 227.09,
+        "change_ha": 30.36,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Phù Vân",
+      "kind": "Phường",
+      "appendix": 124,
+      "pdf_page": 247,
+      "ODT": {
+        "baseline_ha": 275.28,
+        "target_ha": 381.96,
+        "change_ha": 106.68,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Phủ Lý",
+      "kind": "Phường",
+      "appendix": 125,
+      "pdf_page": 249,
+      "ODT": {
+        "baseline_ha": 319.06,
+        "target_ha": 370.88,
+        "change_ha": 51.82,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Yên Thắng",
+      "kind": "Phường",
+      "appendix": 126,
+      "pdf_page": 251,
+      "ODT": {
+        "baseline_ha": 209.08,
+        "target_ha": 297.51,
+        "change_ha": 88.43,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Xã Thanh Sơn",
+      "kind": "Xã",
+      "appendix": 127,
+      "pdf_page": 253,
+      "ODT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 162.85,
+        "target_ha": 294.73,
+        "change_ha": 131.88,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Hồng Quang",
+      "kind": "Phường",
+      "appendix": 128,
+      "pdf_page": 255,
+      "ODT": {
+        "baseline_ha": 217.77,
+        "target_ha": 515.0,
+        "change_ha": 297.23,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    },
+    {
+      "locality": "Phường Vị Khê",
+      "kind": "Phường",
+      "appendix": 129,
+      "pdf_page": 257,
+      "ODT": {
+        "baseline_ha": 176.7,
+        "target_ha": 215.04,
+        "change_ha": 38.34,
+        "status": "official_attachment_identity_pending"
+      },
+      "ONT": {
+        "baseline_ha": 0.0,
+        "target_ha": 0.0,
+        "change_ha": 0.0,
+        "status": "official_attachment_identity_pending"
+      }
+    }
+  ],
+  "public_decisions": [
+    {
+      "locality": "Phường Hồng Quang",
+      "kind": "Phường",
+      "records": 11,
+      "nonconflict_records": 11,
+      "conflicts": 0,
+      "content_area_records": 10,
+      "residential_content_area_m2": 1642.0,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 13.703071672354948,
+      "first_date": "2026-06-12",
+      "last_date": "2026-09-14",
+      "source_pages": [
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/10533",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/11546",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/11547",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/11548",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/8592",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/8594",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/8596",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/9250",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/9251",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/9252",
+        "https://hongquang.ninhbinh.gov.vn/van-ban-dieu-hanh/9832"
+      ]
+    },
+    {
+      "locality": "Phường Mỹ Lộc",
+      "kind": "Phường",
+      "records": 40,
+      "nonconflict_records": 40,
+      "conflicts": 0,
+      "content_area_records": 40,
+      "residential_content_area_m2": 6196.0,
+      "verified_area_records": 40,
+      "verified_residential_area_m2": 6196.0,
+      "annualized_public_record_rate": 49.829351535836174,
+      "first_date": "2026-05-14",
+      "last_date": "2026-10-20",
+      "source_pages": [
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194302",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194427",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194428",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194631",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194632",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194633",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=194634",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195224",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195379",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195380",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195381",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195382",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195760",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195762",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195763",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195764",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195765",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=195875",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197316",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197317",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197318",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197319",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197328",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197688",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=197956",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198199",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198355",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198395",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198468",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198793",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=198992",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199161",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199223",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199224",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199351",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199352",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199353",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=199925",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=200182",
+        "https://myloc.ninhbinh.gov.vn/?pageid=35106&p_steering=200183"
+      ]
+    },
+    {
+      "locality": "Phường Nam Hoa Lư",
+      "kind": "Phường",
+      "records": 18,
+      "nonconflict_records": 18,
+      "conflicts": 0,
+      "content_area_records": 18,
+      "residential_content_area_m2": 2021.1,
+      "verified_area_records": 18,
+      "verified_residential_area_m2": 2021.1,
+      "annualized_public_record_rate": 22.423208191126278,
+      "first_date": "2026-08-04",
+      "last_date": "2026-10-07",
+      "source_pages": [
+        "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-104.html",
+        "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-108.html",
+        "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-111.html",
+        "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-48.html",
+        "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-54.html",
+        "https://namhoalu.ninhbinh.gov.vn/vanban/chitietvb-63.html"
+      ]
+    },
+    {
+      "locality": "Phường Tam Điệp",
+      "kind": "Phường",
+      "records": 1,
+      "nonconflict_records": 1,
+      "conflicts": 0,
+      "content_area_records": 0,
+      "residential_content_area_m2": null,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 1.2457337883959045,
+      "first_date": "2026-04-07",
+      "last_date": "2026-04-07",
+      "source_pages": [
+        "https://tamdiep.ninhbinh.gov.vn/van-ban/van-ban-chi-dao-dieu-hanh"
+      ]
+    },
+    {
+      "locality": "Phường Thành Nam",
+      "kind": "Phường",
+      "records": 2,
+      "nonconflict_records": 2,
+      "conflicts": 0,
+      "content_area_records": 0,
+      "residential_content_area_m2": null,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 2.491467576791809,
+      "first_date": "2026-04-14",
+      "last_date": "2026-05-28",
+      "source_pages": [
+        "https://thanhnam.ninhbinh.gov.vn/van-ban-dieu-hanh/7164",
+        "https://thanhnam.ninhbinh.gov.vn/van-ban-dieu-hanh/8138"
+      ]
+    },
+    {
+      "locality": "Phường Tây Hoa Lư",
+      "kind": "Phường",
+      "records": 8,
+      "nonconflict_records": 8,
+      "conflicts": 0,
+      "content_area_records": 8,
+      "residential_content_area_m2": 1359.5,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 9.965870307167236,
+      "first_date": "2026-05-18",
+      "last_date": "2026-10-16",
+      "source_pages": [
+        "https://tayhoalu.ninhbinh.gov.vn/vanban/chitietvb-365.html",
+        "https://tayhoalu.ninhbinh.gov.vn/vanban/chitietvb-369.html",
+        "https://tayhoalu.ninhbinh.gov.vn/vanban/chitietvb-433.html",
+        "https://tayhoalu.ninhbinh.gov.vn/vanban/chitietvb-434.html",
+        "https://tayhoalu.ninhbinh.gov.vn/vanban/chitietvb-435.html",
+        "https://tayhoalu.ninhbinh.gov.vn/vanban/chitietvb-473.html",
+        "https://tayhoalu.ninhbinh.gov.vn/vanban/chitietvb-474.html",
+        "https://tayhoalu.ninhbinh.gov.vn/vanban/chitietvb-475.html"
+      ]
+    },
+    {
+      "locality": "Phường Vị Khê",
+      "kind": "Phường",
+      "records": 2,
+      "nonconflict_records": 2,
+      "conflicts": 0,
+      "content_area_records": 0,
+      "residential_content_area_m2": null,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 2.491467576791809,
+      "first_date": "2026-05-15",
+      "last_date": "2026-05-19",
+      "source_pages": [
+        "https://vikhe.ninhbinh.gov.vn/van-ban-dieu-hanh/7841",
+        "https://vikhe.ninhbinh.gov.vn/van-ban-dieu-hanh/7974"
+      ]
+    },
+    {
+      "locality": "Xã Hồng Phong",
+      "kind": "Xã",
+      "records": 25,
+      "nonconflict_records": 25,
+      "conflicts": 0,
+      "content_area_records": 0,
+      "residential_content_area_m2": null,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 31.14334470989761,
+      "first_date": "2026-06-12",
+      "last_date": "2026-10-07",
+      "source_pages": [
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/10146",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/10396",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/10398",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/10421",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/10422",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/10423",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/11471",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/11473",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/11475",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/11505",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/11750",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/12069",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/12356",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/12357",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/8606",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/8607",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/8958",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/8959",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/9133",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/9485",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/9486",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/9495",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/9498",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/9499",
+        "https://hongphong.ninhbinh.gov.vn/van-ban-dieu-hanh/9907"
+      ]
+    },
+    {
+      "locality": "Xã Liên Minh",
+      "kind": "Xã",
+      "records": 19,
+      "nonconflict_records": 19,
+      "conflicts": 0,
+      "content_area_records": 17,
+      "residential_content_area_m2": 2000.0,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 23.668941979522184,
+      "first_date": "2026-01-30",
+      "last_date": "2026-10-02",
+      "source_pages": [
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/11711",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/12231",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/5639",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/5640",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/7639",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/7640",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/7641",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/7642",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/7643",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/7644",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/7645",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/8241",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/8412",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/8950",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/9660",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/9661",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/9922",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/9940",
+        "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/9951"
+      ]
+    },
+    {
+      "locality": "Xã Minh Tân",
+      "kind": "Xã",
+      "records": 15,
+      "nonconflict_records": 15,
+      "conflicts": 0,
+      "content_area_records": 9,
+      "residential_content_area_m2": 1641.0,
+      "verified_area_records": 3,
+      "verified_residential_area_m2": 581.3,
+      "annualized_public_record_rate": 18.686006825938566,
+      "first_date": "2026-01-16",
+      "last_date": "2026-10-02",
+      "source_pages": [
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/10221",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/10222",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/10552",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/12216",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/12218",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/5238",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/7891",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/7967",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/8015",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/8016",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/8273",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/8582",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/8942",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/9193",
+        "https://minhtan.ninhbinh.gov.vn/van-ban-dieu-hanh/9266"
+      ]
+    },
+    {
+      "locality": "Xã Nghĩa Hưng",
+      "kind": "Xã",
+      "records": 25,
+      "nonconflict_records": 25,
+      "conflicts": 0,
+      "content_area_records": 19,
+      "residential_content_area_m2": 1973.6,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 31.14334470989761,
+      "first_date": "2026-05-07",
+      "last_date": "2026-09-03",
+      "source_pages": [
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10005",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10148",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10149",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10516",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10540",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10553",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10555",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10564",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/10796",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/11275",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/11334",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/11349",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/7646",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/7707",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/7708",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/7812",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/7865",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/7915",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/7921",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/7960",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/8752",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/8753",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/9146",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/9649",
+        "https://nghiahung.ninhbinh.gov.vn/van-ban-dieu-hanh/9933"
+      ]
+    },
+    {
+      "locality": "Xã Nghĩa Sơn",
+      "kind": "Xã",
+      "records": 34,
+      "nonconflict_records": 34,
+      "conflicts": 0,
+      "content_area_records": 0,
+      "residential_content_area_m2": null,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 42.35494880546075,
+      "first_date": "2026-05-11",
+      "last_date": "2026-10-15",
+      "source_pages": [
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/10170",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/10264",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/10354",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/10457",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/10636",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/11430",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/11753",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12018",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12350",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12352",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12576",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12578",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12580",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12581",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12582",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12583",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12584",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12585",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12586",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/12587",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/7690",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/7709",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/7710",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/8027",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/8048",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/8140",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/8407",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/8426",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/8929",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/8995",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/9378",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/9969",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/9971",
+        "https://nghiason.ninhbinh.gov.vn/van-ban-dieu-hanh/9995"
+      ]
+    },
+    {
+      "locality": "Xã Nho Quan",
+      "kind": "Xã",
+      "records": 7,
+      "nonconflict_records": 7,
+      "conflicts": 0,
+      "content_area_records": 1,
+      "residential_content_area_m2": 150.0,
+      "verified_area_records": 1,
+      "verified_residential_area_m2": 150.0,
+      "annualized_public_record_rate": 8.720136518771332,
+      "first_date": "2026-07-27",
+      "last_date": "2026-09-03",
+      "source_pages": [
+        "https://nhoquan.ninhbinh.gov.vn/vanban/chitietvb-111.html",
+        "https://nhoquan.ninhbinh.gov.vn/vanban/chitietvb-112.html",
+        "https://nhoquan.ninhbinh.gov.vn/vanban/chitietvb-113.html",
+        "https://nhoquan.ninhbinh.gov.vn/vanban/chitietvb-132.html",
+        "https://nhoquan.ninhbinh.gov.vn/vanban/chitietvb-144.html",
+        "https://nhoquan.ninhbinh.gov.vn/vanban/chitietvb-148.html",
+        "https://nhoquan.ninhbinh.gov.vn/vanban/chitietvb-215.html"
+      ]
+    },
+    {
+      "locality": "Xã Phát Diệm",
+      "kind": "Xã",
+      "records": 3,
+      "nonconflict_records": 3,
+      "conflicts": 0,
+      "content_area_records": 2,
+      "residential_content_area_m2": 617.5,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 3.737201365187713,
+      "first_date": "2026-06-02",
+      "last_date": "2026-06-17",
+      "source_pages": [
+        "https://phatdiem.ninhbinh.gov.vn/vanban/chitietvb-151.html",
+        "https://phatdiem.ninhbinh.gov.vn/vanban/chitietvb-152.html",
+        "https://phatdiem.ninhbinh.gov.vn/vanban/chitietvb-153.html"
+      ]
+    },
+    {
+      "locality": "Xã Phú Long",
+      "kind": "Xã",
+      "records": 73,
+      "nonconflict_records": 71,
+      "conflicts": 2,
+      "content_area_records": 66,
+      "residential_content_area_m2": 8912.5,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 88.44709897610922,
+      "first_date": "2026-03-27",
+      "last_date": "2026-09-30",
+      "source_pages": [
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-162.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-163.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-164.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-165.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-166.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-167.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-168.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-170.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-171.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-172.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-173.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-174.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-175.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-176.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-177.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-178.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-179.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-180.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-181.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-182.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-183.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-188.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-189.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-193.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-205.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-221.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-222.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-223.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-224.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-225.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-226.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-227.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-228.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-229.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-230.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-231.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-233.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-234.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-235.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-238.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-239.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-240.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-241.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-242.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-247.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-248.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-249.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-250.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-251.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-252.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-253.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-254.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-255.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-256.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-263.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-264.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-265.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-266.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-396.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-397.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-398.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-399.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-404.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-405.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-406.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-407.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-408.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-409.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-410.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-411.html",
+        "https://phulong.ninhbinh.gov.vn/vanban/chitietvb-412.html"
+      ]
+    },
+    {
+      "locality": "Xã Quang Hưng",
+      "kind": "Xã",
+      "records": 3,
+      "nonconflict_records": 3,
+      "conflicts": 0,
+      "content_area_records": 1,
+      "residential_content_area_m2": 75.0,
+      "verified_area_records": 1,
+      "verified_residential_area_m2": 75.0,
+      "annualized_public_record_rate": 3.737201365187713,
+      "first_date": "2026-09-28",
+      "last_date": "2026-10-16",
+      "source_pages": [
+        "https://quanghung.ninhbinh.gov.vn/?pageid=33115&p_steering=200142",
+        "https://quanghung.ninhbinh.gov.vn/van-ban-dieu-hanh?search=chuy%E1%BB%83n"
+      ]
+    },
+    {
+      "locality": "Xã Quỹ Nhất",
+      "kind": "Xã",
+      "records": 3,
+      "nonconflict_records": 3,
+      "conflicts": 0,
+      "content_area_records": 0,
+      "residential_content_area_m2": null,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 3.737201365187713,
+      "first_date": "2026-09-21",
+      "last_date": "2026-10-15",
+      "source_pages": [
+        "https://quynhat.ninhbinh.gov.vn/Default.aspx?sid=2546&pageid=40383"
+      ]
+    },
+    {
+      "locality": "Xã Vũ Dương",
+      "kind": "Xã",
+      "records": 6,
+      "nonconflict_records": 6,
+      "conflicts": 0,
+      "content_area_records": 6,
+      "residential_content_area_m2": 1326.0,
+      "verified_area_records": 2,
+      "verified_residential_area_m2": 233.0,
+      "annualized_public_record_rate": 7.474402730375426,
+      "first_date": "2026-06-29",
+      "last_date": "2026-08-17",
+      "source_pages": [
+        "https://vuduong.ninhbinh.gov.vn/van-ban-dieu-hanh/10639",
+        "https://vuduong.ninhbinh.gov.vn/van-ban-dieu-hanh/9213",
+        "https://vuduong.ninhbinh.gov.vn/van-ban-dieu-hanh/9214",
+        "https://vuduong.ninhbinh.gov.vn/van-ban-dieu-hanh/9215",
+        "https://vuduong.ninhbinh.gov.vn/van-ban-dieu-hanh/9216",
+        "https://vuduong.ninhbinh.gov.vn/van-ban-dieu-hanh/9719"
+      ]
+    },
+    {
+      "locality": "Xã Vụ Bản",
+      "kind": "Xã",
+      "records": 46,
+      "nonconflict_records": 46,
+      "conflicts": 0,
+      "content_area_records": 44,
+      "residential_content_area_m2": 5918.6,
+      "verified_area_records": 1,
+      "verified_residential_area_m2": 85.0,
+      "annualized_public_record_rate": 57.303754266211605,
+      "first_date": "2026-01-29",
+      "last_date": "2026-10-11",
+      "source_pages": [
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/10173",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/10174",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/10175",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/10177",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/11244",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/11245",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/11246",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/11247",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/11248",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/12272",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/12450",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/12451",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/12455",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8460",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8461",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8462",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8463",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8465",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8466",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8467",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8468",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8469",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8470",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8471",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8472",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8473",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8474",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8475",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8480",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8481",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8482",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8483",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8484",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8485",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8486",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8487",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8491",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9651",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9652",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9654",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9655",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9656",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9657",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9659",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9662",
+        "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/9663"
+      ]
+    },
+    {
+      "locality": "Xã Xuân Trường",
+      "kind": "Xã",
+      "records": 4,
+      "nonconflict_records": 4,
+      "conflicts": 0,
+      "content_area_records": 4,
+      "residential_content_area_m2": 537.5,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 4.982935153583618,
+      "first_date": "2026-07-06",
+      "last_date": "2026-10-06",
+      "source_pages": [
+        "https://xuantruong.ninhbinh.gov.vn/van-ban-dieu-hanh/12279",
+        "https://xuantruong.ninhbinh.gov.vn/van-ban-dieu-hanh/12280",
+        "https://xuantruong.ninhbinh.gov.vn/van-ban-dieu-hanh/12281",
+        "https://xuantruong.ninhbinh.gov.vn/van-ban-dieu-hanh/9422"
+      ]
+    },
+    {
+      "locality": "Xã Yên Cường",
+      "kind": "Xã",
+      "records": 1,
+      "nonconflict_records": 1,
+      "conflicts": 0,
+      "content_area_records": 1,
+      "residential_content_area_m2": 172.0,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 1.2457337883959045,
+      "first_date": "2026-05-19",
+      "last_date": "2026-05-19",
+      "source_pages": [
+        "https://yencuong.ninhbinh.gov.vn/van-ban-dieu-hanh/7877"
+      ]
+    },
+    {
+      "locality": "Xã Yên Mô",
+      "kind": "Xã",
+      "records": 14,
+      "nonconflict_records": 14,
+      "conflicts": 0,
+      "content_area_records": 14,
+      "residential_content_area_m2": 3012.4,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 17.440273037542664,
+      "first_date": "2026-01-23",
+      "last_date": "2026-10-12",
+      "source_pages": [
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-1036.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-1082.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-1151.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-1622.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-1649.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-538.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-540.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-541.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-587.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-588.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-873.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-877.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-937.html",
+        "https://xayenmo.ninhbinh.gov.vn/van-ban/chitietvb-973.html"
+      ]
+    },
+    {
+      "locality": "Xã Yên Mạc",
+      "kind": "Xã",
+      "records": 9,
+      "nonconflict_records": 9,
+      "conflicts": 0,
+      "content_area_records": 2,
+      "residential_content_area_m2": 139.2,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 11.211604095563139,
+      "first_date": "2026-04-09",
+      "last_date": "2026-09-22",
+      "source_pages": [
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-114.html",
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-117.html",
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-124.html",
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-128.html",
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-148.html",
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-150.html",
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-190.html",
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-220.html",
+        "https://yenmac.ninhbinh.gov.vn/van-ban/chitietvb-301.html"
+      ]
+    },
+    {
+      "locality": "Xã Yên Từ",
+      "kind": "Xã",
+      "records": 12,
+      "nonconflict_records": 12,
+      "conflicts": 0,
+      "content_area_records": 12,
+      "residential_content_area_m2": 2757.0,
+      "verified_area_records": 1,
+      "verified_residential_area_m2": 65.0,
+      "annualized_public_record_rate": 14.948805460750853,
+      "first_date": "2026-07-09",
+      "last_date": "2026-10-13",
+      "source_pages": [
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-1045.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-1046.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-1047.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-1048.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-795.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-821.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-867.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-880.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-920.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-974.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-995.html",
+        "https://yentu.ninhbinh.gov.vn/vanban/chitietvb-996.html"
+      ]
+    },
+    {
+      "locality": "Xã Đại Hoàng",
+      "kind": "Xã",
+      "records": 18,
+      "nonconflict_records": 18,
+      "conflicts": 0,
+      "content_area_records": 15,
+      "residential_content_area_m2": 2374.7,
+      "verified_area_records": 13,
+      "verified_residential_area_m2": 2116.4,
+      "annualized_public_record_rate": 22.423208191126278,
+      "first_date": "2026-07-27",
+      "last_date": "2026-07-27",
+      "source_pages": [
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-37.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-38.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-39.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-40.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-41.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-42.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-43.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-44.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-45.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-46.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-47.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-48.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-49.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-50.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-51.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-52.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-53.html",
+        "https://daihoang.ninhbinh.gov.vn/vanban/chitietvb-54.html"
+      ]
+    },
+    {
+      "locality": "Xã Đồng Thái",
+      "kind": "Xã",
+      "records": 43,
+      "nonconflict_records": 43,
+      "conflicts": 0,
+      "content_area_records": 39,
+      "residential_content_area_m2": 5438.35,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 53.56655290102389,
+      "first_date": "2026-04-23",
+      "last_date": "2026-09-25",
+      "source_pages": [
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-118.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-132.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-146.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-147.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-179.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-189.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-194.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-213.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-218.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-237.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-238.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-239.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-257.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-315.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-316.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-317.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-318.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-319.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-320.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-321.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-344.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-345.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-346.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-347.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-350.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-351.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-352.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-386.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-387.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-465.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-483.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-484.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-485.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-486.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-491.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-492.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-493.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-495.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-496.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-499.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-501.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-505.html",
+        "https://dongthai.ninhbinh.gov.vn/van-ban/chitietvb-506.html"
+      ]
+    },
+    {
+      "locality": "Xã Đồng Thịnh",
+      "kind": "Xã",
+      "records": 4,
+      "nonconflict_records": 4,
+      "conflicts": 0,
+      "content_area_records": 0,
+      "residential_content_area_m2": null,
+      "verified_area_records": 0,
+      "verified_residential_area_m2": null,
+      "annualized_public_record_rate": 4.982935153583618,
+      "first_date": "2026-09-21",
+      "last_date": "2026-09-30",
+      "source_pages": [
+        "https://dongthinh.ninhbinh.gov.vn/Default.aspx?sid=2533&pageid=39850"
+      ]
+    }
+  ],
+  "activity_sources": [
+    {
+      "locality": "Phường Đông A",
+      "kind": "Phường",
+      "period": "Tháng 8/2026",
+      "period_months": 1,
+      "count": 15,
+      "unit": "hồ sơ tiếp nhận, giải quyết",
+      "annualized_count": 180,
+      "meaning": "Tiếp nhận, giải quyết; chưa chứng minh tất cả đã có quyết định cho phép hoặc đã hoàn thành tài chính; không có diện tích.",
+      "source_url": "https://donga.ninhbinh.gov.vn/phuong-dong-a-tap-trung-danh-gia-ket-qua-thang-8-quyet-liet-trien-khai-nhiem-vu-trong-tam-thang-9-nam-2026",
+      "local_file": "documents/nguon_web/quota_comparison_donga_aug2026.html",
+      "source_date": "2026-08-28",
+      "status": "official_web_report"
+    },
+    {
+      "locality": "Xã Khánh Thiện",
+      "kind": "Xã",
+      "period": "Quý I/2026",
+      "period_months": 3,
+      "count": 82,
+      "unit": "trường hợp được quyết định cho phép chuyển mục đích",
+      "annualized_count": 328,
+      "meaning": "Báo cáo kết quả quý I, không có số diện tích/loại đất của 82 trường hợp; không mặc định đều là ODT/ONT. Tệp trống số/ngày đầu, tháng 3/2026.",
+      "source_url": "https://khanhthien.ninhbinh.gov.vn/uploads/images/Bao%20cao%20quy%20I%20-%20UBND%20%281%29.pdf",
+      "local_file": "documents/phap_luat/quota_comparison_khanhthien_q1_2026.pdf",
+      "pdf_page": 1,
+      "source_date": "",
+      "status": "official_report_identity_pending"
+    },
+    {
+      "locality": "Xã Hiển Khánh",
+      "kind": "Xã",
+      "period": "6 tháng đầu năm 2026",
+      "period_months": 6,
+      "count": 16,
+      "unit": "hồ sơ chuyển mục đích đã giải quyết",
+      "annualized_count": 32,
+      "meaning": "Bài thông tin địa phương, không có diện tích và chưa đối chiếu từng quyết định; không coi là số của Duy Tân.",
+      "source_url": "https://hienkhanh.ninhbinh.gov.vn/en/xa-hien-khanh-tap-trung-phat-trien-kinh-te-tao-dong-luc-moi-phat-trien-ben-vung",
+      "local_file": "documents/nguon_web/quota_comparison_hienkhanh_h1_2026.html",
+      "source_date": "",
+      "status": "official_web_report"
+    }
+  ],
+  "limitations": [
+    "50,26 ha là tăng ròng ODT 2025–2030, chưa phải phần còn lại hay quỹ riêng cho hộ.",
+    "Duy Tân không có thêm 50 ha ONT; ONT trong phụ lục là 0 → 0.",
+    "Một quyết định, một hồ sơ và một hộ không luôn là cùng một đơn vị.",
+    "Ngoại suy nhịp báo cáo không phải dự báo được cơ quan phê duyệt."
+  ],
+  "collection_note": "Tập ban đầu đến 19/10/2026 được bổ sung riêng Mỹ Lộc đến 20/10/2026; chưa cập nhật lại toàn bộ địa phương đến ngày 20/10.",
+  "targeted_review_note": "Ngày 21/10/2026 đọc ảnh bảy PDF, bổ sung 7 quyết định trong tệp ghép và 1 bản Quang Hưng; xác minh diện tích 14 quyết định. Quang Hưng 1058 dùng ngày 28/09 trên bản ký, thay 19/10 trên metadata. Không mở rộng ngày chốt tìm kiếm toàn tỉnh.",
+  "households": {
+    "locality": "Phường Duy Tân, tỉnh Ninh Bình",
+    "households": 8934,
+    "population": 27849,
+    "source_title": "Phường Duy Tân thực hiện sắp xếp, tổ chức lại các tổ dân phố nhằm tinh gọn bộ máy, nâng cao hiệu quả phục vụ Nhân dân",
+    "source_url": "https://duytan.ninhbinh.gov.vn/phuong-duy-tan-thuc-hien-sap-xep-to-chuc-lai-cac-to-dan-pho-nham-tinh-gon-bo-may-nang-cao-hieu-qua-phuc-vu-nhan-dan",
+    "local_file": "documents/nguon_web/duytan_households_2026.html",
+    "published_date": "2026-06-04",
+    "date_evidence": "DC.Date và NewsArticle.datePublished trong trang nguồn đều ghi 04/06/2026",
+    "statistical_reference_date": null,
+    "checked_on": "2026-10-19",
+    "status": "official_locality_publication",
+    "caveat": "Bài viết nêu tổng số tại thời điểm công bố; không ghi ngày chốt sổ thống kê riêng. Chưa xác nhận số hộ cập nhật đến 19/10/2026 hoặc số hộ có nhu cầu/đủ điều kiện chuyển mục đích. Không suy số hộ từ dân số.",
+    "source_sha256": "5eb7969da1a8923507ca23f1473544d378bef94f80d9054e15c753f18f8ddae8",
+    "capacity_scenarios": [
+      {
+        "mean_m2": 106,
+        "household_capacity": 4741,
+        "share_of_baseline_percent": 53.06693530333557,
+        "all_households_area_ha": 94.7004
+      },
+      {
+        "mean_m2": 150,
+        "household_capacity": 3350,
+        "share_of_baseline_percent": 37.49720170136557,
+        "all_households_area_ha": 134.01
+      },
+      {
+        "mean_m2": 200,
+        "household_capacity": 2513,
+        "share_of_baseline_percent": 28.12849787329304,
+        "all_households_area_ha": 178.68
+      }
+    ]
+  },
+  "observed_comparisons": [
+    {
+      "locality": "Phường Đông A",
+      "kind": "Phường",
+      "period": "Tháng 8/2026",
+      "period_months": 1,
+      "count": 15,
+      "unit": "hồ sơ tiếp nhận, giải quyết",
+      "annualized_count": 180,
+      "meaning": "Tiếp nhận, giải quyết; chưa chứng minh tất cả đã có quyết định cho phép hoặc đã hoàn thành tài chính; không có diện tích.",
+      "source_url": "https://donga.ninhbinh.gov.vn/phuong-dong-a-tap-trung-danh-gia-ket-qua-thang-8-quyet-liet-trien-khai-nhiem-vu-trong-tam-thang-9-nam-2026",
+      "local_file": "documents/nguon_web/quota_comparison_donga_aug2026.html",
+      "source_date": "2026-08-28",
+      "status": "official_web_report",
+      "demographics": {
+        "locality": "Phường Đông A",
+        "households": 9406,
+        "population": 31980,
+        "source_url": "https://donga.ninhbinh.gov.vn/phuong-dong-a-mien-dat-giau-truyen-thong-khat-vong-vuon-minh-phat-trien",
+        "local_file": "documents/nguon_web/donga_demographics_2026.html",
+        "published_date": "2026-08-01",
+        "modified_date": "2026-08-09",
+        "source_period_label": "Bài công bố 01/08/2026, cập nhật 09/08/2026",
+        "status": "official_locality_publication",
+        "caveat": "Quy mô hộ/nhân khẩu của phường sau sắp xếp; bài không ghi ngày chốt sổ thống kê riêng. Không tự coi là số hộ hiện tại của tháng 10.",
+        "source_sha256": "7a3a9fc9f6f4655f86f5a6be00791a5947ecb0a2a3055e0115fc9ca0953be132"
+      },
+      "cases_per_1000_households_period": 1.594726770146715,
+      "cases_per_1000_households_month": 1.594726770146715
+    },
+    {
+      "locality": "Xã Khánh Thiện",
+      "kind": "Xã",
+      "period": "Quý I/2026",
+      "period_months": 3,
+      "count": 82,
+      "unit": "trường hợp được quyết định cho phép chuyển mục đích",
+      "annualized_count": 328,
+      "meaning": "Báo cáo kết quả quý I, không có số diện tích/loại đất của 82 trường hợp; không mặc định đều là ODT/ONT. Tệp trống số/ngày đầu, tháng 3/2026.",
+      "source_url": "https://khanhthien.ninhbinh.gov.vn/uploads/images/Bao%20cao%20quy%20I%20-%20UBND%20%281%29.pdf",
+      "local_file": "documents/phap_luat/quota_comparison_khanhthien_q1_2026.pdf",
+      "pdf_page": 1,
+      "source_date": "",
+      "status": "official_report_identity_pending",
+      "demographics": {
+        "locality": "Xã Khánh Thiện",
+        "households": 6616,
+        "population": 24281,
+        "source_url": "https://khanhthien.ninhbinh.gov.vn/uploads/images/bc_thi_%C4%91ua_x%C3%B3a_nh%C3%A0_t%E1%BA%A1m_d%E1%BB%99t_n%C3%A1t-signed.pdf",
+        "local_file": "documents/phap_luat/khanhthien_demographics_2025.pdf",
+        "pdf_page": 1,
+        "published_date": null,
+        "source_period_label": "Báo cáo tháng 8/2025, trang 1; đầu tệp trống số/ngày",
+        "status": "official_report_identity_pending",
+        "caveat": "Quy mô xã mới gồm Khánh Cường, Khánh Lợi, Khánh Thiện; mẫu số công bố 2025, kỳ hồ sơ là quý I/2026. Tỷ lệ chỉ là đối chiếu gần đúng, chưa cập nhật cùng thời điểm.",
+        "source_sha256": "385b600fb3dad5a12af376cdd408a6bfd9a2bc3567337be6a5097cb6c4404ae0"
+      },
+      "cases_per_1000_households_period": 12.394195888754533,
+      "cases_per_1000_households_month": 4.131398629584845
+    },
+    {
+      "locality": "Xã Hiển Khánh",
+      "kind": "Xã",
+      "period": "6 tháng đầu năm 2026",
+      "period_months": 6,
+      "count": 16,
+      "unit": "hồ sơ chuyển mục đích đã giải quyết",
+      "annualized_count": 32,
+      "meaning": "Bài thông tin địa phương, không có diện tích và chưa đối chiếu từng quyết định; không coi là số của Duy Tân.",
+      "source_url": "https://hienkhanh.ninhbinh.gov.vn/en/xa-hien-khanh-tap-trung-phat-trien-kinh-te-tao-dong-luc-moi-phat-trien-ben-vung",
+      "local_file": "documents/nguon_web/quota_comparison_hienkhanh_h1_2026.html",
+      "source_date": "",
+      "status": "official_web_report",
+      "demographics": {
+        "locality": "Xã Hiển Khánh",
+        "households": 8786,
+        "population": 30210,
+        "source_url": "https://hienkhanh.ninhbinh.gov.vn/xa-hien-khanh-xay-dung-phuong-an-sap-xep-to-chuc-lai-thon-xom-tu-32-thon-xuong-con-12-thon",
+        "local_file": "documents/nguon_web/hienkhanh_demographics_2026.html",
+        "published_date": "2026-06-14",
+        "modified_date": "2026-07-16",
+        "source_period_label": "Bài công bố 14/06/2026, cập nhật 16/07/2026",
+        "status": "official_locality_publication",
+        "caveat": "Quy mô trong phương án sắp xếp thôn năm 2026; không trộn với nguồn tháng 3/2026 từng ghi 8.560 hộ. Bài không ghi ngày chốt sổ thống kê riêng.",
+        "source_sha256": "5afb73bf63e39221a9fef33076053c4a889e95ecf8ed41dc873c59ee335d050b"
+      },
+      "cases_per_1000_households_period": 1.821078989301161,
+      "cases_per_1000_households_month": 0.3035131648835268
+    }
+  ],
+  "input_sha256": {
+    "data/decisions_2026.csv": "4484ecfb5384cedf303079335a02e546dfa39814533ec3172cf250ae8f9b10be",
+    "data/decision_collection_scope.json": "290200f42a793eacfa403f1b034bf701a654f838c8d68c3ba359e76ef7ba3401",
+    "data/residential_activity_sources.json": "68c44db5e2bd8aa5a2eacc1e0e1b5dc29ebfdacd826d8538cb71acfc92168b5f",
+    "data/duy_tan_households.json": "a4d09c2b23123023583cbf8207a9b6d98db2613d188c909b4b9a1de6e730b902",
+    "data/residential_locality_demographics.json": "f337b4df42d1decaafb112d522052d9c7e28f0e7f11a592d22d0b680be2412dc",
+    "tmp/3279_2026_phu_luc_129.txt": "b79954171242bd533c0a33659d8decb7cf4b56eda70acb5636d717296ac84fe9"
+  }
+}

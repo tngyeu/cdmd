@@ -1,0 +1,31 @@
+---
+layout: base.njk
+title: Văn bản pháp lý
+permalink: /phap-ly/index.html
+navKey: legal
+eyebrow: VĂN BẢN MỚI & CẬP NHẬT
+description: Ưu tiên những văn bản mới cần theo dõi. Xếp theo ngày ban hành; mở từng văn bản để đọc nội dung, quan hệ sửa đổi và nguồn.
+pageScript: legal
+pageStyle: legal
+---
+<div class="legal-context-line"><span>{% icon "clock" %} Cập nhật nội dung <strong>{{ research.updatedOn | dateVi }}</strong></span><a href="/phap-ly/cach-doc/">Cách đọc căn cứ & mức xác minh {% icon "arrow" %}</a></div>
+{% for report in research.featuredReports %}{% if report.name == 'tai_chinh_dat_o_co_san' %}<div class="callout info section-block">{% icon report.icon %}<div><strong>{{ report.title }}</strong><p>{{ report.summary }} <a href="{{ report.url }}">Đọc phân tích cho 106 m²</a> · <a href="/phap-ly/van-ban/btc-cv7713-2026/">Mở Công văn 7713 và bản ký</a></p></div></div>{% endif %}{% endfor %}
+<section class="legal-library" aria-label="Danh mục văn bản theo ngày">
+  <form id="legal-filters" role="search" aria-label="Lọc văn bản">
+    <div class="legal-view-tabs" aria-label="Phạm vi thời gian">
+      <button type="button" data-view="recent" aria-pressed="true">Mới trong 12 tháng <span>{{ research.legalRecentCount }}</span></button>
+      <button type="button" data-view="all" aria-pressed="false">Tất cả văn bản <span>{{ research.legal.length }}</span></button>
+      <button type="button" data-view="undated" aria-pressed="false">Chưa rõ ngày <span>{{ research.legalUndatedCount }}</span></button>
+    </div>
+    <input type="hidden" name="view" value="recent">
+    <div class="legal-search-row"><label class="search-field">{% icon "search" %}<input type="search" name="q" aria-label="Tìm văn bản" placeholder="Tìm số hiệu, tên văn bản, nội dung cần đọc…"></label><a class="button button-secondary button-small" href="/du-lieu/legal_documents.csv" download>{% icon "download" %} Chỉ mục CSV</a></div>
+    <div class="legal-filter-row"><label>Chủ đề<select name="topic"><option value="">Tất cả chủ đề</option>{% for topic in research.topics %}<option value="{{ topic.key }}">{{ topic.label }} ({{ topic.count }})</option>{% endfor %}</select></label><label>Năm ban hành<select name="year"><option value="">Tất cả năm</option>{% for year in research.legalYears %}<option value="{{ year }}">{{ year }}</option>{% endfor %}</select></label><label>Tình trạng nguồn<select name="evidence"><option value="">Tất cả tình trạng</option><option value="green">Có PDF / ảnh gốc</option><option value="amber">Cần khớp bản ký</option><option value="blue">Đã xác nhận thông tin</option><option value="muted">Viện dẫn / lịch sử</option></select></label><label>Sắp xếp theo ngày<select id="legal-sort" aria-label="Sắp xếp văn bản"><option value="newest">Mới nhất → Cũ nhất</option><option value="oldest">Cũ nhất → Mới nhất</option><option value="number">Theo số hiệu</option></select></label><button class="reset-button" type="reset">Đặt lại</button></div>
+  </form>
+  <div class="legal-result-bar"><strong id="legal-count" role="status">{{ research.legalRecentCount }} văn bản mới</strong><span id="legal-scope">Ban hành từ {{ research.legalRecentStart | dateVi }} đến {{ research.stats.cutoff | dateVi }} · Ngày chưa rõ được tách riêng.</span></div>
+  <table class="legal-timeline"><thead><tr><th class="legal-date-heading" aria-sort="descending"><button type="button" id="legal-date-sort">Ngày ban hành <span id="legal-sort-arrow">↓</span></button></th><th>Văn bản & nội dung cần chú ý</th><th>Nguồn & chi tiết</th></tr></thead><tbody id="legal-rows">
+  {% for doc in research.legal %}<tr class="legal-record" data-id="{{ doc.document_id }}"{% if not doc.recent %} hidden{% endif %}><td class="legal-date-cell"><time{% if doc.issued_date %} datetime="{{ doc.issued_date }}"{% endif %}>{{ doc.issued_date | dateVi }}</time></td><td class="legal-content-cell"><a class="legal-record-number" href="{{ doc.url }}">{{ doc.number }}</a><h2><a href="{{ doc.url }}">{{ doc.title }}</a></h2><p>{{ doc.summary }}</p><span class="legal-record-topic">{{ doc.topicLabel }}</span><details class="legal-record-notes"><summary>Điểm cần đọc & quan hệ sửa đổi</summary><p><strong>Với hồ sơ:</strong> {{ doc.practical_relevance }}</p><p><strong>Đọc cùng:</strong> {{ doc.relationship }}</p></details></td><td class="legal-source-cell"><span class="badge {{ doc.evidence.tone }}">{{ doc.evidence.label }}</span><a class="legal-record-open" href="{{ doc.url }}">Đọc chi tiết {% icon "arrow" %}</a>{% if doc.localURL %}<a class="legal-record-file" href="{{ doc.localURL }}" target="_blank" rel="noopener noreferrer">{{ doc.localLabel }} {% icon "external" %}</a>{% endif %}</td></tr>{% endfor %}
+  </tbody></table>
+  <div class="empty-state" id="legal-empty" hidden>{% icon "search" %}<h3>Không có văn bản khớp bộ lọc</h3><p>Thử tìm trong toàn bộ văn bản để bao gồm cả các căn cứ cũ.</p><button type="button" class="button button-secondary" data-view="all">Tìm trong tất cả văn bản</button></div>
+  <div class="legal-older-note" id="legal-older-note"><span>{% icon "book" %} Văn bản nền và các văn bản cũ hơn vẫn được giữ để đối chiếu.</span><button type="button" data-view="all">Xem toàn bộ {% icon "arrow" %}</button></div>
+</section>
+<script type="application/json" id="legal-data" data-cutoff="{{ research.stats.cutoff }}">{{ research.legal | jsonScript | safe }}</script>

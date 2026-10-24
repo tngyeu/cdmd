@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ description or site.description }}">
+  <meta name="theme-color" content="#245c47">
+  <title>{{ title }} · {{ site.name }} Ninh Bình</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+  <link rel="stylesheet" href="/assets/site.css">
+  {% if pageStyle %}<link rel="stylesheet" href="/assets/{{ pageStyle }}.css">{% endif %}
+  <script type="module" src="/assets/app.js"></script>
+  {% if pageScript %}<script type="module" src="/assets/{{ pageScript }}.js"></script>{% endif %}
+</head>
+<body data-page="{{ navKey or 'home' }}">
+<a class="skip-link" href="#noi-dung">Đến nội dung chính</a>
+<div class="nav-scrim" data-close-nav></div>
+<aside class="sidebar" id="sidebar" aria-label="Điều hướng chính">
+  <button class="icon-button mobile-close" type="button" data-close-nav aria-label="Đóng menu">{% icon "close" %}</button>
+  <a class="brand" href="/" aria-label="Sổ tay đất đai Ninh Bình — Trang bắt đầu">
+    <span class="brand-mark">{% icon "map" %}</span><span>Sổ tay đất đai<small>NINH BÌNH</small></span>
+  </a>
+  <div class="sidebar-caption">KHÔNG GIAN TRA CỨU</div>
+  <nav>
+    {% for item in site.navigation %}
+    <a href="{{ item.url }}" class="nav-item{% if navKey == item.key %} is-active{% endif %}"{% if navKey == item.key %} aria-current="page"{% endif %}>
+      {% icon item.icon %}<span>{{ item.label }}</span>{% if item.key == 'decisions' %}<span class="nav-count">{{ research.stats.records }}</span>{% endif %}
+    </a>
+    {% endfor %}
+  </nav>
+  <div class="sidebar-resource">
+    <span class="sidebar-caption">TÀI LIỆU & NGUỒN</span>
+    <a class="nav-item" href="/nguon-va-gioi-han/">{% icon "shield" %}<span>Nguồn & mức xác minh</span></a>
+    <a class="nav-item" href="/huong-dan/">{% icon "info" %}<span>Cách sử dụng sổ tay</span></a>
+  </div>
+  <div class="sidebar-note"><span class="status-dot"></span><strong>Cập nhật {{ research.updatedOn | dateVi }}</strong><p>Nghiên cứu và tham chiếu.<br>Luôn đọc cùng văn bản gốc.</p><a href="/nguon-va-gioi-han/">Xem phạm vi dữ liệu {% icon "arrow" %}</a></div>
+  <div class="sidebar-bottom">Mỗi thông tin, một căn cứ.</div>
+</aside>
+<div class="app-shell">
+  <header class="topbar">
+    <div class="breadcrumb"><button class="icon-button mobile-nav-button" type="button" data-toggle-nav aria-label="Mở menu" aria-controls="sidebar" aria-expanded="false">{% icon "menu" %}</button><span class="breadcrumb-root">Không gian tra cứu</span>{% icon "chevron" %}<span>{{ breadcrumb or title }}</span></div>
+    <div class="top-actions"><button class="search-trigger" type="button" data-open-search>{% icon "search" %}<span>Tìm trong sổ tay</span><kbd>Ctrl K</kbd></button><button class="icon-button print-button" type="button" data-print aria-label="In nội dung đang xem">{% icon "print" %}</button></div>
+  </header>
+  <main id="noi-dung" tabindex="-1">
+    {% if not home %}
+    <div class="page-heading"><div class="eyebrow">{{ eyebrow or 'SỔ TAY ĐẤT ĐAI · NINH BÌNH' }}</div><h1>{{ title }}</h1>{% if description %}<p class="page-lead">{{ description }}</p>{% endif %}</div>
+    {% endif %}
+    {{ content | safe }}
+  </main>
+  <footer class="footer"><span>Sổ tay đất đai <span class="footer-dot">·</span> Ninh Bình</span><span>Cập nhật nội dung {{ research.updatedOn | dateVi }} <span class="footer-dot">·</span> <a href="/nguon-va-gioi-han/">Nguồn & giới hạn</a></span></footer>
+</div>
+<dialog class="search-dialog" id="global-search" aria-labelledby="search-title">
+  <div class="search-dialog-head"><h2 id="search-title">Tìm trong sổ tay</h2><button class="icon-button" type="button" data-close-search aria-label="Đóng tìm kiếm">{% icon "close" %}</button></div>
+  <label class="global-search-input">{% icon "search" %}<input type="search" id="global-query" placeholder="Tên văn bản, số quyết định, câu hỏi…" autocomplete="off" aria-label="Từ khóa tìm kiếm toàn site"></label>
+  <p class="search-help" id="search-status" role="status">Hỗ trợ tiếng Việt không dấu. Ví dụ: “hạn mức”, “3279”, “Duy Tân”.</p>
+  <div id="global-results" class="global-results"></div>
+  <div class="search-dialog-foot"><span>Văn bản · Thủ tục · Hỏi đáp · Quyết định</span><kbd>Esc để đóng</kbd></div>
+</dialog>
+<noscript><div class="noscript-note">Bạn vẫn đọc được nội dung và mở tài liệu. Bật JavaScript để dùng tìm kiếm, bộ lọc và mô hình tính toán.</div></noscript>
+</body>
+</html>

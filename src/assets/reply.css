@@ -1,0 +1,16 @@
+.reply-intro strong{font-size:19px;color:var(--green)}
+.reply-intro p{margin-top:12px}.reply-actions{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 10px}
+.reply-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:20px}
+.reply-fields label,.reply-wide-label,.reply-quote label{display:flex;flex-direction:column;gap:6px;font-size:14px;font-weight:600}
+.reply-fields input,.reply-fields select,.reply-wide-label textarea,.reply-quote textarea{width:100%;padding:10px 12px;border:1px solid #cbd6cd;background:#fff;border-radius:6px;font:inherit;font-weight:400;color:var(--ink)}
+.reply-wide-label{margin-top:18px}.reply-wide-label textarea,.reply-quote textarea{resize:vertical;font-family:inherit;line-height:1.65}
+.reply-notice{border-left:3px solid #b99b5b;padding:10px 15px;margin-top:18px;background:#f8f5ed;font-size:14px;overflow-wrap:anywhere}
+.reply-details{margin-top:16px;border-top:1px solid var(--line);padding-top:14px}.reply-details summary{font-weight:600;color:var(--green);cursor:pointer}.reply-details .prose{margin-top:16px}.reply-details>p{margin-top:12px}
+.reply-scenarios{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:20px;align-items:start}
+.reply-scenario{padding:22px;min-width:0}.reply-scenario.selected{border-color:var(--green);box-shadow:0 0 0 1px var(--green)}
+.reply-choice{display:flex;gap:12px;align-items:flex-start;cursor:pointer}.reply-choice input{width:19px;height:19px;margin-top:5px;accent-color:var(--green);flex:none}.reply-choice strong{display:block;font-size:17px}.reply-choice .micro-label{display:block;margin-bottom:5px}
+.reply-scenario>p{margin-top:12px;font-size:14px}.reply-quote{margin-top:16px}.reply-scenario .prose{font-size:14px}.reply-scenario .prose h3{font-size:15px}
+.reply-output{width:100%;margin-top:12px;min-height:500px;resize:vertical;padding:24px;font:16px/1.8 'Times New Roman',serif;color:#17241c;background:#fff;border:1px solid #bdcbbf;border-radius:6px;tab-size:2}
+.reply-print{display:none}.reply-details a{overflow-wrap:anywhere}
+@media(max-width:800px){.reply-fields,.reply-scenarios{grid-template-columns:1fr}.reply-output{padding:15px}.reply-scenario{padding:18px}}
+@media print{body[data-page="response"] .no-reply-print,body[data-page="response"] .page-heading{display:none!important}body[data-page="response"] #ban-du-thao{border:0;margin:0;padding:0}body[data-page="response"] .reply-print{display:block;white-space:pre-wrap;overflow-wrap:anywhere;font:13pt/1.5 'Times New Roman',serif;color:#000}body[data-page="response"] main{display:block}@page{size:A4;margin:22mm 20mm}}

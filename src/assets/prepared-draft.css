@@ -1,0 +1,14 @@
+.prepared-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+.prepared-actions .button{font-size:13px}
+.prepared-label{display:block;font-weight:650;font-size:14px;margin:16px 0 8px}
+.prepared-text{display:block;width:100%;min-height:580px;height:74vh;resize:vertical;padding:22px;border:1px solid #bdcbbf;border-radius:7px;background:#fff;color:#17241c;font:16px/1.7 'Times New Roman',serif}
+.prepared-text:focus{outline:2px solid var(--green);outline-offset:2px}
+.prepared-status{padding:12px 15px;background:#edf4ef;border-radius:6px}
+.prepared-print{display:none}
+@media(max-width:800px){.prepared-text{padding:14px;min-height:460px}.prepared-actions .button{font-size:12px}}
+@media print{
+  .prepared-guide,.prepared-editor,.document-toolbar,.page-heading,.toc-panel{display:none!important}
+  .document-layout,.article-panel{display:block!important;margin:0!important;padding:0!important;border:0!important;box-shadow:none!important;max-width:none!important}
+  .prepared-print{display:block;white-space:pre-wrap;overflow-wrap:anywhere;font:13pt/1.45 'Times New Roman',serif;color:#000;background:#fff;border:0;margin:0;padding:0}
+  @page{size:A4;margin:22mm 20mm}
+}

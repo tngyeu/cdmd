@@ -1,0 +1,14 @@
+{
+  "locality": "Phường Duy Tân, tỉnh Ninh Bình",
+  "households": 8934,
+  "population": 27849,
+  "source_title": "Phường Duy Tân thực hiện sắp xếp, tổ chức lại các tổ dân phố nhằm tinh gọn bộ máy, nâng cao hiệu quả phục vụ Nhân dân",
+  "source_url": "https://duytan.ninhbinh.gov.vn/phuong-duy-tan-thuc-hien-sap-xep-to-chuc-lai-cac-to-dan-pho-nham-tinh-gon-bo-may-nang-cao-hieu-qua-phuc-vu-nhan-dan",
+  "local_file": "documents/nguon_web/duytan_households_2026.html",
+  "published_date": "2026-06-04",
+  "date_evidence": "DC.Date và NewsArticle.datePublished trong trang nguồn đều ghi 04/06/2026",
+  "statistical_reference_date": null,
+  "checked_on": "2026-10-19",
+  "status": "official_locality_publication",
+  "caveat": "Bài viết nêu tổng số tại thời điểm công bố; không ghi ngày chốt sổ thống kê riêng. Chưa xác nhận số hộ cập nhật đến 19/10/2026 hoặc số hộ có nhu cầu/đủ điều kiện chuyển mục đích. Không suy số hộ từ dân số."
+}

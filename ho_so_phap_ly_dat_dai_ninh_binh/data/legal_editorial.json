@@ -1,0 +1,566 @@
+{
+  "checked_on": "2026-10-21",
+  "documents": {
+    "LDD31": {
+      "summary": "Quy định căn cứ giao đất, cho thuê đất, chuyển mục đích; các trường hợp phải xin phép; công nhận đất ở và cơ chế giá đất.",
+      "practical_relevance": "Với hồ sơ CLN sang ODT, đọc Điều 116 về căn cứ, Điều 121 về chuyển mục đích và Điều 123 về thẩm quyền cùng các sửa đổi, phân cấp hiện hành.",
+      "summary_basis": "VBHN 44: trang 2–3 chuỗi sửa đổi; trang 96 khoản 5 Điều 116 và chú thích 12; 98–99 Điều 121; 189 khoản 2 Điều 220.",
+      "checked_on": "2026-10-21",
+      "relevant_articles": "Điều 116 khoản 5; Điều 121 khoản 1 điểm b, khoản 2; Điều 123;137;141;159;195;196; Điều 220 khoản 2 điểm b",
+      "current_status": "Đã được sửa đổi; đối chiếu điều trọng tâm qua VBHN 44 ngày 16/03/2026 và NQ 254, NĐ 49 ngày rà soát 21/10",
+      "notes": "VBHN 44 trang 2–3 liệt kê 12 luật sửa đổi. Khoản 5 Điều 116 có thay thuật ngữ quy hoạch bởi Luật 47/2024; xem chú thích 12 trang 96. Điều 220 phải đọc cùng Điều 11 và 13 NQ 254. Không coi VBHN là văn bản tự tạo hiệu lực hoặc bảo đảm không có thay đổi sau ngày hợp nhất."
+    },
+    "L43": {
+      "summary": "Điều chỉnh thời điểm có hiệu lực của Luật Đất đai 2024 và các luật liên quan, đưa Luật Đất đai vào áp dụng từ 01/08/2024.",
+      "practical_relevance": "Giúp xác định luật áp dụng theo thời điểm; ngày 01/01/2025 trên bản Luật Đất đai ban đầu đã được sửa.",
+      "summary_basis": "Luật 43/2024; quan hệ sửa thời điểm áp dụng Luật 31/2024."
+    },
+    "L47-2024": {
+      "title": "Luật Quy hoạch đô thị và nông thôn",
+      "issued_date": "2024-11-26",
+      "effective_date": "2025-07-01",
+      "group": "Luật liên quan",
+      "verification_status": "official_metadata",
+      "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=212475",
+      "local_file": "documents/nguon_web/laws_47.html",
+      "summary": "Điều chỉnh việc lập, thẩm định, phê duyệt và quản lý quy hoạch đô thị, nông thôn.",
+      "practical_relevance": "Là lớp quy hoạch cần đối chiếu khi xem mục đích sử dụng đất; chưa đối chiếu điều sửa Luật Đất đai trong văn bản này.",
+      "summary_basis": "Tên, ngày và trích yếu từ Cổng Chính phủ; chưa đọc toàn văn độc lập.",
+      "notes": "Đã xác nhận tên/ngày trên metadata Chính phủ. Bản cũ chỉ ghi chung là luật được viện dẫn; chưa kiểm chứng điều sửa tác động trực tiếp hồ sơ.",
+      "relationship": "Được viện dẫn trong căn cứ văn bản tỉnh; đã xác nhận tên/ngày qua Cổng Chính phủ, chưa đối chiếu từng điều sửa."
+    },
+    "L58-2024": {
+      "title": "Luật Đầu tư công",
+      "issued_date": "2024-11-29",
+      "effective_date": "2025-01-01",
+      "group": "Luật liên quan",
+      "verification_status": "official_metadata",
+      "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=212486",
+      "local_file": "documents/nguon_web/laws_58.html",
+      "summary": "Quy định quản lý đầu tư công, kế hoạch vốn và quyết định đầu tư các chương trình, dự án sử dụng vốn đầu tư công.",
+      "practical_relevance": "Liên quan dự án hạ tầng tạo quỹ đất và kế hoạch vốn; chưa đối chiếu điều sửa Luật Đất đai cho hồ sơ cá nhân.",
+      "summary_basis": "Tên, ngày và trích yếu từ Cổng Chính phủ; chưa đọc toàn văn độc lập.",
+      "relationship": "Được viện dẫn trong căn cứ văn bản tỉnh; đã xác nhận tên/ngày qua Cổng Chính phủ, chưa đối chiếu từng điều sửa.",
+      "notes": "Tên và ngày đã đối chiếu metadata Cổng Chính phủ; chưa đọc toàn văn độc lập, chưa xác định điều sửa áp dụng trực tiếp cho hồ sơ."
+    },
+    "L71-2025": {
+      "title": "Luật Công nghiệp công nghệ số",
+      "issued_date": "2025-06-14",
+      "effective_date": "2026-01-01",
+      "group": "Luật liên quan",
+      "verification_status": "official_metadata",
+      "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214609",
+      "local_file": "documents/nguon_web/laws_71.html",
+      "summary": "Quy định về công nghiệp công nghệ số; xuất hiện trong chuỗi luật được viện dẫn tại các văn bản đất đai của tỉnh.",
+      "practical_relevance": "Chưa đối chiếu điều sửa và chưa xác định tác động trực tiếp đến hồ sơ hộ gia đình chuyển CLN sang ODT.",
+      "summary_basis": "Tên/ngày từ Cổng Chính phủ; phạm vi liên quan mới nhận diện qua căn cứ văn bản tỉnh.",
+      "relationship": "Được viện dẫn trong căn cứ văn bản tỉnh; đã xác nhận tên/ngày qua Cổng Chính phủ, chưa đối chiếu từng điều sửa.",
+      "notes": "Tên và ngày đã đối chiếu metadata Cổng Chính phủ; chưa đọc toàn văn độc lập, chưa xác định điều sửa áp dụng trực tiếp cho hồ sơ."
+    },
+    "L84-2025": {
+      "title": "Luật Thanh tra",
+      "issued_date": "2025-06-25",
+      "effective_date": "2025-07-01",
+      "group": "Luật liên quan",
+      "verification_status": "official_metadata",
+      "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214594",
+      "local_file": "documents/nguon_web/laws_84.html",
+      "summary": "Điều chỉnh tổ chức và hoạt động thanh tra; được viện dẫn trong chuỗi sửa đổi liên quan Luật Đất đai.",
+      "practical_relevance": "Cần khi xác định cơ chế thanh tra, kiểm tra; chưa đối chiếu điều sửa ảnh hưởng điều kiện chuyển mục đích.",
+      "summary_basis": "Tên, ngày và trích yếu từ Cổng Chính phủ; chưa đọc toàn văn độc lập.",
+      "relationship": "Được viện dẫn trong căn cứ văn bản tỉnh; đã xác nhận tên/ngày qua Cổng Chính phủ, chưa đối chiếu từng điều sửa.",
+      "notes": "Tên và ngày đã đối chiếu metadata Cổng Chính phủ; chưa đọc toàn văn độc lập, chưa xác định điều sửa áp dụng trực tiếp cho hồ sơ."
+    },
+    "L93-2025": {
+      "title": "Luật Khoa học, công nghệ và đổi mới sáng tạo",
+      "issued_date": "2025-06-27",
+      "effective_date": "2025-10-01",
+      "group": "Luật liên quan",
+      "verification_status": "official_metadata",
+      "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214603",
+      "local_file": "documents/nguon_web/laws_93.html",
+      "summary": "Quy định lĩnh vực khoa học, công nghệ và đổi mới sáng tạo; có trong căn cứ các văn bản tỉnh về đất đai.",
+      "practical_relevance": "Chưa đối chiếu điều sửa trực tiếp Luật Đất đai; chưa có nội dung đã kiểm chứng để áp dụng riêng cho hồ sơ CLN sang ODT.",
+      "summary_basis": "Tên, ngày và trích yếu từ Cổng Chính phủ; chưa đọc toàn văn độc lập.",
+      "relationship": "Được viện dẫn trong căn cứ văn bản tỉnh; đã xác nhận tên/ngày qua Cổng Chính phủ, chưa đối chiếu từng điều sửa.",
+      "notes": "Tên và ngày đã đối chiếu metadata Cổng Chính phủ; chưa đọc toàn văn độc lập, chưa xác định điều sửa áp dụng trực tiếp cho hồ sơ."
+    },
+    "L95-2025": {
+      "title": "Luật Đường sắt",
+      "issued_date": "2025-06-27",
+      "effective_date": "2026-01-01",
+      "group": "Luật liên quan",
+      "verification_status": "official_metadata",
+      "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=214604",
+      "local_file": "documents/nguon_web/laws_95.html",
+      "summary": "Quy định lĩnh vực đường sắt; được dẫn trong chuỗi luật sửa đổi liên quan đất đai.",
+      "practical_relevance": "Chưa đối chiếu điều sửa; cần kiểm tra riêng nếu đất liên quan dự án hoặc hành lang đường sắt.",
+      "summary_basis": "Tên, ngày và trích yếu từ Cổng Chính phủ; chưa đọc toàn văn độc lập.",
+      "relationship": "Được viện dẫn trong căn cứ văn bản tỉnh; đã xác nhận tên/ngày qua Cổng Chính phủ, chưa đối chiếu từng điều sửa.",
+      "notes": "Tên và ngày đã đối chiếu metadata Cổng Chính phủ; chưa đọc toàn văn độc lập, chưa xác định điều sửa áp dụng trực tiếp cho hồ sơ."
+    },
+    "L146-2025": {
+      "title": "Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường",
+      "issued_date": "2025-12-11",
+      "effective_date": "2026-01-01",
+      "group": "Luật liên quan",
+      "verification_status": "official_metadata",
+      "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=216543",
+      "local_file": "documents/nguon_web/laws_146.html",
+      "summary": "Sửa đồng thời 15 luật trong lĩnh vực nông nghiệp và môi trường, thuộc chuỗi cập nhật cần rà khi dùng Luật Đất đai.",
+      "practical_relevance": "Cần đọc điều sửa cụ thể trước khi viện dẫn điều kiện, thẩm quyền hoặc thủ tục trong năm 2026; kho chưa đối chiếu toàn văn độc lập.",
+      "summary_basis": "Tên, ngày và trích yếu từ Cổng Chính phủ.",
+      "relationship": "Được viện dẫn trong căn cứ văn bản tỉnh; đã xác nhận tên/ngày qua Cổng Chính phủ, chưa đối chiếu từng điều sửa.",
+      "notes": "Tên và ngày đã đối chiếu metadata Cổng Chính phủ; chưa đọc toàn văn độc lập, chưa xác định điều sửa áp dụng trực tiếp cho hồ sơ."
+    },
+    "L147-2025": {
+      "title": "Luật sửa đổi, bổ sung một số điều của Luật Địa chất và khoáng sản",
+      "issued_date": "2025-12-11",
+      "effective_date": "2026-01-01",
+      "group": "Luật liên quan",
+      "verification_status": "official_metadata",
+      "source_url": "https://vanban.chinhphu.vn/?pageid=27160&docid=216553",
+      "local_file": "documents/nguon_web/laws_147.html",
+      "summary": "Sửa Luật Địa chất và khoáng sản; được viện dẫn trong chuỗi luật liên quan tại văn bản đất đai của tỉnh.",
+      "practical_relevance": "Chưa xác định điều sửa ảnh hưởng trực tiếp đến hồ sơ đất ở hộ gia đình; cần đọc nếu thửa đất liên quan khu vực khoáng sản.",
+      "summary_basis": "Tên, ngày và trích yếu từ Cổng Chính phủ; chưa đọc toàn văn độc lập.",
+      "relationship": "Được viện dẫn trong căn cứ văn bản tỉnh; đã xác nhận tên/ngày qua Cổng Chính phủ, chưa đối chiếu từng điều sửa.",
+      "notes": "Tên và ngày đã đối chiếu metadata Cổng Chính phủ; chưa đọc toàn văn độc lập, chưa xác định điều sửa áp dụng trực tiếp cho hồ sơ."
+    },
+    "NQ254": {
+      "summary": "Điểm c khoản 2 Điều 10 quy định mức thu theo chênh lệch: 30% cho phần trong hạn mức giao đất ở, 50% cho phần vượt tiếp theo không quá một lần hạn mức, 100% cho phần vượt nữa; chỉ áp dụng với nguồn gốc đất thuộc phạm vi quy định.",
+      "practical_relevance": "Cơ chế chỉ tính một lần cho hộ/cá nhân trên một thửa. Kiểm tra đất vườn, ao, đất nông nghiệp cùng thửa có đất ở được xác định khi công nhận quyền sử dụng đất hoặc trường hợp tách theo quy định; không mặc định mọi CLN sang ODT đều hưởng.",
+      "summary_basis": "Ảnh bản gốc trang 12 (tài chính), 13 (Điều 11 khoản 3), 15 (Điều 13); hai giải đáp chính thức của Bộ tháng 7/2026.",
+      "checked_on": "2026-10-21",
+      "relevant_articles": "Điều 4; Điều 10 khoản 2 điểm c; Điều 11 khoản 3; Điều 13 khoản 1–3",
+      "current_status": "Hiệu lực chung 01/01/2026; riêng điểm b khoản 3 Điều 12 từ 11/12/2025; đã đối chiếu điều trọng tâm ngày 21/10",
+      "notes": "Đã xem lại ảnh trang 13,15. CSDL trang Hà Tĩnh ItemID 186273 hiển thị còn hiệu lực, mục quan hệ còn đang cập nhật; không coi đây là rà đủ mọi sửa đổi. Giải đáp Bộ ngày 06/07 và 14/07/2026 xác nhận áp dụng khoản 3 Điều 11 về chuyển một phần không bắt buộc tách."
+    },
+    "ND102": {
+      "summary": "Quy định chi tiết thi hành Luật Đất đai, gồm các nội dung quản lý, giao đất, cho thuê đất và chuyển mục đích sử dụng đất.",
+      "practical_relevance": "Dùng để đọc quy trình cùng 151/2025, 226/2025, 49/2026 và thủ tục tỉnh; bản ban hành năm 2024 cần cập nhật sửa đổi.",
+      "summary_basis": "Đối chiếu khoản 2–3 Điều 16 NĐ 49, PDF Công báo trang 24–26, ngày rà 21/10/2026.",
+      "checked_on": "2026-10-21",
+      "current_status": "Có phần hết hiệu lực theo khoản 3 Điều 16 NĐ 49/2026 từ 31/01/2026; đã đối chiếu danh sách, chưa rà mọi nội dung",
+      "notes": "Điểm c, d khoản 3 Điều 16 NĐ 49 làm hết hiệu lực khoản 2 Điều 30, các Điều 32–34, Điều 50, khoản 5 Điều 54, Điều 65 và khoản 4 Điều 77 NĐ 102 (phần đã sửa bởi NĐ 226). Có VBHN 46/Bộ NNMT ngày 03/04/2026 để đối chiếu; không dùng nguyên quy trình năm 2024."
+    },
+    "ND151": {
+      "summary": "Phân định thẩm quyền và phân cấp trong lĩnh vực đất đai khi vận hành chính quyền địa phương hai cấp từ 01/07/2025.",
+      "practical_relevance": "Xác định cơ quan/người giải quyết hồ sơ sau sắp xếp; đối chiếu sửa đổi 226/2025, 49/2026 và phân cấp của tỉnh.",
+      "summary_basis": "Đối chiếu khoản 2–3 Điều 16 NĐ 49, PDF Công báo trang 24–26, ngày rà 21/10/2026.",
+      "checked_on": "2026-10-21",
+      "current_status": "Có phần hết hiệu lực theo khoản 3 Điều 16 NĐ 49/2026 từ 31/01/2026; đã đối chiếu danh sách, chưa rà mọi nội dung",
+      "notes": "Điểm đ, e khoản 3 Điều 16 NĐ 49 làm hết hiệu lực nhiều phần về thẩm quyền, thủ tục và mẫu của NĐ 151, có ngoại lệ được liệt kê cụ thể. Khoản 2 Điều 16 vẫn dẫn chiếu một số quy định giá đất, giá bán nhà tái định cư và trưng dụng chưa quy định tại NĐ 49. Không coi toàn bộ NĐ 151 đã hết hiệu lực hoặc toàn bộ phụ lục còn áp dụng."
+    },
+    "ND226": {
+      "summary": "Sửa nhiều nghị định thi hành Luật Đất đai, trong đó có 102/2024 và 151/2025 về tổ chức thực hiện, thẩm quyền và thủ tục.",
+      "practical_relevance": "Khi viện dẫn các nghị định trước đó phải đọc phần đã sửa; tiếp tục đối chiếu thay đổi tại 49/2026.",
+      "summary_basis": "Đối chiếu khoản 2–3 Điều 16 NĐ 49, PDF Công báo trang 24–26, ngày rà 21/10/2026.",
+      "checked_on": "2026-10-21",
+      "current_status": "Có phần hết hiệu lực theo khoản 3 Điều 16 NĐ 49/2026 từ 31/01/2026; đã đối chiếu danh sách, chưa rà mọi nội dung",
+      "notes": "Điểm g khoản 3 Điều 16 NĐ 49 làm hết hiệu lực các phần được liệt kê của NĐ 226 và Phụ lục IV. Cần đọc đúng danh sách tại trang 25–26 bản Công báo NĐ 49; không dừng chuỗi cập nhật ở bản sửa năm 2025."
+    },
+    "ND49": {
+      "summary": "Điều 14–15 quy định thẩm quyền, trách nhiệm tỉnh ban hành quy trình. Điều 16 nêu thời hạn Chương IV và danh sách các phần quy định cũ hết hiệu lực.",
+      "practical_relevance": "Đọc các Điều 14–16 cùng Quyết định 43 và 64 của Ninh Bình để xác định thẩm quyền và trình tự đang áp dụng.",
+      "summary_basis": "Điều 14 tại PDF Công báo trang 22–23; Điều 15–16 trang 24–26; Công báo Chính phủ số 108 ngày 14/02/2026.",
+      "checked_on": "2026-10-21",
+      "relevant_articles": "Điều 14;15;16 khoản 1–3",
+      "current_status": "Hiệu lực từ 31/01/2026; đã đối chiếu Điều 16; Chương IV có mốc đến trước 01/03/2027 và điều kiện chuyển sang văn bản mới",
+      "relationship": "Sửa đổi, làm hết hiệu lực từng phần NĐ 71/2024, 101/2024, 102/2024, 151/2025, 226/2025; Điều 14–15 là cơ sở phân cấp và quy trình tỉnh.",
+      "notes": "Đọc thêm bản Công báo có lớp chữ, trang 22–26; Chương IV không đồng nghĩa toàn bộ Nghị định hết hiệu lực 01/03/2027. Đối chiếu điều khoản và nguồn chính thức ngày 21/10/2026; chưa phát hiện sửa trực tiếp trong phạm vi rà soát, không coi danh mục là chứng nhận đầy đủ."
+    },
+    "ND50": {
+      "summary": "Điều 6 quy định hộ/cá nhân lựa chọn một thửa để áp dụng cơ chế tài chính một lần; lần chuyển tiếp theo trên thửa đó hoặc thửa khác tính 100% chênh lệch. Việc tính số lần, hạn mức và lựa chọn thửa tính từ 01/08/2024.",
+      "practical_relevance": "Kiểm tra nguồn gốc, lịch sử từ 01/08/2024 và việc lựa chọn thửa. Nếu áp dụng một lần cho 50 m² thì lần chuyển 56 m² sau trên cùng thửa tính 100% chênh lệch theo Điều 6, không giữ lại hạn mức ưu đãi chưa dùng.",
+      "summary_basis": "Điều 6 PDF trang 4–6, khoản 3 về mốc 01/08/2024; Điều 13 trang 12 sửa NĐ 103; Điều 14 trang 29–30. Công báo Chính phủ số 109.",
+      "checked_on": "2026-10-21",
+      "relevant_articles": "Điều 6 khoản 1–5; Điều 12; Điều 13; Điều 14",
+      "current_status": "Hiệu lực từ 31/01/2026; đã đối chiếu Điều 6,13,14; chưa tìm được sửa riêng Điều 6 trong phạm vi tra cứu 21/10",
+      "notes": "Điều 13 sửa NĐ 103 đã được sửa bởi NĐ 291; khoản 3 Điều 14 bãi bỏ các phần của NĐ 103. Không suy nhãn sửa đổi không kèm văn bản ở trang tổng hợp thành NĐ 50 đã bị thay thế. Đối chiếu điều khoản và nguồn chính thức ngày 21/10/2026; chưa phát hiện sửa trực tiếp trong phạm vi rà soát, không coi danh mục là chứng nhận đầy đủ.",
+      "relationship": "Cụ thể hóa NQ 254; Điều 13 tiếp tục sửa NĐ 103/2024 sau NĐ 291/2025, khoản 3 Điều 14 bãi bỏ một số quy định của NĐ 103."
+    },
+    "ND118": {
+      "summary": "Quy định thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông: tiếp nhận, xử lý và trả kết quả.",
+      "practical_relevance": "Đối chiếu hướng dẫn hồ sơ, theo dõi tiến độ và trả kết quả; đọc cùng sửa đổi 367/2025 và 309/2026, nhất là Điều 17.",
+      "summary_basis": "Điều 16–19 bản gốc; khoản 3 Điều 17 đọc theo khoản 3 Điều 8 Nghị định 309/2026.",
+      "relationship": "Sửa đổi bởi Nghị định 367/2025 và 309/2026; đã đọc phần liên quan tiếp nhận, mã hồ sơ và thời gian.",
+      "checked_on": "2026-10-20"
+    },
+    "ND123": {
+      "summary": "Quy định xử phạt vi phạm hành chính về đất đai, gồm hành vi sử dụng đất không đúng mục đích và biện pháp khắc phục theo từng trường hợp.",
+      "practical_relevance": "Phải xác định loại đất, hành vi và thời điểm; sau 31/08/2026 cần đọc cùng 281/2026. Chưa xác định mức phạt cho hồ sơ cụ thể.",
+      "summary_basis": "Trích yếu bản gốc; văn bản sửa đổi 281/2026."
+    },
+    "ND281": {
+      "summary": "Sửa quy định xử phạt vi phạm hành chính về đất đai tại Nghị định 123/2024; có hiệu lực từ 31/08/2026.",
+      "practical_relevance": "Là cập nhật cần đọc khi đánh giá hành vi sau thời điểm này và quy định chuyển tiếp; chưa đối chiếu từng mức phạt.",
+      "summary_basis": "Metadata Chính phủ và PDF đã khớp số/ngày; chưa rà toàn bộ điều sửa."
+    },
+    "ND367": {
+      "summary": "Sửa Nghị định 118/2025 về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông; hiệu lực từ ngày ký 31/12/2025.",
+      "practical_relevance": "Cập nhật lớp quy trình tiếp nhận và trả kết quả; cần đối chiếu nội dung sửa khi kiểm tra quy trình địa phương.",
+      "summary_basis": "Điều 2 khoản 1, PDF trang 5 đã đọc trực quan."
+    },
+    "103-2024": {
+      "summary": "Quy định tiền sử dụng đất, tiền thuê đất, trong đó có nghĩa vụ tài chính khi Nhà nước cho phép chuyển mục đích sử dụng đất.",
+      "practical_relevance": "Là lớp quy định tài chính nền; đọc cùng 291/2025, Nghị quyết 254 và 50/2026 trước khi xác định công thức cho thửa đất.",
+      "summary_basis": "Trích yếu bản gốc Chính phủ; chuỗi sửa đổi đã nhận diện.",
+      "notes": "Không dùng bản 103/2024 ban đầu để tính tiền hoặc thời hạn độc lập. Phần Điều 21,44,48 phải đối chiếu sửa đổi của NĐ 50 và QĐ 86/2026 địa phương.",
+      "checked_on": "2026-10-21",
+      "current_status": "Đã sửa đổi bởi NĐ 291/2025 và Điều 13 NĐ 50/2026; có phần bị bãi bỏ bởi Điều 14 NĐ 50",
+      "relationship": "NĐ 103/2024 → NĐ 291/2025 → Điều 13 và khoản 3 Điều 14 NĐ 50/2026; cơ chế đặc thù NQ 254 và Điều 6 NĐ 50 cần đọc riêng."
+    },
+    "71-2024": {
+      "summary": "Quy định về giá đất, phục vụ việc xây dựng bảng giá và xác định giá đất theo các trường hợp pháp luật quy định.",
+      "practical_relevance": "Phân biệt bảng giá đất, giá đất cụ thể và hệ số điều chỉnh; tra cùng 38/2025, 33/2026 và 76/2026 của tỉnh.",
+      "summary_basis": "Trích yếu PDF gốc Chính phủ; chưa đối chiếu đầy đủ các sửa đổi sau ban hành.",
+      "notes": "Đã tải PDF và đối chiếu số/ngày/trích yếu tại trang đầu. Phạm vi tóm tắt theo trích yếu; chưa hoàn tất chuỗi sửa đổi và điều khoản chuyển tiếp."
+    },
+    "16-2022": {
+      "summary": "Quy định xử phạt vi phạm hành chính trong lĩnh vực xây dựng, gồm nhóm vi phạm về giấy phép và hoạt động xây dựng.",
+      "practical_relevance": "Dùng khi có vấn đề xây dựng; cần kiểm tra hành vi, thời điểm, trường hợp miễn phép và sửa đổi hiện hành trước khi xác định chế tài.",
+      "summary_basis": "Trích yếu PDF gốc; chưa hoàn tất chuỗi sửa đổi lĩnh vực xây dựng.",
+      "notes": "Đã tải PDF và đối chiếu số/ngày/trích yếu tại trang đầu. Phạm vi tóm tắt theo trích yếu; chưa hoàn tất chuỗi sửa đổi và điều khoản chuyển tiếp."
+    },
+    "ND291": {
+      "summary": "Sửa Nghị định 103/2024 về tiền sử dụng đất, tiền thuê đất và Nghị định 104/2024 về Quỹ phát triển đất.",
+      "practical_relevance": "Cập nhật quy định tài chính trước khi đọc cơ chế 254/2025 và 50/2026; cần phân biệt Quỹ phát triển đất với Đề án phát triển quỹ đất của tỉnh.",
+      "summary_basis": "Trích yếu và quan hệ sửa đổi từ bản gốc Chính phủ.",
+      "notes": "Đã đối chiếu việc NĐ 50 Điều 13 tiếp tục sửa NĐ 103 sau NĐ 291. Đợt này tập trung Điều 6 NĐ 50 và quy trình tài chính của hồ sơ.",
+      "checked_on": "2026-10-21",
+      "current_status": "Văn bản sửa NĐ 103/2024,104/2024; phần tiền sử dụng đất phải đọc tiếp NĐ 50/2026",
+      "relationship": "Đọc cùng Điều 13 và Điều 14 NĐ 50/2026; không dừng chuỗi sửa đổi ở NĐ 291."
+    },
+    "NB193": {
+      "summary": "Hạn mức giao đất ở cho cá nhân tại phường 40–120 m², xã 60–300 m²; Điều 3 quy định riêng công nhận đất ở theo lịch sử sử dụng. Điều 4 khoản 2 có ngoại lệ khi giao đất.",
+      "practical_relevance": "Không suy 120 m² thành trần tổng đất ở hay lệnh cấm chuyển thêm. Cả 50 và 106 m² đều dưới 120; phải phân biệt hạn mức giao/công nhận/tính tiền với điều kiện cho phép chuyển.",
+      "summary_basis": "Đọc trực quan bản ký trang 1–3, nội dung Quy định trang 4–5; đối chiếu Công báo tỉnh mục 3434 và bản tải từ data.moj.gov.vn.",
+      "checked_on": "2026-10-21",
+      "issued_date": "2025-12-31",
+      "effective_date": "2026-01-01",
+      "verification_status": "official_pdf",
+      "current_status": "Hiệu lực từ 01/01/2026; đã khớp bản ký và Công báo; chưa phát hiện sửa trực tiếp trong phạm vi rà soát 21/10",
+      "relevant_articles": "Quyết định: Điều 2; Quy định kèm theo: Điều 1;3;4",
+      "relationship": "Điều 2 làm hết hiệu lực QĐ 57/2024 Hà Nam; QĐ 34/2024 Nam Định; QĐ 69/2024 Ninh Bình và các quy định khác trong danh mục. Đọc cùng Điều 6 NĐ 50 khi tính tiền.",
+      "source_url": "https://congbao.ninhbinh.gov.vn/van-ban/3434",
+      "notes": "Đính chính 21/10: hình PDF province_193_original.pdf có số 193, ngày 31/12/2025 ở trang 1 và chữ ký/dấu trang 3; lớp chữ bỏ sót, không phải bản trống số/ngày. Bản tải từ Bộ Tư pháp trùng SHA256. Điều 2 trang 2 và Công báo ghi hiệu lực 01/01/2026; metadata cổng tỉnh ghi 31/12/2025. Đối chiếu điều khoản và nguồn chính thức ngày 21/10/2026; chưa phát hiện sửa trực tiếp trong phạm vi rà soát, không coi danh mục là chứng nhận đầy đủ."
+    },
+    "NB38": {
+      "summary": "Ban hành bảng giá các loại đất lần đầu của tỉnh Ninh Bình áp dụng từ 01/01/2026, kèm các phụ lục giá theo địa bàn, vị trí.",
+      "practical_relevance": "Tra đúng đường, đoạn và vị trí của thửa đất; phải cập nhật phần sửa tại Nghị quyết 33/2026.",
+      "summary_basis": "Điều 2 bản sao ký; các phụ lục bảng giá đã lưu."
+    },
+    "NB33": {
+      "summary": "Sửa đổi Bảng giá đất ban hành theo Nghị quyết 38/2025; bản ký ghi ban hành và hiệu lực 10/09/2026.",
+      "practical_relevance": "Là văn bản giá đất mới cần ưu tiên đọc tại mốc 19/10/2026; phải đối chiếu dòng giá/vị trí trong phụ lục, kho chưa chốt giá cho thửa cụ thể.",
+      "summary_basis": "Điều 1–3 và phụ lục; ngày theo bản ký, khác ngày 09/09 tại danh mục HĐND."
+    },
+    "NB76": {
+      "summary": "Quy định hệ số điều chỉnh giá đất năm 2026: K = Ktt × Kqh × Kah; một số nhóm trường hợp tại Điều 4 áp dụng K = 1,0, các nhóm khác tra phụ lục.",
+      "practical_relevance": "Xác định đúng nhóm áp dụng và chuyển tiếp tại Điều 5 trước khi tính tiền; hệ số không được nhân đồng loạt cho mọi hồ sơ.",
+      "summary_basis": "Điều 3–5, PDF trang 2–3; phụ lục hệ số có tại cổng tỉnh."
+    },
+    "NB64": {
+      "summary": "Quy định hồ sơ, quy trình và biểu mẫu đất đai tại tỉnh; hiệu lực 20/06/2026, có điều chuyển tiếp cho hồ sơ nộp trước ngày này.",
+      "practical_relevance": "Hồ sơ người dùng nộp tháng 10 cần đối chiếu Điều 3, Phụ lục I và Mẫu 02; không tự áp yêu cầu rút hồ sơ chuyển tiếp cho hồ sơ mới.",
+      "summary_basis": "Bản quyết định riêng trang 1, 3–5; bộ Công báo đầy đủ 134 trang, mục 3924; Điều 7 khoản 1.",
+      "checked_on": "2026-10-21",
+      "effective_date": "2026-06-20",
+      "verification_status": "official_pdf",
+      "source_url": "https://congbao.ninhbinh.gov.vn/van-ban/3924",
+      "current_status": "Hiệu lực từ 20/06/2026; đã khớp số/ngày bản lưu và Công báo; rà soát phạm vi liên quan ngày 21/10",
+      "relevant_articles": "Điều 3;4;5;6;7; Phụ lục I; Phụ lục VII Mẫu 02 và Mẫu 10",
+      "relationship": "Quy trình theo Điều 15 NĐ 49; Mẫu 10 được dẫn chiếu trong QĐ 86/2026 sửa QĐ 194/2025.",
+      "notes": "Đính chính 21/10: hình trang 1 bản quyết định riêng có số 64, ngày 10/06/2026. Điều 7 trang 4 ghi hiệu lực 20/06/2026. Đã bổ sung bộ Công báo 134 trang; thứ tự phần trong bộ này khác bản tách. Đối chiếu điều khoản và nguồn chính thức ngày 21/10/2026; chưa phát hiện sửa trực tiếp trong phạm vi rà soát, không coi danh mục là chứng nhận đầy đủ."
+    },
+    "NB43": {
+      "summary": "Khoản 11 Điều 4 phân cấp cho Chủ tịch UBND cấp xã quyết định cho phép chuyển mục đích đối với cá nhân, cộng đồng dân cư.",
+      "practical_relevance": "Phân biệt cơ quan/phòng tham mưu với người quyết định; đối chiếu đúng người ký phản hồi thực tế, quy định phân cấp và văn bản mới nếu phát sinh.",
+      "summary_basis": "Bản ký trang 1; Điều 4 khoản 11 trang 3, Điều 5 trang 4; Công báo tỉnh mục 3796.",
+      "checked_on": "2026-10-21",
+      "issued_date": "2026-04-13",
+      "effective_date": "2026-04-13",
+      "verification_status": "official_pdf",
+      "current_status": "Hiệu lực từ 13/04/2026; đã khớp số/ngày bản ký và Công báo; rà soát phạm vi liên quan ngày 21/10",
+      "relevant_articles": "Điều 4 khoản 11; Điều 5",
+      "relationship": "Phân cấp theo Điều 14 NĐ 49/2026; đọc cùng QĐ 64/2026 về quy trình.",
+      "source_url": "https://congbao.ninhbinh.gov.vn/van-ban/3796",
+      "notes": "Đính chính 21/10: hình trang 1 bản lưu có số 43, ngày 13/04/2026; Điều 5 trang 4 ghi cùng ngày hiệu lực. Metadata cổng tỉnh ngày 14/04 không phải ngày ký; Công báo xác nhận 13/04. Đối chiếu điều khoản và nguồn chính thức ngày 21/10/2026; chưa phát hiện sửa trực tiếp trong phạm vi rà soát, không coi danh mục là chứng nhận đầy đủ."
+    },
+    "NB-3279-2026": {
+      "summary": "Điều chỉnh phân bổ chỉ tiêu đất đến 2030 cho toàn tỉnh và 129 xã/phường; Điều 3 quy định 162 và 1702 hết hiệu lực, phần sử dụng đất trong 568/1543 thực hiện theo văn bản này.",
+      "practical_relevance": "Duy Tân: ODT 269,76 → 320,02 ha, tăng ròng 50,26 ha, là dư địa quy hoạch đáng kể so với hồ sơ 106 m². Đọc cùng Đề án 08 để đánh giá bối cảnh thuận lợi; số tăng cả kỳ và số còn khả dụng được tách riêng. Chưa có chứng cứ trong kho cho thấy đã hết chỉ tiêu.",
+      "summary_basis": "Điều 1–3; ảnh quyết định trang 1, 3–4; biểu toàn tỉnh; phụ lục 121 trang 241–242. Đã khớp số/ngày trên ảnh quyết định; dòng dẫn phụ lục còn trống.",
+      "verification_status": "official_pdf",
+      "effective_date": "2026-08-30",
+      "notes": "Đã đọc ảnh trang 1, 3–4: số 3279/QĐ-UBND, ngày 30/08/2026, chữ ký/dấu Nguyễn Anh Chức; Điều 3 hiệu lực từ ngày ký và cho 162/1702 hết hiệu lực. Sửa ghi chú cũ rằng đầu quyết định trống do lớp chữ bỏ sót số/ngày. Phụ lục 129 đơn vị công bố cùng trang tỉnh, trùng SHA256 bộ đã lưu; riêng dòng dẫn số/ngày ở phụ lục 121 trang 241 vẫn trống."
+    },
+    "NB162": {
+      "summary": "Phân bổ chỉ tiêu sử dụng đất đến 2030 cho cấp xã sau sắp xếp; là mốc phân bổ đầu năm 2026.",
+      "practical_relevance": "Giữ để so sánh lịch sử. Điều 3 tệp 3279 quy định văn bản này hết hiệu lực; không lấy bảng lịch sử làm chỉ tiêu đang áp dụng.",
+      "summary_basis": "Trích yếu cổng tỉnh; Điều 3 tệp 3279; phụ lục lịch sử đã lưu."
+    },
+    "NB1702": {
+      "summary": "Điều chỉnh phân bổ chỉ tiêu sử dụng đất đến 2030 cho cấp xã sau sắp xếp tại mốc tháng 5/2026.",
+      "practical_relevance": "Dùng xem lịch sử thay đổi; Điều 3 tệp 3279 quy định văn bản này hết hiệu lực, nên cần tra phân bổ theo 3279.",
+      "summary_basis": "Ảnh trang 1–2 của bản ký; trích yếu cổng tỉnh; Điều 3 trang 4 bản ký 3279. Phần Duy Tân trong phụ lục 1702 chưa đối chiếu.",
+      "verification_status": "official_pdf",
+      "effective_date": "2026-05-12",
+      "notes": "Đã đọc ảnh cả 2 trang từ cổng tỉnh: số 1702/QĐ-UBND, ngày 12/05/2026, chữ ký/dấu Nguyễn Anh Chức. Điều 2 hiệu lực từ ngày ký. Lớp chữ bỏ sót số/ngày; sửa ghi chú cũ rằng đầu PDF trống. Quyết định đã hết hiệu lực từ 30/08/2026 theo Điều 3 Quyết định 3279; phụ lục Duy Tân trong bộ 1702 chưa đối chiếu."
+    },
+    "NB568": {
+      "summary": "Phê duyệt điều chỉnh Quy hoạch tỉnh Ninh Bình thời kỳ 2021–2030, tầm nhìn 2050; có nội dung định hướng sử dụng đất.",
+      "practical_relevance": "Là lớp quy hoạch cấp tỉnh; phần sử dụng đất chịu quan hệ thực hiện theo 3279 và phụ lục đính chính 1543.",
+      "summary_basis": "Căn cứ và Điều 3 của tệp 3279; chưa tải bản 568 độc lập."
+    },
+    "NB1543": {
+      "summary": "Đính chính một số nội dung phụ lục của Quyết định 568 về điều chỉnh Quy hoạch tỉnh.",
+      "practical_relevance": "Dùng cùng 568 khi tra phụ lục; đây là đính chính một số nội dung, không thay thế toàn bộ quy hoạch. Phần sử dụng đất tiếp tục đọc theo 3279.",
+      "summary_basis": "Trích yếu cổng tỉnh và Điều 3 tệp 3279; đầu PDF độc lập còn trống số/ngày."
+    },
+    "CV10108": {
+      "summary": "Công văn Bộ Nông nghiệp và Môi trường về thực hiện thủ tục hành chính đất đai, được tỉnh triển khai qua Công văn 6456.",
+      "practical_relevance": "Chưa có bản độc lập để xác nhận từng yêu cầu của Bộ; các nội dung đã đọc trong 6456 được mô tả riêng ở dòng công văn tỉnh.",
+      "summary_basis": "Viện dẫn tại trang 1 tệp 6456; chưa suy nội dung công văn Bộ từ bản triển khai."
+    },
+    "CV6456": {
+      "summary": "Yêu cầu giải quyết hồ sơ đúng thành phần, trình tự, thời hạn; công khai quy trình/nghĩa vụ tài chính; chấn chỉnh yêu cầu bổ sung nhiều lần và ưu ái hồ sơ qua ủy quyền.",
+      "practical_relevance": "Mục 1 và 7 phù hợp để đề nghị hướng dẫn thống nhất, công bằng, công khai tiến độ và kênh phản ánh; bản đính kèm còn trống số/ngày.",
+      "summary_basis": "Tệp công khai 3 trang, mục 1 và 7; số hiệu theo metadata Tân Minh, không lấy ngày đăng làm ngày ban hành."
+    },
+    "NB-PL-231-2026": {
+      "summary": "Để phù hợp chỉ tiêu và bảo đảm nguồn thu ngân sách xã 6 tháng cuối năm, tiếp tục nhận, giải quyết hồ sơ chuyển đất nông nghiệp sang đất ở từ 01/08/2026; giao tiếp nhận, thẩm định và thông tin cho người dân.",
+      "practical_relevance": "Dẫn chứng trực tiếp về địa phương tổ chức giải quyết hồ sơ chuyển mục đích để thực hiện mục tiêu thu. Dùng hỏi Duy Tân về kế hoạch triển khai 5061 và vướng mắc cụ thể; chưa có chứng cứ phường chưa triển khai hoặc phải áp dụng cùng lịch Phú Long.",
+      "summary_basis": "Đọc ảnh trang 1, phần dẫn 1702/5061, mục tiêu nguồn thu và mục 1–4; đã khớp số/ngày trên ảnh, chữ ký/dấu, lưu ý sai khác người ký trên metadata.",
+      "verification_status": "official_pdf",
+      "relevant_articles": "Phần căn cứ, đoạn mục tiêu ngân sách và mục 1–4; PDF trang 1",
+      "current_status": "Thông báo tiếp tục tiếp nhận từ 01/08/2026 tại Phú Long; chưa rà mọi văn bản tiếp theo",
+      "relationship": "Triển khai Công văn tỉnh 5061/UBND-VP5 về thu tiền sử dụng đất; viện dẫn chỉ tiêu theo 1702 tại thời điểm tháng 7. Chỉ tiêu hiện đối chiếu theo 3279 từ 30/08/2026.",
+      "notes": "Đã đọc ảnh toàn trang: số 231/TB-UBND, ngày 29/07/2026, chữ ký/dấu và tên Phó Chủ tịch Đinh Mạnh Cường. Lớp chữ trích xuất bỏ sót số/ngày được điền; sửa ghi chú cũ rằng PDF trống. Metadata người ký Đặng Xuân Tuấn khác bản ký, ưu tiên bản ký. URL người dùng gửi trùng SHA256 với phulong_notice_375.pdf. Công văn 5061 đã có bản gốc độc lập trên cổng tỉnh."
+    },
+    "NB-PL-201-2026": {
+      "summary": "Trang công khai thông báo dừng tiếp nhận hồ sơ chuyển mục đích sử dụng đất tại Phú Long ở mốc 11/06/2026.",
+      "practical_relevance": "Thông báo 231 sau đó công khai việc tiếp tục tiếp nhận. PDF 201 trả 404 nên chưa biết lý do và thời hạn dừng; không suy diễn cho địa phương khác.",
+      "summary_basis": "Số/ngày/trích yếu trên trang Phú Long; chưa đọc được PDF."
+    },
+    "NB-VPUBND-QUYDAT-GIAOBAN-20260326": {
+      "group": "Ngân sách/quỹ đất",
+      "summary": "Giao Sở Tài chính hoàn thiện, trình Đề án phát triển quỹ đất 2026–2030; rà soát bàn giao dự án đầu tư công cho xã/phường để đẩy tiến độ, tăng thu tiền sử dụng đất.",
+      "practical_relevance": "Là tài liệu chỉ đạo xây dựng đề án đã có trong kho. Chưa phải bản phê duyệt đề án, danh mục khu đất hay bảng giao chỉ tiêu thu cho Duy Tân.",
+      "summary_basis": "Mục 6–7, PDF trang 2; 26/03/2026 là ngày giao ban, ngày ban hành và số công văn chưa khép."
+    },
+    "ND309": {
+      "summary": "Sửa quy định tiếp nhận và xử lý hồ sơ một cửa. Điều 8 cập nhật hướng dẫn hồ sơ trực tuyến, tiếp nhận qua ki-ốt, mã hồ sơ và mốc tính thời gian.",
+      "practical_relevance": "Khoản 3 Điều 8: hồ sơ được tiếp nhận có mã trên giấy tiếp nhận/hẹn trả; không đồng nhất việc Chủ tịch nhận đơn kiến nghị với tiếp nhận hợp lệ hồ sơ chuyển mục đích.",
+      "summary_basis": "Điều 8 trang 4; hiệu lực Điều 16 trang 6 và bản ký trang 7 đã đọc trực quan."
+    },
+    "LTC01-2026": {
+      "summary": "Quy định công khai thông tin và cung cấp theo yêu cầu, quyền tiếp cận, giới hạn thông tin và trách nhiệm của cơ quan, đơn vị.",
+      "practical_relevance": "Có thể dùng để yêu cầu văn bản tiêu chí ưu tiên, quy hoạch và báo cáo chỉ tiêu hiện có liên quan hồ sơ; kiểm tra thông tin đã công khai, giới hạn tiếp cận và cơ quan chịu trách nhiệm.",
+      "summary_basis": "Đối chiếu ảnh trang 7–9, 13–16: phạm vi, cung cấp theo yêu cầu, từ chối, hiệu lực và chuyển tiếp."
+    },
+    "ND337": {
+      "summary": "Quy định tổ chức cung cấp thông tin, xử lý yêu cầu, biểu mẫu và việc tách phần được tiếp cận trong tài liệu có nội dung bị hạn chế.",
+      "practical_relevance": "Cá nhân dùng Mẫu 01a. Thông tin đơn giản có sẵn: tối đa 3 ngày làm việc; phức tạp cần tập hợp/ý kiến: 12 ngày; gia hạn tối đa 12 ngày và phải thông báo trước khi hết hạn.",
+      "summary_basis": "Điều 8–10 trang 7–8; Điều 15 trang 10; Mẫu 01a trang 13–14 đã đối chiếu bản gốc."
+    },
+    "BTC-CV7713-2026": {
+      "checked_on": "2026-10-21",
+      "relevant_articles": "Mục hướng dẫn phạm vi đối tượng và không cộng dồn đất ở hiện có; trang 1–2",
+      "current_status": "Công văn hướng dẫn ngày 08/06/2026; đã đối chiếu bản ký và giải đáp Bộ Tài chính; không phải VBQPPL",
+      "practical_relevance": "Không tự cộng khoảng 549 m² đất ở hiện có vào 50 hoặc 106 m² để tính bậc tiền. Vẫn phải xác minh nguồn gốc, lịch sử và điều kiện áp dụng Điều 6 NĐ 50; công văn không tạo quyền được chuyển."
+    }
+  },
+  "new_documents": [
+    {
+      "document_id": "NB-NQ48-2025",
+      "number": "48/NQ-HĐND",
+      "group": "Ngân sách/quỹ đất",
+      "title": "Dự toán thu ngân sách nhà nước; thu, chi ngân sách địa phương Ninh Bình năm 2026",
+      "issuer": "HĐND tỉnh Ninh Bình",
+      "issued_date": "2025-12-09",
+      "effective_date": "2026-01-01",
+      "current_status": "Đã đọc bản ký và Biểu số 02; chưa rà hết nghị quyết điều chỉnh sau ban hành",
+      "verification_status": "official_pdf",
+      "document_class": "nghi_quyet_ngan_sach",
+      "relevant_articles": "Điều 1–2; Biểu số 02, mục I.10–I.12, PDF trang 5",
+      "relationship": "Dự toán năm 2026; phân biệt với Nghị quyết 48/NQ-HĐND năm 2026 về thu hồi đất",
+      "source_url": "https://hdnd.ninhbinh.gov.vn/van-ban/nghi-quyet-so-48nq-hdnd",
+      "local_file": "documents/phap_luat/nq48_2025_official_0.pdf",
+      "checked_on": "2026-10-19",
+      "notes": "Đã đọc ảnh trang 1, 2, 5. Bản ký 09/12/2025, hiệu lực 01/01/2026; metadata HĐND ghi 08/12/2025 cho cả hai ngày. Biểu đơn vị triệu đồng, đã chia 1.000 để trình bày tỷ đồng.",
+      "summary": "Dự toán thu NSNN 80.260,8 tỷ đồng. Biểu 02 giao tổng thu tiền sử dụng đất 42.402 tỷ; thu tiền thuê mặt đất, mặt nước 3.800 tỷ; quỹ đất công ích, hoa lợi công sản tại xã 90 tỷ.",
+      "practical_relevance": "Đã có văn bản gốc xác nhận chỉ tiêu thu tiền sử dụng đất toàn tỉnh năm 2026. Biểu đọc được chưa tách khoản gộp 1.465,8 tỷ của chuyển mục đích và đấu giá đất xen kẹp.",
+      "summary_basis": "Bản ký trang 1–2; Biểu số 02, PDF trang 5, cột Tổng thu NSNN. Cột thu NSĐP của tiền sử dụng đất là 36.041,7 tỷ, khác tổng thu 42.402 tỷ."
+    },
+    {
+      "document_id": "NB-NQ28-2026",
+      "number": "28/NQ-HĐND",
+      "group": "Ngân sách/quỹ đất",
+      "title": "Kế hoạch đầu tư công trung hạn 2026–2030 vốn ngân sách địa phương",
+      "issuer": "HĐND tỉnh Ninh Bình",
+      "issued_date": "2026-04-29",
+      "effective_date": "2026-04-29",
+      "current_status": "Đã đọc bản sao ký và Điều 2; chưa rà toàn bộ điều chỉnh/phụ lục dự án",
+      "verification_status": "official_pdf",
+      "document_class": "nghi_quyet_dau_tu_cong",
+      "relevant_articles": "Điều 2, PDF trang 4; điều thi hành trang 9; Biểu số 01 trang 10",
+      "relationship": "Kế hoạch vốn có nguồn thu từ đất; không đồng nhất với quyết định phê duyệt Đề án phát triển quỹ đất",
+      "source_url": "https://hdnd.ninhbinh.gov.vn/van-ban/28nq-hdnd",
+      "local_file": "documents/phap_luat/nq28_2026_official_0.pdf",
+      "checked_on": "2026-10-19",
+      "notes": "Bản sao ký ghi 29/04/2026, hiệu lực 29/04/2026 ở trang 9; metadata trang HĐND ghi 28/04/2026. Tệp gồm 129 trang; đợt này đọc Điều 2 và các trang định danh/hiệu lực, chưa rà từng dự án.",
+      "summary": "Tổng nguồn kế hoạch đầu tư công 2026–2030 là 289.992,87 tỷ đồng, trong đó nguồn thu tiền sử dụng đất 258.230,87 tỷ: cấp tỉnh quản lý 183.981 tỷ, cấp xã/phường 74.249,87 tỷ.",
+      "practical_relevance": "Cho thấy quy mô nguồn thu từ đất được đưa vào kế hoạch vốn 5 năm. Đây là nguồn kế hoạch đầu tư công, không phải số đã thu hoặc chỉ tiêu riêng chuyển mục đích của hộ dân.",
+      "summary_basis": "Điều 2, bản sao ký PDF trang 4; Biểu 01 trang 10; ngày/hiệu lực theo trang 1 và 9."
+    },
+    {
+      "document_id": "NB-KL-QUYDAT-202605",
+      "number": "Chưa khép số /KL-UBND",
+      "group": "Ngân sách/quỹ đất",
+      "title": "Kết luận phiên thường kỳ tháng 4/2026: hoàn thiện đề án phát triển quỹ đất, tạo nguồn thu 2026–2030",
+      "issuer": "UBND tỉnh Ninh Bình",
+      "issued_date": "",
+      "effective_date": "",
+      "current_status": "Tệp công khai trống số/ngày; chỉ xác nhận nội dung nhiệm vụ",
+      "verification_status": "official_attachment_identity_pending",
+      "document_class": "chi_dao_hanh_chinh",
+      "relevant_articles": "Mục II.1, PDF trang 7; ngày hội nghị ở trang 1",
+      "relationship": "Tiếp nối chỉ đạo hoàn thiện đề án ở giao ban 26/03/2026; chưa phải bản phê duyệt đề án",
+      "source_url": "https://khanhthien.ninhbinh.gov.vn/uploads/images/KL%20HN%20thuong%20ky%20thang%204%20%28ngay%2011-5%29%281%29.pdf",
+      "local_file": "documents/phap_luat/budget_land_fund_direction_202605.pdf",
+      "checked_on": "2026-10-19",
+      "notes": "Đầu tệp trống số/ngày tháng 5/2026; nội dung nêu hội nghị ngày 08/05/2026, tên tệp có 11-5. Không dùng ngày hội nghị hoặc tên tệp thay ngày ban hành.",
+      "summary": "Yêu cầu Sở Tài chính khẩn trương hoàn thiện Đề án phát triển quỹ đất, tạo nguồn thu tiền sử dụng đất 2026–2030 và báo cáo UBND tỉnh trước 15/05/2026.",
+      "practical_relevance": "Giữ để đọc quá trình chuẩn bị đề án. Đã bổ sung toàn văn Đề án 08/ĐA-UBND ngày 29/07/2026; cần tiếp tục lấy các biểu chi tiết và văn bản điều chỉnh, không dừng ở nguồn chỉ đạo tháng 5.",
+      "summary_basis": "Mục II.1, PDF trang 7; chỉ đạo hoàn thiện đề án, không xác nhận đề án đã được phê duyệt."
+    },
+    {
+      "document_id": "NB-DA08-2026",
+      "number": "08/ĐA-UBND",
+      "group": "Ngân sách/quỹ đất",
+      "title": "Phát triển quỹ đất tạo nguồn thu tiền sử dụng đất tại Ninh Bình giai đoạn 2026–2030",
+      "issuer": "UBND tỉnh Ninh Bình",
+      "issued_date": "2026-07-29",
+      "effective_date": "",
+      "current_status": "Đã đối chiếu số/ngày trên PDF công bố; chưa rà mọi điều chỉnh sau ban hành và chưa có các biểu chi tiết được viện dẫn",
+      "verification_status": "official_pdf",
+      "document_class": "de_an_phat_trien_quy_dat",
+      "relevant_articles": "Mục II.2; III; IV.2.1–2.3; VI.4 và VI.9; PDF trang 2–4, 9–11",
+      "relationship": "Tiếp nối các chỉ đạo hoàn thiện đề án tháng 3 và tháng 5/2026. Đọc riêng với Nghị quyết 48 về dự toán năm 2026, Nghị quyết 28 về kế hoạch đầu tư công và Quyết định 3279 về chỉ tiêu sử dụng đất.",
+      "source_url": "https://ninhbinh.gov.vn/?pageid=27160&p_steering=47854",
+      "local_file": "documents/phap_luat/land_fund_project_08_2026_original.pdf",
+      "checked_on": "2026-10-19",
+      "notes": "Tệp 11 trang trên cổng tỉnh ghi số 08/ĐA-UBND, ngày 29/07/2026 tại trang 1; trang 11 in tên Nguyễn Anh Chức, không hiển thị ảnh chữ ký/dấu. Metadata ghi hiệu lực 29/07/2026 nhưng thân đề án không có điều khoản hiệu lực riêng nên chưa điền ngày hiệu lực. Các Biểu 1, 2, 3, 4A–4C, 5A–5B được viện dẫn nhưng không có trong tệp này. Không có tên Duy Tân trong 11 trang; chưa xác định số giao riêng cho phường.",
+      "summary": "Thúc đẩy phát triển quỹ đất 2026–2030, có nhóm giao đất/chuyển mục đích đất xen kẹt; yêu cầu rút ngắn thủ tục đất đai, bảo đảm quy hoạch và pháp luật. Nhóm này dự kiến thu 1.465,8 tỷ đồng năm 2026.",
+      "practical_relevance": "Có cơ sở nhận định chủ trương tích cực đối với việc triển khai các trường hợp chuyển mục đích phù hợp. Đọc cùng mức tăng ODT 50,26 ha của Duy Tân để đánh giá bối cảnh thuận lợi cho hồ sơ 106 m²; nếu cơ quan viện dẫn hết chỉ tiêu, cần đối chiếu số thực hiện/phân bổ cụ thể. Kết quả hồ sơ vẫn theo điều kiện thửa đất và quyết định có thẩm quyền.",
+      "summary_basis": "Đã đọc ảnh trang 1–4, 9–11; đối chiếu lớp chữ 11 trang. Mục II.2 yêu cầu rút ngắn thủ tục; Mục III có nhóm chuyển mục đích; Mục IV.2.2–2.3 nêu nhóm xen kẹt 9.568,6 tỷ đồng/5 năm và 1.465,8 tỷ đồng năm 2026. Mục VI.4 có nhiệm vụ tham mưu điều chỉnh chỉ tiêu cho dự án trong phạm vi quy định; VI.9 giao nhiệm vụ xã/phường."
+    },
+    {
+      "document_id": "NB-CV5061-2026",
+      "number": "5061/UBND-VP5",
+      "group": "Ngân sách/quỹ đất",
+      "title": "Tập trung chỉ đạo thực hiện công tác thu tiền sử dụng đất năm 2026",
+      "issuer": "UBND tỉnh Ninh Bình",
+      "issued_date": "2026-07-18",
+      "effective_date": "",
+      "current_status": "Chỉ đạo công tác thu năm 2026; chưa rà mọi văn bản triển khai hoặc điều chỉnh tiếp theo",
+      "verification_status": "official_pdf",
+      "document_class": "chi_dao_hanh_chinh",
+      "relevant_articles": "Đoạn tình hình thu và mục 1–3; PDF trang 1–2",
+      "relationship": "Được Thông báo 231/TB-UBND ngày 29/07/2026 của Phú Long viện dẫn khi tổ chức tiếp tục nhận hồ sơ chuyển mục đích; đọc cùng Đề án 08 và phân bổ chỉ tiêu hiện tại theo 3279.",
+      "source_url": "https://ninhbinh.gov.vn/?pageid=27160&p_steering=47617",
+      "local_file": "documents/phap_luat/province_5061_original.pdf",
+      "checked_on": "2026-10-19",
+      "notes": "Bản ký 2 trang ghi số 5061/UBND-VP5, ngày 18/07/2026; trang 2 có chữ ký/dấu Nguyễn Anh Chức. Metadata cổng tỉnh ghi ngày ban hành/hiệu lực 20/07/2026; ưu tiên ngày 18/07 trên bản ký, chưa gán ngày hiệu lực riêng. Mục 1 nhấn mạnh nguồn đấu giá đất nhỏ lẻ xen kẹp và đất đã đầu tư hạ tầng, không trực tiếp yêu cầu chấp thuận mọi hồ sơ chuyển mục đích. Biểu giao thu được viện dẫn không có trong tệp 2 trang; chưa có số riêng Duy Tân.",
+      "summary": "Giao Chủ tịch UBND các xã/phường tập trung thu tiền sử dụng đất, nhất là đấu giá, chịu trách nhiệm về kết quả; giao Sở Tài chính và Sở Nông nghiệp và Môi trường theo dõi, đôn đốc. Thu tiền sử dụng đất đến 14/07/2026 là 8.474,279 tỷ đồng, đạt 19,99% dự toán HĐND.",
+      "practical_relevance": "Xác nhận chỉ đạo thu ở cấp tỉnh áp dụng cho xã/phường. Đọc cùng bản ký Phú Long 231 để chứng minh một địa phương đã triển khai bằng tiếp nhận, thẩm định hồ sơ chuyển mục đích đủ điều kiện; từ đó hỏi kế hoạch và vướng mắc cụ thể tại Duy Tân.",
+      "summary_basis": "Đọc ảnh cả 2 trang, số/ngày tại trang 1, chữ ký/dấu trang 2, đoạn tình hình và mục 1–3; đối chiếu Thông báo 231."
+    },
+    {
+      "document_id": "BTC-CV7713-2026",
+      "number": "7713/BTC-QLCS",
+      "group": "Tài chính đất đai",
+      "title": "Tính tiền sử dụng đất đối với hộ gia đình, cá nhân khi chuyển mục đích sử dụng đất từ đất vườn, ao, đất nông nghiệp sang đất ở",
+      "issuer": "Bộ Tài chính",
+      "issued_date": "2026-06-08",
+      "effective_date": "",
+      "current_status": "Công văn hướng dẫn áp dụng Nghị quyết 254 và Nghị định 50; chưa rà mọi hướng dẫn thay thế về sau",
+      "verification_status": "official_pdf",
+      "document_class": "huong_dan_chi_dao",
+      "relevant_articles": "Trang 1–2; dẫn điểm c khoản 2 Điều 10 Nghị quyết 254 và khoản 1 Điều 6 Nghị định 50",
+      "relationship": "Giải thích phạm vi nguồn gốc đất và việc không cộng dồn đất ở khi tính tiền theo NQ254; không thay thế căn cứ cho phép chuyển mục đích.",
+      "source_url": "https://pbgdpl.quangninh.gov.vn/wp-content/uploads/2026/06/Cong-van-7713.pdf",
+      "local_file": "documents/phap_luat/cv7713_btc_qlcs_20260608.pdf",
+      "checked_on": "2026-10-21",
+      "notes": "Đọc ảnh cả 2 trang bản ký trên cổng PBGDPL Quảng Ninh: số 7713/BTC-QLCS, ngày 08/06/2026; dấu đến 15/06 không phải ngày ban hành. Không suy diện tích 106 m² hoặc đất ở hiện có 549 m² tự đủ điều kiện hưởng mức thu ưu đãi.",
+      "summary": "Hướng dẫn xác định hạn mức để tính tiền sử dụng đất cho các nhóm nguồn gốc đất thuộc điểm c khoản 2 Điều 10 Nghị quyết 254. Công văn nêu nghị quyết không quy định cộng dồn diện tích đất ở khi áp dụng cơ chế này; việc áp dụng phải xét đúng nguồn gốc và nguyên tắc một lần, một thửa.",
+      "practical_relevance": "Đối với hồ sơ Duy Tân, có căn cứ hỏi riêng việc 549 m² đất ở hiện có ảnh hưởng thế nào đến tính tiền của 106 m² xin chuyển. Chưa kết luận mức thu cụ thể khi thiếu hồ sơ nguồn gốc, hạn mức tại địa phương và lịch sử hưởng chính sách.",
+      "summary_basis": "Bản ký 7713/BTC-QLCS, trang 1–2; đối chiếu trả lời chính thức Bộ Tài chính tại /hoidapcstc/home/cthoidap/165715."
+    },
+    {
+      "document_id": "NB192",
+      "number": "192/2025/QĐ-UBND",
+      "group": "Thủ tục",
+      "title": "Điều kiện, diện tích tối thiểu tách thửa, hợp thửa và các nội dung liên quan",
+      "issued_date": "2025-12-31",
+      "effective_date": "2026-01-01",
+      "source_url": "https://congbao.ninhbinh.gov.vn/van-ban/3433",
+      "local_file": "documents/phap_luat/qd192_2025_congbao.pdf",
+      "relevant_articles": "Quyết định: Điều 2;3; Quy định kèm theo: Điều 4 khoản 1–2",
+      "relationship": "Thay QĐ 56/2024 Hà Nam, 35/2024 Nam Định, 70/2024 Ninh Bình và các quy định nêu tại Điều 3; đọc cùng khoản 3 Điều 11 NQ 254.",
+      "summary": "Nếu tách thửa đất ở tại phường: diện tích từ 40 m², chiều rộng và sâu từ 3,5 m; còn các điều kiện khác. Chuyển mục đích một phần không mặc nhiên phải tách.",
+      "practical_relevance": "Phương án 50 m² giữ nguyên thửa phải được phân biệt với tách thửa. Chỉ áp tiêu chuẩn tách khi thực sự thực hiện thủ tục tách; không suy 50 m² đủ mọi điều kiện.",
+      "summary_basis": "Công báo tỉnh mục 3433; PDF trang 2–3 hiệu lực/thay thế, 6–7 điều kiện và diện tích tách.",
+      "issuer": "UBND tỉnh Ninh Bình",
+      "verification_status": "official_pdf",
+      "document_class": "quy_dinh_bat_buoc",
+      "checked_on": "2026-10-21",
+      "current_status": "Đã đối chiếu nội dung Công báo và ngày hiệu lực; rà soát phạm vi liên quan 21/10",
+      "notes": "Tệp Công báo chính thức gắn trực tiếp với mục văn bản. Hình đầu PDF cũng trống số/ngày; không gọi là bản ký đã khớp. Nhận diện số/ngày ban hành qua metadata Công báo, hiệu lực theo điều khoản. Đối chiếu điều khoản và nguồn chính thức ngày 21/10/2026; chưa phát hiện sửa trực tiếp trong phạm vi rà soát, không coi danh mục là chứng nhận đầy đủ."
+    },
+    {
+      "document_id": "NB194",
+      "number": "194/2025/QĐ-UBND",
+      "group": "Thủ tục",
+      "title": "Quy trình luân chuyển hồ sơ xác định nghĩa vụ tài chính về đất đai",
+      "issued_date": "2025-12-31",
+      "effective_date": "2026-01-15",
+      "source_url": "https://congbao.ninhbinh.gov.vn/van-ban/3444",
+      "local_file": "documents/phap_luat/qd194_2025_congbao.pdf",
+      "relevant_articles": "Quyết định: Điều 2; Quy định kèm theo: Điều 5 (đã sửa bởi QĐ 86/2026)",
+      "relationship": "Điều 5 Quy định kèm theo được sửa bởi Điều 1 QĐ 86/2026, hiệu lực 25/07/2026 theo nội dung văn bản.",
+      "summary": "Quy định việc chuyển hồ sơ, thông tin địa chính và xác định nghĩa vụ tài chính; Điều 5 đã được sửa bởi QĐ 86/2026.",
+      "practical_relevance": "Khi có phiếu chuyển hoặc thông báo thuế, đọc bản đã sửa; không biến quy trình tính tiền thành điều kiện hạn mức để cho phép chuyển.",
+      "summary_basis": "Công báo tỉnh mục 3444; Điều 2 PDF trang 1–2; Điều 5 trang 4 trở đi, đọc cùng QĐ 86.",
+      "issuer": "UBND tỉnh Ninh Bình",
+      "verification_status": "official_pdf",
+      "document_class": "quy_dinh_bat_buoc",
+      "checked_on": "2026-10-21",
+      "current_status": "Đã sửa Điều 5 bởi QĐ 86/2026; đọc bản sau sửa",
+      "notes": "Tệp Công báo chính thức gắn trực tiếp với mục văn bản. Hình đầu PDF trống số/ngày; nhận diện qua metadata Công báo, hiệu lực theo Điều 2. Điều 5 Quy định kèm theo đã được sửa bởi QĐ 86/2026; không đọc riêng nội dung năm 2025 để xác định quy trình hiện tại. Đợt rà 21/10/2026 tập trung chuỗi sửa đổi liên quan hồ sơ, không chứng nhận đã bao phủ mọi văn bản."
+    },
+    {
+      "document_id": "NB86",
+      "number": "86/2026/QĐ-UBND",
+      "group": "Thủ tục",
+      "title": "Sửa Điều 5 quy trình luân chuyển hồ sơ nghĩa vụ tài chính theo QĐ 194/2025",
+      "issued_date": "2026-07-15",
+      "effective_date": "2026-07-25",
+      "source_url": "https://congbao.ninhbinh.gov.vn/van-ban/4028",
+      "local_file": "documents/phap_luat/qd86_2026_congbao.pdf",
+      "relevant_articles": "Điều 1 khoản 1–6; Điều 2",
+      "relationship": "Sửa các điểm a,b,c khoản 1 và d,đ,e khoản 2 Điều 5 Quy định kèm QĐ 194/2025; dùng Mẫu 10 Phụ lục VII QĐ 64.",
+      "summary": "Cập nhật thời gian và trách nhiệm luân chuyển hồ sơ đất đai sang cơ quan thuế, mẫu thông tin và thông báo nộp tiền.",
+      "practical_relevance": "Với nhánh tính theo bảng giá, kiểm tra mốc nhận quyết định/nhận đủ hồ sơ trước khi tính các hạn 03/05 ngày làm việc; đây không phải tổng thời hạn xin chuyển mục đích.",
+      "summary_basis": "Công báo tỉnh mục 4028; Điều 1 PDF trang 2–4, Điều 2 trang 4 ghi hiệu lực 25/07/2026; metadata ghi 15/07, đã lưu sai khác.",
+      "issuer": "UBND tỉnh Ninh Bình",
+      "verification_status": "official_pdf",
+      "document_class": "quy_dinh_bat_buoc",
+      "checked_on": "2026-10-21",
+      "current_status": "Đã đối chiếu nội dung Công báo và ngày hiệu lực; rà soát phạm vi liên quan 21/10",
+      "notes": "Tệp Công báo chính thức gắn trực tiếp với mục văn bản. Hình đầu PDF cũng trống số/ngày; không gọi là bản ký đã khớp. Nhận diện số/ngày ban hành qua metadata Công báo, hiệu lực theo điều khoản. Đối chiếu điều khoản và nguồn chính thức ngày 21/10/2026; chưa phát hiện sửa trực tiếp trong phạm vi rà soát, không coi danh mục là chứng nhận đầy đủ. Điều 2 ghi 25/07/2026, khác metadata hiệu lực 15/07; dùng ngày trong điều khoản."
+    }
+  ]
+}

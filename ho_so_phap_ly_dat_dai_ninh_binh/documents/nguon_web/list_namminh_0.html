@@ -1,0 +1,771 @@
+
+
+<!DOCTYPE html>
+<html lang="vi">
+<head><meta name="viewport" content="width=device-width, initial-scale=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta charset="utf-8" /><title>
+	Hệ thống văn bản - Xã Nam Minh
+</title><script type="text/javascript"> 
+var _govaq = window._govaq || [];
+_govaq.push(["trackPageView"]);
+_govaq.push(["enableLinkTracking"]);
+(function() {
+    _govaq.push(["setTrackerUrl", "https://f-emc.ngsp.gov.vn/tracking"]);
+    _govaq.push(["setSiteId", "8806"]);
+    var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0];
+    g.type = "text/javascript"; 
+    g.async = true; 
+    g.defer = true;
+    g.src = "https://f-emc.ngsp.gov.vn/embed/gov-tracking.min.js";
+    s.parentNode.insertBefore(g, s);
+})();
+</script><link type="text/css" rel="Stylesheet" href="/StyleSheet/StyleSheet.css" /><link href="/StyleSheet/jQueryUI/jquery-ui-1.8.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="/scripts/owlcarousel/owlcarousel/assets/owl.carousel.min.css" /><link rel="stylesheet" href="/scripts/owlcarousel/owlcarousel/assets/owl.theme.default.min.css" />
+    <script src="/Scripts/jquery-3.6.3.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="/Scripts/JDialog.js" type="text/javascript"></script>
+    <script src="/Scripts/configDialog.js" type="text/javascript"></script>
+    <script src="/scripts/owlcarousel/owlcarousel/owl.carousel.js"></script>
+    <script src="/Scripts/angular.min.js"></script>
+    <script src="/Scripts/toast/toastify.js"></script>
+    <link href="/Scripts/toast/toastify.css" rel="stylesheet" />
+    <script>
+        var app = angular.module('app', []);
+    </script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+<link id="panel_top-twocolumn-footer" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/panelstylesheet/top-twocolumn-footer/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uibannerdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uibanner/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uidropdownmenudefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uidropdownmenu/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uisinglesearchdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uisinglesearch/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uiutilitycontrols_uiadvertisementdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uiutilitycontrols/uiadvertisement/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uiclocksystemdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uiclocksystem/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uimenunavigationdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uimenunavigation/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uisteeringdocument_listdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uisteeringdocument/list/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uisteeringdocument_agencydefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uisteeringdocument/agency/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uiweblinkdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uiweblink/default.css?v=48" type="text/css" rel="stylesheet" /><link href="/WebResource.axd?d=b8adWYak0tImLef4A3fc9be11ImDjTFZGYIYRtydxY_mMAj70zbboN1FiL1d2B0hBcfTQij2iUAXbxkpFZ4OaFcxoUKJ5G0j7-ELALjN4V9dLdUUil_V1XqdOsUvaoaiTB79NIaAd5vzZuNhbHFR0Q2&amp;t=639045846090000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=ks9ZnRy0EATz6xPm3__L0mYs5tbVZC19v1FC2OFR-zKZ8kb34X8n01lIniqWWXfn241qE7lx6j-hK7rjPNvoHx3BtVbzRyVEI9FNRru1-MVVHoJ9hL1VcbjNawKTmR4OFFT7_KQUXxrtaj5xbHJLza7Ls4dit4pKy2auiVzDKbs1&amp;t=639045846080000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link id="_themes_congantinh_uionlinecounterdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uionlinecounter/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uifooterdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uifooter/default.css?v=48" type="text/css" rel="stylesheet" /><link id="_themes_congantinh_uibacktotopdefault_css" href="https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/congantinh/uibacktotop/default.css?v=48" type="text/css" rel="stylesheet" />
+                    <meta name='DC.Title' content='Hệ thống văn bản - Xã Nam Minh'>
+                    <meta name='DC.Creator' content='Administrator'>
+                    <meta name='DC.Date' scheme='ISO8601' content=''>
+                    <meta name='DC.Publisher' content='http://namminh.ninhbinh.gov.vn'>
+                    <meta name='DC.Description' content='Hệ thống văn bản - Xã Nam Minh'>
+                    <meta name='DC.Identifier' content='http://namminh.ninhbinh.gov.vn'>
+                    <meta name='DC.Language' scheme='ISO639-2' content='vie'>
+                    <meta name='DC.Subject' content='Hệ thống văn bản - Xã Nam Minh'>
+                <meta name="description" content="Hệ thống văn bản - Xã Nam Minh" /><meta name="keywords" content="he-thong-van-ban,he thong van ban,he thong van ban xa nam minh" /></head>
+<body ng-app="app">
+    <link href='https://storage-vnportal.vnpt.vn/ndh-ubnd/themes/responsive/responsive.css?v=48' rel='stylesheet' type='text/css' />
+    <form method="post" action="/he-thong-van-ban" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZE42eCwvgpQNCtGIXcUWlqJMdYG1ulN_ST_WgQicNXqOPZ170lch6GcbFGqiOHxzhw2&amp;t=638902023720898773" type="text/javascript"></script>
+
+
+<script src="/DesktopModule/UIDropdownMenu/DropdownMenu.js" type="text/javascript"></script>
+<script src="/DesktopModule/UIUtilityControls/UIAdvertisement/Advertisement.js" type="text/javascript"></script>
+<script src="/DesktopModule/UIBackToTop/BackToTop.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yGuA2-vDPY-ZskrVjPEjVxDjQebN174H6RBFLk3eW2kCsQUh3yt3tEgdDxlBEFKRwAZwF4R_je_sBj0lzEb1nS3Qa9vfTNYmGpuApclvoWbFkpAVa3pR3-SFWJs5YEqKdN9XC2glPZVrAcZ706B2mos1&amp;t=32e5dfca" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadIARb9nNnHJDV64FoQ-o0KFs-KfBCTn0P-9OzailPPDTywXnSHNtOL390O0RnZRNejIUHD0z_wdlXJTfO3m-W7VQUa2wThxAW2ZGZW6gxS64-wF1aLLox22r4e0y2gacpj53M-rePuTC5eiQbNPfUww1&amp;t=32e5dfca" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=8u3ngCqoRB16IXgFyG-fdjskfVSzTHAJeCFgIUIZHWdDqg5RRIymNxihkPQ62GnFmQsxpilJH-M6IOCHFmXd4HZS3OYuArXVkHW1-keu851jBCLvWwBTr0Xs_ME3a2Ja0&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pL5wgiwL1GpmyqMwhkDjF78zXMtypocs4Lpmrya0EQZzQJB4IsBrVlv8e6Et5MvJzjKCPONX4Lz_t2_Q8zHNh5mRw_Ob35zm6UNIGPAhfeZ7tDQKEzVj5WlQ-sAtSWCRjC7_Svc1_o9JSGew30S7Ig2&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dnHi0nMgDDe1Bo6v1KTdpCzs5Fl8mKwzRKWv_wvEJh8SI8Ogall-3G7ib4rE9Cf8OxKI9SwJXCJXcnieNAjPEJ_ZVCyq5hTIeummE6tGOcwiQ-vFoqUxeZ0suz237wFdz7ZtEOBjCDQA9E4p3cafYA2&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=r5UL-hsNriOxS7UV4wWMiIgEkCCyzPSvdYTjIPmKYGFcSi7uBKMMufpvlbS5FmoNAY7-oQbeMj5l1z-gBGqXrCpk0ducAnO5INELo6hfa9WXWc85_tyw7UUVuB_6CU5m3JSuL1M3YXZHKFycVjr8QcpnDwGHZgrdLy33Qa0HVWA1&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=U8OMYmPzb2LbIsKauUCqxv710mdb7gLL0m-gZ8Zslkq2rWxJ29N5Pzg1jFpdLVKKgcWO1vPEHmZZHM6vF89IaAi1Mt04ctAz8APg9vA1VxbcHVMaM74LmA9VCSadoxCrXVqEzoz3tT6xc6NzckqAM9lMi1xMJJQvkxRfuEtZRqw1&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=fXuWcQwzGDZIk7t9UCjetXa22OJJHGSB11K0UiR4qR4P581BwsYV-dnf7zxqd3wmqdJxltlU9YDVJbYBLIuF99pcQHzmFV4k929yYQ8TdNx_4o6GZRAaWAQxCDgrYsb1thBQRKa2J8ylgSj7sfMt57NDl2eSOJX1Fc52PbFUQMk1&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=v_I7_Ww9YDbzP79DTo1lX5WgNJ06rgVGdM8wniUAa7WIDsfYH5BtCvAn5HV-X9X0DlwodSTMH4Xk-AACNusifARDPKu81NG4qL-_KJjWCDYZRLUnuBS5BWnm_7Vb809Vj62PihKQ6XlKGs63Lq_3tU9w7pQC0HkyaRRruu808ew1&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=KlfC4ae2T77svfC92c_tAVAwbiN-1TZuHPFFYRYc_isKIo5fqsMle3HcHPXjIWjkAF-uAEnQLxV7Bz7URCGqYCeTAHhwJ0VCplY9GQjpujz2xiXp6LEWt4bGmOcVNJLbAtePEatp1cXFFSpzqNn43Q2&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=oTWEP7ThC1yo24ooSsBTo4fVUbFa34rPgnY2elaSuqEcZbnEtt-B_01XkqqBILYvzNmyMM9j0I7VCQ05nlmShAQ0wE8DsChA9qgJnijWw-WEh3AFadIjhw5JhWPxdah9x8Td_gx0fErkpL8_PPRW-cDRxzv5-9u8Zg4ZrGe1jRM1&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=CJzfp47zwbZkqPEVws6eAHVllmlGd_dMBd3lWEWw5-3r4DbzoSy2VA9bEyu9MVuB9j5kADoa-nyzGIUFjTC3tYL-imHTjtrrxZGBgIQtE6it09qK1bAH_Mzk41ZvrdC4Cefr-EZ8ERSfMxgUC6nOPQ2&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=HOMnSdxq_ONGafsDBi6O5bXfaHLiAWBkH4n4Bjmao3oGRLbV2f_YCqLvcQcHamRVRDtr7vsyEEFIPNpCj5aYpBNcIFtOWceM1LFX3cmX7We9Ial6gmQhYJBmy7Rihc0b1F9UyD2XaXdw9qVX159gZA2&amp;t=ffffffffdb75e8fc" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="rxKSK9mrPKPLxzuwheOMG07xtwS0Ft6yZlbXS0i62oaidYMBgKpMNKqp/lxoW4AjJzAhY5DbOmLQYE8gUVGT0WQzwf1d1Bvy9vhBS9lNeq8KWDYVHkz7sL5RilyuWjttxIVAwblzORpgN2Fq+gYhnuwl9xycUn5rPTRGtcuXZePdDL2OdfXJ+43Hf5lNjI0/GMWyyNZOrA2nxF5k6SLlFNZvYGlsrw1gnOb1Ms6Xj0QT/3upHEiXpyPPDfs3ug5xPaZapsx54c09epoWSDJR0zFNGLzIxrHLcMR1PM8ng8gTQ8CE6HKiPV35jOC+1soyU7DFss5vpzXJd9uzYpGQjHccjyJ/f950xwlLdYpOxjAqY0YkNDSGicmej2rX98FuTCMMQaeSALboelZCvEnS6gyhCuBGOpUjfA629J3XduNr1oqkrRC1+zgYsqrQVeuWt3mPRTD4KBI3Lfwhw3r8pkg18InnEopiVZyR7+hgz5GSSUywTF1cq8mJInQLyk4+s0ahCDL9qBELE6mMgrt1VhewMEPSmHzm9x/X9rjhOJXxlhBAWocrFfHCQ4VqLTafkOxlSw/Jt1kzkdCAaQEbfgqZ4/Izx+z9A/95ttn86QKoMeXzXlgRT6+6Yb4/scksRsYl4qHpG3V6+0wv4gFyZJ6aTtP9E027d7ZGzHRMwOW/IwfvybS9bcpJ2TqGSO2oUgU26hZZdV5yqKpcKbeqHEUBHc1SSh47u4rwpJm7Ktll97h5KjDEoyu81C4w2pglV28TAqsVoo0FdsulGi13oYWj1TEI92fe7MFNOU7ZFiRTh4OEsM+7Y0cPjMMPlSL2KJV+ggoHQQVJaBQaeVSOSvO8w/N4Cx4dYHb9Ptyzq/RZi08i2NaRJJhgIMqyQK0VuTdAVUlF3n8cuS6AGATEbM4bdydpoqjH/2wD6FUtBo00hMbNPi+QeEQhIxYaI1gAHRSRIyrOZyL2lkzn7WEXutoJ1nO/X+Ydv87RkEg7ABBbzXRTkktRB2jc9DYgLEa1P4I5XgfWXdiwXHm6pxcjflI3kZIILsSaNV12puy+9TWowxYJBHGoFSvFBKMLXIwawRCHgfsmPYZrYhOumYLHrpbDbzivXkWzrTOUeWZWo5sj1nuoYVCkPrIB0lEIrqnB2DUA43hYJPJF2NsQGNs149E/xZlYDRLDcOKihEhtDEFV0OpCRCuwydvqPtZpaxgF5ecMIqxnP7VcA29D8gpOp6UbczUELKw7VAtSPlvLl7YtXnuDR0I2WngPubKt4x4MKtxnhzbfKbB2JcNNbXe20qxXvjBv+d6A+j1jV2ukUKN11vtkkNzJajjke7paWm1YWJPN4X1XpsfiI/gwrIHqrutQ40I43+glIhUQ5VHFC1fH378v89jk0e9BdHO8ivsjm7i+tVPaQFywEWcNZw8fjQ==" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        <input type="hidden" id="VCyBVM7n78c3bDUxokeVKA" name="VCyBVM7n78c3bDUxokeVKA" value="" />
+    <div class="MainStructure table-3-col"><div class="TopBanner"><div class="TopBar" id="TopBar"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td id="1" resizable="no" valign="top"><div class="UIBanner_Default">
+<div class="UIBannerControl">
+    <div class="banner">
+<div class="px-0 container">
+<div class="header-logo d-flex align-items-center justify-content-center gap-2">
+<h1 class="m-0">
+<a href="/" class="header__logo-avt">
+<img alt="" src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/quochuy.png" class="img-fluid w-100px" />
+</a>
+</h1>
+<div class="header_title text-center">
+<h3 class="text">Trang th&ocirc;ng tin điện tử</h3>
+<h1 class="name">x&atilde; Nam Minh - tỉnh Ninh B&igrave;nh</h1>
+<div class="header_laction">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="UIDropdownMenu_Default">
+<style>
+    li.LanguageMenu {
+        cursor: pointer;
+    }
+</style>
+<div class="DropdownMenu">
+    <ul class="MenuList"><li class="TopMenu" style="display:block"><a href="/"  ><img src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/home.png"class='image'/><span class="trang-chu-43123">Trang chủ</span></a></li><li class="TopMenuActive" style="display:block"><a href="/he-thong-van-ban"   class="HasChildren" ><span class="he-thong-van-ban-43127">Hệ thống văn bản</span></a><ul style="display:none" class="Dropdown"><li class="sub"><a href="https://ninhbinh.gov.vn/Default.aspx?pageid=27172"  ><span class="van-ban-cua-tinh-61880">Văn bản của tỉnh</span></a></li><li class="sub"><a href="/?pageid=33775&amp;p"  ><span class="van-ban-xa-61881">Văn bản xã</span></a></li></ul></li><li class="TopMenu" style="display:block"><a href="/tin-tuc-su-kien"  ><span class="tin-tuc-su-kien-43131">Tin tức - Sự kiện</span></a></li><li class="TopMenu" style="display:block"><a href="/thu-tuc-hanh-chinh"   class="HasChildren" ><span class="thu-tuc-hanh-chinh-49398">Thủ tục hành chính</span></a><ul style="display:none" class="Dropdown"><li class="sub"><a href="/thu-tuc-hanh-chinh-hc"  ><span class="thu-tuc-hanh-chinh-53795">Thủ tục hành chính</span></a></li><li class="sub"><a href="https://dichvucong.gov.vn"  target="_blank" ><span class="dich-vu-cong-truc-tuyen-53789">Dịch vụ công trực tuyến</span></a></li><li class="sub"><a href="/quyet-dinh-cong-bo-danh-muc-quy-trinh-giai-quyet-tthc"  ><span class="quyet-dinh-cong-bo-danh-muc-quy-trinh-giai-quyet-tthc-61882">Quyết định công bố danh mục, quy trình giải quyết TTHC</span></a></li></ul></li><li class="TopMenu" style="display:block"><a href="/tiep-nhan-y-kien"  ><span class="tiep-nhan-y-kien-47751">Tiếp nhận ý kiến</span></a></li><li class="TopMenu" style="display:block"><a href="/thu-vien"   class="HasChildren" ><span class="thu-vien-43732">Thư viện</span></a><ul style="display:none" class="Dropdown"><li class="sub"><a href="/thu-vien-anh"  ><span class="thu-vien-anh-43733">Thư viện ảnh</span></a></li><li class="sub"><a href="/thu-vien-video"  ><span class="thu-vien-video-43734">Thư viên video</span></a></li><li class="sub"><a href="/tai-lieu"  ><span class="tai-lieu-43735">Tài liệu</span></a></li></ul></li></ul>
+    
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        let dropdown = $('.DropdownMenu');
+
+        if (dropdown) {
+            dropdown.append('<div class="navbar-button" onclick="onToggleNavbar()"><span></span><span></span><span></span></div>');
+            dropdown.append('<div class="navbar-overlay"></div>');
+        }
+        $('.language-button').on('click', function () {
+            var language_code = $(this).data('language-code');
+            var language_seo = $(this).data('language-seo');
+            document.cookie = "lang=" + language_code + "; path=/";
+            location.href = language_seo;
+        });
+
+        var value = getCookie("lang");
+        $('.language-button').each(function () {
+            if ($(this).data('language-code') == value) {
+                $(this).css({
+                    padding: "2px",
+                    borderBottom: "2px solid #ffeb3b"
+                });
+            }
+        })
+    });
+
+    function getCookie(name) {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${name}=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+    let hideDropDown = -1;
+    function onToggleNavbar() {
+        let menulist = jQuery('.DropdownMenu .MenuList');
+        let navOverlay = jQuery('.navbar-overlay');
+
+        if (menulist) {
+            let span1 = jQuery('.navbar-button>span:nth-child(1)');
+            let span2 = jQuery('.navbar-button>span:nth-child(2)');
+            let span3 = jQuery('.navbar-button>span:nth-child(3)');
+            hideDropDown = hideDropDown * (-1);
+            menulist.toggle(200, function () {
+                if (hideDropDown == 1) {
+                    //navOverlay.show(300);
+                    span1.css({ margin: "-2px", transform: "rotate(45deg)" });
+                    span2.css({ display: "none" });
+                    span3.css({ margin: "-2px", transform: "rotate(-45deg)" });
+                }
+                if (hideDropDown == -1) {
+                    //navOverlay.hide(300);
+                    span1.css({ margin: "2px", transform: "rotate(0deg)" });
+                    span2.css({ display: "block" });
+                    span3.css({ margin: "2px", transform: "rotate(0deg)" });
+                }
+            });
+        }
+    }
+</script>
+</div><div class="UISingleSearch_Default">
+<div class="SingleSearch">
+    <div class="SearchBox">
+        <input name="ctrl_141704_45$txtSearch" type="text" id="ctrl_141704_45_txtSearch" class="Text" />
+        <a id="ctrl_141704_45_lnkSearch" class="Button" href="javascript:__doPostBack(&#39;ctrl_141704_45$lnkSearch&#39;,&#39;&#39;)"></a>
+    </div>
+</div>
+<script type="text/javascript">$(document).ready(function () {function EnterEvent(e) { if (e.keyCode === 13) $('.Button').click();}});</script>
+</div><div class="UIAdvertisement_Default"><div id="ctrl_195872_51_advertisement" class="AdvertisementBottomRight">
+    <div class="AdvertTitleBar"><span class="Collapse"></span><span class="Expand"></span></div>
+    <div class="AdvertContent">
+        <div class="login">
+<div class="icon d-none d-md-block"><a href="/admin/login.aspx"><img alt="" src="https://storage-vnportal.vnpt.vn/ndh-ubnd/sitefolders/sogiaothong/3405/web-icons/user-icon-233-233.png" style="width: 23px !important; height: 23px !important;"></a></div>
+</div>
+    </div>
+</div>
+</div><div class="UIClockSystem_Default">
+<div class="UIClockSystem">
+    <span class="clock"></span>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        setInterval(function () {
+            var days = new Array("Chủ nhật", "Thứ 2", "Thứ 3", "Thứ 4", "Thứ 5", "Thứ 6", "Thứ 7");
+            var months = new Array("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12");
+            var am_pm;
+            var d = new Date();
+            var s = d.getSeconds();
+            var m = d.getMinutes();
+            var h = d.getHours();
+            var day = d.getDay();
+            var date = d.getDate();
+            var month = d.getMonth();
+            var year = d.getFullYear();
+            if (s < 10) { s = "0" + s }
+            if (m < 10) { m = "0" + m }
+            if (h > 12)
+            { h -= 12; am_pm = "PM" }
+            else { am_pm = "AM" }
+            if (h < 10) { h = "0" + h }
+            //alert(days[day]);
+            $(".clock").text(days[day] + ', ' + date + "/" + months[month] + '/' + year + ', ' + h + ':' + m + ':' + s + ' ' + am_pm);
+        }, 1000);
+    });
+</script></div></td></tr></table></div></div><div class="ContentBanner"><table class="MainContent" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td id="LeftBar" class="LeftBar" width="886px"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td id="1" resizable="no" valign="top"><div class="UIMenuNavigation_Default">
+
+<div class="MenuNavigation">
+    <ul id="ctrl_141698_20_ulNavContainer" class="NavContainer">
+        <li class="Home"><span class="wrap">
+            <a id="ctrl_141698_20_lnkHome" class="HomeLink" href="/">Trang chủ</a></span></li>
+        
+                <li class="Item">
+                    <span class="text">
+                        <a href="/he-thong-van-ban">Hệ thống văn bản</a></span></li>
+            
+    </ul>
+</div>
+
+
+</div><div class="List_Default">
+<div class="ListControl">
+    <div class="Search">
+        <div class="ExTitle">
+            <h1>
+                VĂN BẢN CHỈ ĐẠO ĐIỀU HÀNH</h1>
+        </div>
+        
+        <div class="ExContent">
+            <div class="mb-2 row">
+                <div class="col-md-3">
+                    Nội dung tìm kiếm:
+                </div>
+                <div class="col-md-9">
+                    <input name="ctrl_141699_98$txtTrichYeu" type="text" id="ctrl_141699_98_txtTrichYeu" class="form-control form-control-sm" style="width:100%;" />
+                </div>
+            </div>
+            <div class="mb-2 row">
+                <div class="col-md-3">
+                    Tìm theo:
+                </div>
+                <div class="col-md-9">
+                    <select name="ctrl_141699_98$drTimTheo" id="ctrl_141699_98_drTimTheo" class="custom-select custom-select-sm">
+	<option selected="selected" value="">--To&#224;n bộ--</option>
+	<option value="1">Tr&#237;ch yếu nội dung</option>
+	<option value="2">Số k&#253; hiệu văn bản</option>
+	<option value="3">Ng&#224;y ban h&#224;nh</option>
+	<option value="4">Ng&#224;y c&#243; hiệu lực</option>
+
+</select>
+                </div>
+            </div>
+            <div class="mb-2 row">
+                <div class="col-md-3">
+                    Loại văn bản:
+                </div>
+                <div class="col-md-9">
+                    <select name="ctrl_141699_98$drLoaiVanBan" id="ctrl_141699_98_drLoaiVanBan" class="custom-select custom-select-sm">
+	<option value="">--To&#224;n bộ--</option>
+	<option value="5151">Th&#244;ng b&#225;o</option>
+	<option value="5153">Quyết định</option>
+	<option value="7317">QUY TR&#204;NH</option>
+	<option value="6593">Nghi Quyết</option>
+	<option value="6645">kế hoạch</option>
+	<option value="6829">Đề &#225;n</option>
+	<option value="5152">C&#244;ng văn</option>
+	<option value="5155">C&#244;ng điện</option>
+	<option value="5154">B&#225;o c&#225;o</option>
+
+</select>
+                </div>
+            </div>
+            <div class="mb-2 row">
+                <div class="col-md-3">
+                    Lĩnh vực:
+                </div>
+                <div class="col-md-9">
+                    <select name="ctrl_141699_98$drLinhVuc" id="ctrl_141699_98_drLinhVuc" class="custom-select custom-select-sm">
+	<option value="">--To&#224;n bộ--</option>
+	<option value="5911">văn h&#243;a</option>
+	<option value="5156">T&#224;i nguy&#234;n m&#244;i trường</option>
+	<option value="5916">t&#224;i ch&#237;nh</option>
+	<option value="6549">Qu&#226;n sự</option>
+	<option value="5163">N&#244;ng nghiệp</option>
+	<option value="5162">nội vụ</option>
+	<option value="8219">Kinh tế VH-XH</option>
+	<option value="8217">Hội đồng nh&#226;n d&#226;n</option>
+	<option value="6932">Giao th&#244;ng - Thủy lợi</option>
+	<option value="6594">C&#244;ng t&#225;c đảng</option>
+
+</select>
+                </div>
+            </div>
+            <div class="mb-2 row">
+                <div class="col-md-3">
+                    Cơ quan ban hành:
+                </div>
+                <div class="col-md-9">
+                    <select name="ctrl_141699_98$drCoQuanBanHanh" id="ctrl_141699_98_drCoQuanBanHanh" class="custom-select custom-select-sm">
+	<option value="">--To&#224;n bộ--</option>
+	<option value="5918">UBND x&#227;</option>
+	<option value="5157">UBND huyện</option>
+	<option value="5159">Trung ương</option>
+	<option value="6595">Ph&#242;ng, Ban, ng&#224;nh</option>
+	<option value="5161">Huyện ủy</option>
+	<option value="8218">Hội đồng nh&#226;n d&#226;n x&#227;</option>
+	<option value="5158">Hội đồng nh&#226;n d&#226;n huyện</option>
+	<option value="5160">Cấp tỉnh</option>
+
+</select>
+                </div>
+            </div>
+            <div class="mb-2 row">
+                <div class="col-md-3">&nbsp;</div>
+                <div class="col-md-9">
+                    <div style="text-align: left;">
+                        <input type="submit" name="ctrl_141699_98$btnSearch" value="Tìm kiếm" id="ctrl_141699_98_btnSearch" class="btn btn-primary btn-sm Search" />
+                        <input type="submit" name="ctrl_141699_98$btnCancel" value="Hủy tìm" id="ctrl_141699_98_btnCancel" class="btn btn-secondary btn-sm Cancel" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="List">
+        <div class="Title">
+            <span id="ctrl_141699_98_lbTong">Tổng số: 738</span>
+        </div>
+        <div>
+	<table class="table table-sm table-bordered table-hover" cellspacing="0" rules="all" border="1" id="ctrl_141699_98_gvDanhSach" style="width:100%;border-collapse:collapse;">
+		<tr>
+			<th scope="col">Số hiệu văn bản</th><th scope="col">Ngày ban hành</th><th scope="col">Trích yếu</th><th scope="col">Tệp đính kèm</th>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_0">7349/UBND-VP4</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_0">15/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200072">
+                            <span class="summary">V/v tiếp tục triển khai thực hiện Kế hoạch số 131/KH-UBND về xây dựng và phát triển đô thị Ninh Bình đến năm 2030</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">3</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_0" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl02$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_1">105-KL/TW</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_1">15/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200073">
+                            <span class="summary">Kết luận Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XIV về thu hút và trọng dụng nhân tài trong các ngành, lĩnh vực mũi nhọn, phục vụ đất nước phát triển nhanh, bền vững</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">1</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_1" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl03$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_2">29-NQ/TW</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_2">15/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200074">
+                            <span class="summary">Nghị quyết Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XIV về tiếp tục đổi mới, hoàn thiện phương thức lãnh đạo, cầm quyền của Đảng trong kỷ nguyên mới</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">10</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_2" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl04$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_3">30-NQ/TW</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_3">15/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200075">
+                            <span class="summary">Nghị quyết Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XIV về tiếp tục xây dựng đội ngũ cán bộ các cấp và đổi mới căn bản, toàn diện công tác cán bộ đáp ứng yêu cầu phát triển đất nước trong kỷ nguyên mới</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">18</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_3" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl05$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_4">31-NQ/TW</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_4">15/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200077">
+                            <span class="summary">Nghị quyết Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XIV về tăng cường xây dựng, chỉnh đốn Đảng và hệ thống chính trị trong sạch, vững mạnh toàn diện, đáp ứng yêu cầu phát triển của đất nước trong kỷ nguyên mới</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">22</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_4" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl06$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_5">106-KL/TW</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_5">15/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200078">
+                            <span class="summary">Kết luận Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa XIV về tình hình phát triển kinh tế - xã hội, thực hiện ngân sách nhà nước năm 2026, kế hoạch năm 2027</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">21</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_5" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl07$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_6">772-CV/HNDT</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_6">15/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200080">
+                            <span class="summary">Công văn cài đạt áp Nông dân Việt Nam năm 2026</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">3</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_6" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl08$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_7">225-QĐ/TW</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_7">14/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200079">
+                            <span class="summary">Quy định của Ban Chấp hành Trung ương về công tác kiểm tra, giám sát và kỷ luật của Đảng</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">10</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_7" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl09$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_8">224-QĐ/TW</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_8">14/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200076">
+                            <span class="summary">Quy định của Ban Chấp hành Trung ương về đảng viên tham gia hoạt động đầu tư kinh doanh</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">16</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_8" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl10$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbSoHieuVB_9">1039/TB-MTTQ-CQ</span>
+                    </td><td>
+                        <span id="ctrl_141699_98_gvDanhSach_lbNgayBanHanh_9">14/10/2026</span>
+                    </td><td>
+                        <a href="/?pageid=33768&p_steering=200040">
+                            <span class="summary">THÔNG BÁO ỦY QUYỀN ĐIỀU HÀNH CƠ QUAN</span></a>
+                        
+                        <div class="view-count"><span class="first">Lượt xem: </span><span class="second">26</span></div>
+                    </td><td>
+                        <a id="ctrl_141699_98_gvDanhSach_linkDownload_9" CssClas="download" href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach$ctl11$linkDownload&#39;,&#39;&#39;)">Tải về</a>
+                        
+                    </td>
+		</tr><tr>
+			<td colspan="4"><table>
+				<tr>
+					<td><span>1</span></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$2&#39;)">2</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$3&#39;)">3</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$4&#39;)">4</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$5&#39;)">5</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$6&#39;)">6</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$7&#39;)">7</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$8&#39;)">8</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$9&#39;)">9</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$10&#39;)">10</a></td><td><a href="javascript:__doPostBack(&#39;ctrl_141699_98$gvDanhSach&#39;,&#39;Page$11&#39;)">...</a></td>
+				</tr>
+			</table></td>
+		</tr>
+	</table>
+</div>
+    </div>
+    <input type="hidden" name="ctrl_141699_98$hdTrang" id="ctrl_141699_98_hdTrang" value="10" />
+    <input type="hidden" name="ctrl_141699_98$hdShowNew" id="ctrl_141699_98_hdShowNew" value="False" />
+    
+    
+    
+</div>
+</div></td></tr></table></td><td id="ContentBar" class="ContentBar"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td id="1" resizable="no" valign="top"><div class="Agency_Default">
+<div class="AgencyControl">
+    <div class="Header" onclick="$(this.nextElementSibling).toggle()">
+        <span id="ctrl_197824_1103_lblHeader">Cơ quan ban hành</span>
+    </div>
+    <div class="Detail">
+        <table id="ctrl_197824_1103_dlsCategory" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td class="ItemStyle">
+                <div class="UserItem">
+                    <span class="arrow"></span>
+                    <a href='/?pageid=33775&p_agency=5157'>
+                        UBND huyện
+                    </a>
+                </div>
+            </td>
+	</tr><tr>
+		<td class="ItemStyle">
+                <div class="UserItem">
+                    <span class="arrow"></span>
+                    <a href='/?pageid=33775&p_agency=5158'>
+                        Hội đồng nhân dân huyện
+                    </a>
+                </div>
+            </td>
+	</tr><tr>
+		<td class="ItemStyle">
+                <div class="UserItem">
+                    <span class="arrow"></span>
+                    <a href='/?pageid=33775&p_agency=5159'>
+                        Trung ương
+                    </a>
+                </div>
+            </td>
+	</tr><tr>
+		<td class="ItemStyle">
+                <div class="UserItem">
+                    <span class="arrow"></span>
+                    <a href='/?pageid=33775&p_agency=5160'>
+                        Cấp tỉnh
+                    </a>
+                </div>
+            </td>
+	</tr><tr>
+		<td class="ItemStyle">
+                <div class="UserItem">
+                    <span class="arrow"></span>
+                    <a href='/?pageid=33775&p_agency=5161'>
+                        Huyện ủy
+                    </a>
+                </div>
+            </td>
+	</tr><tr>
+		<td class="ItemStyle">
+                <div class="UserItem">
+                    <span class="arrow"></span>
+                    <a href='/?pageid=33775&p_agency=5918'>
+                        UBND xã
+                    </a>
+                </div>
+            </td>
+	</tr><tr>
+		<td class="ItemStyle">
+                <div class="UserItem">
+                    <span class="arrow"></span>
+                    <a href='/?pageid=33775&p_agency=6595'>
+                        Phòng, Ban, ngành
+                    </a>
+                </div>
+            </td>
+	</tr><tr>
+		<td class="ItemStyle">
+                <div class="UserItem">
+                    <span class="arrow"></span>
+                    <a href='/?pageid=33775&p_agency=8218'>
+                        Hội đồng nhân dân xã
+                    </a>
+                </div>
+            </td>
+	</tr>
+</table>
+    </div>
+    
+</div></div><div class="UIAdvertisement_Default"><div id="ctrl_179105_51_advertisement" class="AdvertisementBottomRight">
+    <div class="AdvertTitleBar"><span class="Collapse"></span><span class="Expand"></span></div>
+    <div class="AdvertContent">
+        <div style="width: 100%; text-align: left;"><a href="/lich-cong-tac"><img loading="lazy" alt="anh tin bai" src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/LCTNM.png" style="max-width: 100%; margin-bottom: 5px;"></a></div>
+<p style="text-align: left;"><a href="/thong-bao-moi-hop"><img loading="lazy" alt="anh tin bai" src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/THONGBAOMH.png" style="max-width: 100%; margin-bottom: 5px;"></a></p>
+<p><a href="/lich-tiep-cong-dan"><img loading="lazy" alt="anh tin bai" src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/LICHTIEPCD.png" style="max-width: 100%; margin-bottom: 5px;"></a></p>
+<div style="width: 100%; text-align: left;"><a href="https://ninhbinh.gov.vn" target="_blank"><img loading="lazy" alt="anh tin bai" src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/cttdtnb.png" style="max-width: 100%; margin-bottom: 5px;"></a></div>
+<div style="width: 100%; text-align: left;"><a href="https://ninhbinh.gov.vn/Default.aspx?pageid=27172" target="_blank"><img loading="lazy" alt="anh tin bai" src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/VBCUA TINH.png" style="max-width: 100%; margin-bottom: 5px;"></a></div>
+    </div>
+</div>
+</div><div class="UIWebLink_Default">
+<script type="text/javascript" id="telerikClientEvents1">
+    //<![CDATA[
+
+
+    function onSelectedIndexChanged(sender, eventArgs) {
+
+        var selectedItem = eventArgs.get_item();
+        var selectedItemText = selectedItem != null ? selectedItem.get_text() : sender.get_text();
+        window.open(selectedItem.get_value().toString());
+    }
+//]]>
+</script>
+
+<div class="WebLink">
+    <div class="HeadLink">
+        <span id="ctrl_141702_32_lblHeadLink" class="Title">Liên kết web site</span>
+    </div>
+    <div class="Content">
+        <div id="ctrl_141702_32_cboWebLink" class="RadComboBox RadComboBox_Office2007" style="width:100%;">
+	<!-- 2021.3.1111.45 --><table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+		<tr class="rcbReadOnly">
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctrl_141702_32$cboWebLink" type="text" class="rcbInput radPreventDecorate rcbEmptyMessage" id="ctrl_141702_32_cboWebLink_Input" value="Liên kết web site" readonly="readonly" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctrl_141702_32_cboWebLink_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><div class="rcbSlide" style="z-index:6000;display:none;"><div id="ctrl_141702_32_cboWebLink_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_Office2007 "><div class="rcbScroll rcbWidth"></div></div></div><input id="ctrl_141702_32_cboWebLink_ClientState" name="ctrl_141702_32_cboWebLink_ClientState" type="hidden" />
+</div>
+        
+    </div>
+</div>
+</div><div class="UIOnlineCounter_Default">
+<div class="OnlineCounter">
+    
+    <div class="MultiRow">
+        <div class="OnlineWrap">
+            
+                <div class="Header"><span>Thống kê truy cập</span></div>
+            
+                <ul class="OnlineContainer">
+                    
+                        <li>
+                            <span id="ctrl_141705_50_lblCurrentOnline" class="label1">Đang online:</span>
+                            <span class="CurrentOnline CurrenOnline">1</span>
+                        </li>
+                    
+                        <li>
+                            <span id="ctrl_141705_50_lblOneDayOnline" class="label2">Hôm nay:</span>
+                            <span class="OneDayOnline">1</span>
+                        </li>
+                    
+                        <li>
+                            <span id="ctrl_141705_50_lblOneWeekOnline" class="label3">Trong tuần:</span>
+                            <span class="OneWeekOnline">1</span>
+                        </li>
+                    
+                        <li>
+                            <span id="ctrl_141705_50_lblTotalOnline" class="label4">Tất cả:</span>
+                            <span class="TotalOnline">1</span>
+                        </li>
+                    
+                </ul>
+            
+        </div>
+    </div>
+</div></div></td></tr></table></td></tr></table></div><div class="FooterBanner"><div class="FooterBar" id="FooterBar"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td id="1" resizable="no" valign="top"><div class="UIFooter_Default">
+<div class="UIFooterControl">
+    <div class="container px-md-0">
+<div class="footer-navbar">
+<a href="https://mail.ninhbinh.gov.vn/" target="_blank"><em class="fa fa-envelope"></em> Email c&ocirc;ng vụ</a>
+<a href="https://dichvucong.gov.vn/nop-phan-anh-kien-nghi" target="_blank"><em class="fa fa-calendar-alt"></em> Phản &aacute;nh kiến nghị</a>
+<a href="/hoi-dap"><em class="fa fa-user-circle"></em> Hỏi đ&aacute;p</a>
+<a href="/so-do-cong"><em class="fa fa-sitemap"></em> Sơ đồ cổng</a>
+<a href="/lien-he"><em class="fa fa-edit"></em> Li&ecirc;n hệ</a>
+</div>
+<div class="top-footer">
+<div class="row middel-footer">
+<div class="col col-md-auto pe-4">
+<img alt="" src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/quochuy.png" class="mx-auto" />
+</div>
+<div class="col-12 col-md">
+<div class="info-page">
+<div class="info-page-item">
+<p><span style="font-size: 18px; color: #b34432;"><strong>&copy; TRANG TH&Ocirc;NG TIN ĐIỆN TỬ &nbsp;X&Atilde; NAM MINH</strong></span></p>
+<p><span style="color: #2a3241;"><strong>Giấy ph&eacute;p:</strong></span></p>
+<p><span style="color: #2a3241;"><strong>Địa chỉ:</strong> X&atilde; Nam Minh</span></p>
+<p><span style="color: #2a3241;"><strong>Điện thoại:</strong>&nbsp;</span></p>
+<p><span style="color: #2a3241;"><strong>Email:</strong>&nbsp;</span></p>
+</div>
+</div>
+</div>
+<div class="col-12 col-md-auto align-self-end">
+<a href="http://ipv6-test.com/validate.php?url=referer"><img src="https://storage-vnportal.vnpt.vn/ndh-ubnd/5023/banner/button-ipv6-big.png" alt="ipv6 ready" title="ipv6 ready" style="border-width: 0px; border-style: solid;" /></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="UIBackToTop_Default">
+<div class="UIBackTopTopControl">
+</div></div></td></tr></table></div></div></div>
+ <script type='text/javascript'> document.addEventListener('keydown', function(event) { }); </script>
+                    <script type='text/javascript'>
+                    function isInputElement(element) {
+                        return element.tagName === 'INPUT' || element.tagName === 'TEXTAREA';
+                    }
+                    document.addEventListener('keydown', function(event) { 
+                        if (!event.altKey && (event.keyCode === 48 || event.keyCode === 96 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(0)).attr('href');
+                        if (!event.altKey && (event.keyCode === 49 || event.keyCode === 97 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(1)).attr('href');
+                        if (!event.altKey && (event.keyCode === 50 || event.keyCode === 98 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(2)).attr('href');
+                        if (!event.altKey && (event.keyCode === 51 || event.keyCode === 99 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(3)).attr('href');
+                        if (!event.altKey && (event.keyCode === 52 || event.keyCode === 100 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(4)).attr('href');
+                        if (!event.altKey && (event.keyCode === 53 || event.keyCode === 101 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(5)).attr('href');
+                        if (!event.altKey && (event.keyCode === 54 || event.keyCode === 102 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(6)).attr('href');
+                        if (!event.altKey && (event.keyCode === 55 || event.keyCode === 103 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(7)).attr('href');
+                        if (!event.altKey && (event.keyCode === 56 || event.keyCode === 104 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(8)).attr('href');
+                        if (!event.altKey && (event.keyCode === 57 || event.keyCode === 105 ) && $('.ArticleInMenu').length > 0 && !isInputElement(event.target)) 
+                            window.location.href = $($('.ArticleInMenu .Title a').get(9)).attr('href');
+                        if (!event.altKey && (event.keyCode === 80 ) && $('.ArticleDetailControl').length > 0 && !isInputElement(event.target)) {
+                            $('.ArticleDetailControl .play-button').click();
+                            $('.ArticleDetailControl .audio').click();
+                        }
+                        if (!event.altKey && (event.keyCode === 187 || event.keyCode === 107 ) && $('.ArticleDetailControl').length > 0 && !isInputElement(event.target)) 
+                            $('.ArticleDetailControl .font_plus').click();
+                        if (!event.altKey && (event.keyCode === 109 || event.keyCode === 189 ) && $('.ArticleDetailControl').length > 0 && !isInputElement(event.target)) 
+                            $('.ArticleDetailControl .font_minus').click();
+                    }); </script>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){ $('.DropdownMenu').DropdownMenu({menushow:0})});$(document).ready(function(){ $('#ctrl_195872_51_advertisement').showAdvertisement({displayType:'BottomRight'})});$(document).ready(function(){ $('#ctrl_179105_51_advertisement').showAdvertisement({displayType:'BottomRight'})});
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+
+WebForm_InitCallback();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":0,"_height":0,"_skin":"Office2007","_uniqueId":"ctrl_141702_32$cboWebLink","clientStateFieldID":"ctrl_141702_32_cboWebLink_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Liên kết web site","expandAnimation":"{\"duration\":450}","itemData":[],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}"}, {"selectedIndexChanged":onSelectedIndexChanged}, null, $get("ctrl_141702_32_cboWebLink"));
+});
+//]]>
+</script>
+</form>
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.ajax({ url: "/Handlers/IncreaseOnline.ashx", type: "POST", data: { site_id: 'MvpZQYN0hWw=', }, success: function (result) { try { var onlineObj = JSON.parse(result); $(".CurrentOnline").text(onlineObj.CurrentOnline); $(".OneDayOnline").text(onlineObj.OneDayOnline); $(".OneWeekOnline").text(onlineObj.OneWeekOnline); $(".MonthOnline").text(onlineObj.MonthOnline); $(".YearOnline").text(onlineObj.YearOnline); $(".TotalOnline").text(onlineObj.TotalOnline); } catch (error) { console.log(error); } }, error: function (error) { console.log(error); } });
+        })
+    </script>
+    
+</body>
+</html>

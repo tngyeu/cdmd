@@ -1,0 +1,35 @@
+---
+layout: base.njk
+pagination:
+  data: research.reports
+  size: 1
+  alias: report
+eleventyComputed:
+  title: "{{ report.title | safe }}"
+  description: "{{ report.description }}"
+  permalink: "{{ report.url }}index.html"
+  navKey: "{{ report.navKey }}"
+  pageScript: "{% if report.preparedDraft %}prepared-draft{% endif %}"
+  pageStyle: "{% if report.preparedDraft %}prepared-draft{% endif %}"
+eyebrow: PHÂN TÍCH & ĐỐI CHIẾU NGUỒN
+---
+<div class="document-toolbar"><span>{% icon "clock" %} {% if report.updatedOn %}Cập nhật bài {{ report.updatedOn | dateVi }}{% else %}Bài phân tích và nguồn đối chiếu{% endif %}</span><button class="button button-small button-secondary" type="button" data-print>{% icon "print" %} In bài</button></div>
+{% if report.name == 'legal_overview' %}<div class="callout info section-block">{% icon "book" %}<div><strong>Văn bản mới lên trước, tra cứu theo ngày và vấn đề</strong><p><a href="/phap-ly/">Hồ sơ pháp lý</a> mặc định hiển thị 12 tháng gần mốc nghiên cứu, mới nhất trước. Có lọc năm, chủ đề và đổi chiều sắp xếp; các văn bản nền cũ nằm trong mục “Tất cả”.</p></div></div>{% endif %}
+<div class="document-layout"><article class="prose panel article-panel">
+{% if report.preparedDraft %}
+  <div class="prepared-guide">{{ report.preparedDraft.before | safe }}</div>
+  <div class="prepared-editor">
+    <p class="small">Sửa trực tiếp trong ô dưới đây. Các nút chỉ lấy nội dung văn bản, không lấy phần hướng dẫn và nguồn tra cứu. Phần sửa chưa được lưu qua lần mở trang khác; tải TXT để giữ lại.</p>
+    <div class="prepared-actions"><button class="button button-primary" type="button" id="prepared-copy">Sao chép sang Word</button><button class="button button-secondary" type="button" id="prepared-download" data-filename="{{ report.web.draftFilename or 'bo-sung-phuong-an-50m2.txt' }}">{% icon "download" %} Tải bản TXT</button><button class="button button-secondary" type="button" id="prepared-print-button">{% icon "print" %} In văn bản</button></div>
+    <p class="prepared-status small" id="prepared-status" role="status">Điền các chỗ trong ngoặc vuông và rà theo văn bản thực nhận trước khi ký.</p>
+    <label class="prepared-label" for="prepared-text">Nội dung văn bản — có thể chỉnh sửa</label>
+    <textarea id="prepared-text" class="prepared-text" rows="30" spellcheck="false">{{ report.preparedDraft.text | escapeText | safe }}</textarea>
+    <p class="small" id="prepared-missing" aria-live="polite">Chưa điền thông tin văn bản thực nhận và thửa đất.</p>
+    <noscript><p>Bật JavaScript để dùng nút sao chép, tải và cập nhật bản in theo phần bạn chỉnh. Bạn vẫn có thể chọn và sao chép nội dung trong ô.</p></noscript>
+  </div>
+  <pre id="prepared-print" class="prepared-print">{{ report.preparedDraft.text | escapeText | safe }}</pre>
+  <div class="prepared-guide">{{ report.preparedDraft.after | safe }}</div>
+{% else %}
+  {{ report.html | safe }}
+{% endif %}
+</article><aside class="toc-panel"><span class="eyebrow">TRONG BÀI NÀY</span><nav aria-label="Mục lục bài phân tích">{% for item in report.toc %}<a href="#{{ item.id }}">{{ item.title }}</a>{% endfor %}</nav><a class="rail-link" href="/phap-ly/">{% icon "book" %} Tra văn bản trong kho</a><a class="rail-link" href="/hoi-dap/">{% icon "help" %} Xem tình huống hỏi đáp</a></aside></div>

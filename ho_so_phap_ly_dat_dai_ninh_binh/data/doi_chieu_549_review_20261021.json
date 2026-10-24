@@ -1,0 +1,87 @@
+{
+  "checked_on": "2026-10-21",
+  "criterion": "Residential area already present >=549 m² before additional approved conversion, preferably CLN→ODT in the same parcel in Ninh Binh",
+  "qualified_cases_verified": 0,
+  "outcome": "Not yet found; this is not proof of absence",
+  "baseline_2026_catalog_rows": 438,
+  "new_2025_pdf_source_links": 327,
+  "gap_pdf_source_links": 13,
+  "method": "Text screening of downloaded PDFs and targeted image review, not full manual image review of every PDF; official metadata refreshed for near matches",
+  "near_matches": [
+    {
+      "source_page": "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/2220",
+      "source_html": "documents/nguon_web/549_verified_meta_2d77dc9b78e0.html",
+      "source_pdf": "documents/doi_chieu_549_20261021/lienminh_947_22-10-2025.pdf",
+      "sha256": "f709b357f921fdb8564b9daf84cef1e5e106704caf04c581f43090b76920425d",
+      "number_from_page": "947/QĐ-UBND",
+      "date_from_page": "2025-10-22",
+      "residential_before_m2": 434,
+      "residential_added_m2": 100,
+      "residential_after_calculated_m2": 534,
+      "parcel_m2": 634,
+      "conversion": "CLN→ONT",
+      "qualifies_before_549": false,
+      "pdf_identity": "header_number_day_blank; official_page_metadata",
+      "reviewed_on": "2026-10-21",
+      "area_visually_reviewed_pages": [
+        1
+      ],
+      "note": "No confirmation of payment, registry update, other land holdings, or household need."
+    },
+    {
+      "source_page": "https://vuban.ninhbinh.gov.vn/van-ban-dieu-hanh/8490",
+      "source_html": "documents/nguon_web/549_verified_meta_b8962a147557.html",
+      "source_pdf": "documents/doi_chieu_549_20261021/vuban_2853_24-11-2025.pdf",
+      "sha256": "379458c249bd993f1095067237d3c7693933de2d8f638aba9ccdbfb0a828bd0c",
+      "number_from_page": "2853/QĐ-UBND",
+      "date_from_page": "2025-11-24",
+      "residential_before_m2": 428.2,
+      "residential_added_m2": 250,
+      "residential_after_calculated_m2": 678.2,
+      "parcel_m2": 856.6,
+      "conversion": "CLN→ONT",
+      "qualifies_before_549": false,
+      "pdf_identity": "header_number_day_blank; official_page_metadata",
+      "reviewed_on": "2026-10-21",
+      "area_visually_reviewed_pages": [
+        1,
+        2
+      ],
+      "note": "No confirmation of payment, registry update, other land holdings, or household need."
+    },
+    {
+      "source_page": "https://lienminh.ninhbinh.gov.vn/van-ban-dieu-hanh/12231",
+      "source_html": "documents/nguon_web/549_verified_meta_f7f0722254c4.html",
+      "source_pdf": "documents/quyet_dinh_2026/xalienminh_1781_2026-10-02.pdf",
+      "sha256": "2d4ab4c8e7af582adf9c8048b61ffd970455860c23787874029d335b9eb3b389",
+      "number_from_page": "1781/QĐ-UBND",
+      "date_from_page": "2026-10-02",
+      "residential_before_m2": 427,
+      "residential_added_m2": 60,
+      "residential_after_calculated_m2": 487,
+      "parcel_m2": 784,
+      "conversion": "CLN→ONT",
+      "qualifies_before_549": false,
+      "pdf_identity": "header_number_day_blank; official_page_metadata",
+      "reviewed_on": "2026-10-21",
+      "area_visually_reviewed_pages": [
+        1
+      ],
+      "note": "No confirmation of payment, registry update, other land holdings, or household need."
+    }
+  ],
+  "scope_notes": [
+    "Some baseline records lack downloadable PDFs or the initial land composition.",
+    "Source link counts are not unique verified decision counts.",
+    "Cases on three different parcels approved on the same date must not be treated as proof of at least 549 m² previously held."
+  ],
+  "followup_scan_review": "data/scan_review_20261021.json",
+  "followup_qualified_cases_verified": 0,
+  "financial_guidance": {
+    "source_pdf": "documents/phap_luat/cv7713_btc_qlcs_20260608.pdf",
+    "number": "7713/BTC-QLCS",
+    "issued_date": "2026-06-08",
+    "sha256": "d7e558380a1442748c314ed1d58a29fe1beaa3a5f55b5cf0401715da5d27e1cd",
+    "scope": "Eligible land-use fee treatment; not permission to convert or proof of eligibility for this parcel"
+  }
+}
