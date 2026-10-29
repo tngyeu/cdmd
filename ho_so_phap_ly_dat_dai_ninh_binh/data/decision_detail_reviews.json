@@ -1307,5 +1307,406 @@
       "Số 1058 và ngày 28/09/2026 đọc từ trang 1; 19/10/2026 là mốc sao y.",
       "Điều 1 trang 2 ghi 75 m² CLN sang ONT, đơn giá đất ở 2.000.000 đồng/m² và hệ số điều chỉnh 1,1. Không suy tổng tiền phải nộp bằng phép nhân trực tiếp."
     ]
+  },
+  "xaxuanhong|1737/QĐ-UBND|2026-10-01": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "168.4",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"168.4\"}]",
+      "area_m2": "168.4",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ONT",
+      "conversion_group": "CLN->ONT",
+      "term_after": "Lâu dài"
+    },
+    "notes": [
+      "Bổ sung từ tìm kiếm giới hạn 29/09–29/10/2026; trang nguồn đăng 02/10/2026. Đã đọc ảnh số/ngày trang 1 và Điều 1 trang 2. Văn bản không nêu riêng tổng diện tích thửa; không dùng diện tích chuyển để thay thế tổng thửa."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/recent20261029_xuanhong_1737.pdf",
+    "sha256": "1b082d40a325d7b785b3130eacfcbb123b97e41ef239ac49de5dc994cb7e0e56"
+  },
+  "xaxuanhong|1738/QĐ-UBND|2026-10-01": {
+    "pages": "1,2",
+    "fields": {
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "190",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"190\"}]",
+      "area_m2": "190",
+      "area_status": "verified_pdf_identity",
+      "land_before": "CLN",
+      "land_after": "ONT",
+      "conversion_group": "CLN->ONT",
+      "term_after": "Lâu dài"
+    },
+    "notes": [
+      "Bổ sung từ tìm kiếm giới hạn 29/09–29/10/2026; trang nguồn đăng 02/10/2026. Đã đọc ảnh số/ngày trang 1 và Điều 1 trang 2. Văn bản không nêu riêng tổng diện tích thửa; không dùng diện tích chuyển để thay thế tổng thửa."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/recent20261029_xuanhong_1738.pdf",
+    "sha256": "c2aeabcf894f0add23efb7d8bfda8b15292179c98b7366f6f8cac052f8e4379a"
+  },
+  "xadongthai|1971/QĐ-UBND|2026-10-16": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "200",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "200",
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ONT\", \"area_m2\": \"200\"}]",
+      "land_before": "HNK",
+      "land_after": "ONT",
+      "conversion_group": "HNK->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_dongthai529_0.pdf",
+    "sha256": "9d73780c83d45b44b60dcd0718afd6aec24db57ed00d9e9743754b6524f940fd"
+  },
+  "xadongthai|1977/QĐ-UBND|2026-10-16": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "100",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "100",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"100\"}]",
+      "land_before": "CLN",
+      "land_after": "ONT",
+      "conversion_group": "CLN->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_dongthai534_0.pdf",
+    "sha256": "5a5863754a90d4851393f891b31a8b4d6013b23bd72a13193aab806df24102ab"
+  },
+  "xagiaohoa|2121/QĐ-UBND|2026-10-19": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "80",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "80",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"80\"}]",
+      "land_before": "CLN",
+      "land_after": "ONT",
+      "conversion_group": "CLN->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_giaohoa_0.pdf",
+    "sha256": "adead4bc9de0f6276a9e54dd45000b0c8a820570c4c19096026e5bba0b2b708f"
+  },
+  "xagiaohoa|2136/QĐ-UBND|2026-10-20": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "60",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "60",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ONT\", \"area_m2\": \"60\"}]",
+      "land_before": "NTS",
+      "land_after": "ONT",
+      "conversion_group": "NTS->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_giaohoa_1.pdf",
+    "sha256": "7d6cdbdc7c97ca65839e54c1c81e321ef87291cb5329a4191782f389a897eabd"
+  },
+  "xakhanhhoi|422/QĐ-UBND|2026-10-26": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "157.4",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "157.4",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"157.4\"}]",
+      "land_before": "CLN",
+      "land_after": "ONT",
+      "conversion_group": "CLN->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_khanhhoi422_0.pdf",
+    "sha256": "cc726d5b598e31111b4fdb47b287e5fca050ecdb42afb8fc0074447162d454a0"
+  },
+  "phuongnamdinh|4428/QĐ-UBND|2026-10-23": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "192.4",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "192.4",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"DAT_O\", \"area_m2\": \"192.4\"}]",
+      "land_before": "NTS",
+      "land_after": "DAT_O",
+      "conversion_group": "NTS->DAT_O"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống. Điều 1 chỉ ghi đất ở; giữ mã DAT_O, không tự suy mã ODT."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_namdinh200438_0.pdf",
+    "sha256": "cb63d5bf5579ad75806a28710f2833ffe22f021beb1752e3d9add113e402cdca"
+  },
+  "phuongnamhoalu|2925/QĐ-UBND|2026-10-23": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "83.2",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "83.2",
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"83.2\"}]",
+      "land_before": "HNK",
+      "land_after": "ODT",
+      "conversion_group": "HNK->ODT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_namhoalu2925_0.pdf",
+    "sha256": "cd177b3e977c214578302497829c1717ea90583f1c9518d46443ee554f201a6c"
+  },
+  "xayenmo|2204/QĐ-UBND|2026-10-09": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "202.8",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "202.8",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"77.3\"}, {\"land_before\": \"NTS\", \"land_after\": \"ONT\", \"area_m2\": \"125.5\"}]",
+      "land_before": "CLN+NTS",
+      "land_after": "ONT",
+      "conversion_group": "hon_hop_da_tach"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_yenmo1647_0.pdf",
+    "sha256": "981b3cdf1b56b2c74819bd426e03314f366b5473f29bbe892f0516d52cf7ff7a"
+  },
+  "xayentu|1023/QĐ-UBND|2026-07-09": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "491",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "491",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ONT\", \"area_m2\": \"491\"}]",
+      "land_before": "NTS",
+      "land_after": "ONT",
+      "conversion_group": "NTS->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống. Quyết định tháng 7 đã có trong dữ liệu; chỉ nâng xác minh, không tính thành quyết định mới trong tháng gần đây."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_month_yentu795_0.pdf",
+    "sha256": "eb71b5b7ad52536165577b736d0e89fc246d217bfd011774cd8c7fe0bb21d49e"
+  },
+  "xakhanhhoi|421/QĐ-UBND|2026-10-26": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "209.9",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "209.9",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ONT\", \"area_m2\": \"209.9\"}]",
+      "land_before": "NTS",
+      "land_after": "ONT",
+      "conversion_group": "NTS->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_related_google_related_1192_0.pdf",
+    "sha256": "448a132a7e32a62d0072ad1fd954d882315c2d3209192ffbfb51b38966e6ead5"
+  },
+  "xakhanhhoi|423/QĐ-UBND|2026-10-26": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "157.4",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "157.4",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"157.4\"}]",
+      "land_before": "CLN",
+      "land_after": "ONT",
+      "conversion_group": "CLN->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_related_google_related_1194_0.pdf",
+    "sha256": "05dc55e501d4b939ef60363746c3967814fbbe35b00fca105b755f4e38a256a4"
+  },
+  "xakhanhhoi|424/QĐ-UBND|2026-10-26": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "152",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "152",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"152\"}]",
+      "land_before": "CLN",
+      "land_after": "ONT",
+      "conversion_group": "CLN->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_related_google_related_1195_0.pdf",
+    "sha256": "7e3ee49bc8573517a5ba72ca86ef09e63aa5c435f35fd3e15c5b1f70be3215c1"
+  },
+  "xakhanhhoi|425/QĐ-UBND|2026-10-26": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "130",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "130",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ONT\", \"area_m2\": \"130\"}]",
+      "land_before": "NTS",
+      "land_after": "ONT",
+      "conversion_group": "NTS->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_related_google_related_1196_0.pdf",
+    "sha256": "c640da690e23868d3954d3c2eed6f0930ffdbf8c3a871f49c36323de49bba473"
+  },
+  "xakhanhhoi|426/QĐ-UBND|2026-10-26": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "120.2",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "120.2",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ONT\", \"area_m2\": \"120.2\"}]",
+      "land_before": "CLN",
+      "land_after": "ONT",
+      "conversion_group": "CLN->ONT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_related_google_related_1197_0.pdf",
+    "sha256": "def39503f2f15ffe7d326f85671c5f3c1a47296e85e4f32113a1eeff2fbc7627"
+  },
+  "phuongnamhoalu|2734/QĐ-UBND|2026-10-12": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "167.4",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "167.4",
+      "components_json": "[{\"land_before\": \"CLN\", \"land_after\": \"ODT\", \"area_m2\": \"167.4\"}]",
+      "land_before": "CLN",
+      "land_after": "ODT",
+      "conversion_group": "CLN->ODT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_related_google_related_1483_0.pdf",
+    "sha256": "307901307c4d6453819d3fe0b4654123efbc288741064f263ce62612264e9a1d"
+  },
+  "phuongnamhoalu|2687/QĐ-UBND|2026-10-06": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "91.7",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "91.7",
+      "components_json": "[{\"land_before\": \"HNK\", \"land_after\": \"ODT\", \"area_m2\": \"91.7\"}]",
+      "land_before": "HNK",
+      "land_after": "ODT",
+      "conversion_group": "HNK->ODT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/google_related_google_related_1502_0.pdf",
+    "sha256": "99171649f789ee9ed0d82e243cf62c736eefab1f0af2cf24d86479b922024355"
+  },
+  "phuongtayhoalu|3192/QĐ-UBND|2026-10-13": {
+    "pages": "1,2",
+    "fields": {
+      "area_m2": "100",
+      "area_status": "verified_pdf_identity",
+      "parcel_area_m2": "",
+      "initial_land_json": "{}",
+      "post_land_json": "{}",
+      "residential_conversion_m2": "100",
+      "components_json": "[{\"land_before\": \"NTS\", \"land_after\": \"ODT\", \"area_m2\": \"100\"}]",
+      "land_before": "NTS",
+      "land_after": "ODT",
+      "conversion_group": "NTS->ODT"
+    },
+    "notes": [
+      "Đã đọc ảnh số/ngày trang 1 và Điều 1 của PDF. Chỉ cộng phần được phép chuyển sang đất ở; chưa thấy tổng diện tích thửa riêng, để trống. Trang nguồn ghi 16/10/2026; PDF lưu từ đợt trước ghi 13/10/2026, dùng ngày PDF. Liên kết tải hiện trả 404; giữ bản lưu, không coi ngày cổng là ngày ký."
+    ],
+    "checked_on": "2026-10-29",
+    "source_pdf": "documents/quyet_dinh_2026/supplement_link_phuongtayhoalu_0.pdf",
+    "sha256": "bfd1d00ec292d9cf073a662a508e1f83341d3c4b233b46f4c324612f01858e50"
   }
 }

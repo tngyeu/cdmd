@@ -1,0 +1,87 @@
+{
+  "source_pdf": "D:/Workspace/Anhome/01-nguon/ban-ve/20260404 - Layout chỉ dẫn.pdf",
+  "page": 1,
+  "method": "Similarity fit to 16 cadastral boundary vertices in PDF vector paths, then two schematic rectangular envelopes. This is preliminary and not surveyed/approved. Rectangle main southern extent approximate, conversion determined only by north walls.",
+  "registration_rms_m": 0.0017292092907882784,
+  "scale_m_per_pdf_unit": 0.03492603470713907,
+  "origin": [
+    605550,
+    2286200
+  ],
+  "main_rectangle_local": [
+    [
+      9.832407496589195,
+      24.246696378507814
+    ],
+    [
+      22.3152977927175,
+      24.900492871941147
+    ],
+    [
+      23.28348139921036,
+      6.415031619474508
+    ],
+    [
+      10.800591103082052,
+      5.761235126041177
+    ]
+  ],
+  "dining_rectangle_local": [
+    [
+      24.72100154067732,
+      25.014383912729727
+    ],
+    [
+      35.70593024209791,
+      25.592905931434814
+    ],
+    [
+      36.07065152114308,
+      18.602115700663923
+    ],
+    [
+      25.08572281972249,
+      18.023593681958832
+    ]
+  ],
+  "main_dimensions_m": [
+    12.5,
+    18.510798394783706
+  ],
+  "dining_dimensions_m": [
+    11.000152103558403,
+    7.000297826666382
+  ],
+  "new_boundary_local": {
+    "slope": 0.052375409694669285,
+    "intercept": 23.73172000758902,
+    "endpoints": [
+      [
+        2.001758218538944,
+        23.836562914394666
+      ],
+      [
+        36.5948446298301,
+        25.648389987789137
+      ]
+    ]
+  },
+  "additional_conversion_m2": [
+    46.26150077885377,
+    30.898813551259252
+  ],
+  "total_conversion_m2": 77.16031433011302,
+  "remaining_cln_m2": [
+    59.73849922114624,
+    35.10118644874075
+  ],
+  "old_cln_boundary_local": {
+    "slope": 0.06030234222175322,
+    "intercept": 21.33893535565271
+  },
+  "north_extension_distance_at_shared_boundary_m": 2.211845637116197,
+  "main_rectangle_note": "Representative rectangle for the principal body only, excluding the west garage/GYM wing and courtyards. North exterior wall support is taken from the actual north garage/GYM wall in PDF and is unchanged by simplifying the footprint.",
+  "verified_cad_band_area_m2": 77.16031433014328,
+  "scope": "Preliminary geometry only. No legal confirmation or allowance for roof/foundation projection. Original source PDF and original DWG unchanged.",
+  "output_dwg": "D:\\Workspace\\Anhome\\DCPL 7 - Vi tri nha va chuyen doi so bo.dwg"
+}

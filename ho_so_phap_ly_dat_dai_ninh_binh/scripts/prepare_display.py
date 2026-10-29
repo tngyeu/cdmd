@@ -72,6 +72,10 @@ def main():
     if (ROOT/'data/scan_review_20261021.json').exists():
         review=json.loads((ROOT/'data/scan_review_20261021.json').read_text(encoding='utf-8'))
         lines+=['','## Đọc bổ sung bản quét ngày 21/10/2026','',f'Đã đọc ảnh {review["reviewed_records"]} quyết định, thêm {review["added_records"]} bản ghi so với tập {review["baseline_records"]}; diện tích xác minh thêm {review["additional_verified_area_m2"].replace(".",",")} m² chuyển sang đất ở. Bản Quang Hưng 1058 dùng ngày 28/09/2026 trên bản ký; ngày 19/10/2026 của metadata trùng ngày sao y. [Bảng từng quyết định, phạm vi trang và giới hạn](scan_review_20261021.md).']
+    if (ROOT/'data/search_supplement_20261029.csv').exists():
+        lines+=['','## Tìm kiếm một tháng, cập nhật 29/10/2026','','Bổ sung hai quyết định Xuân Hồng 1737 và 1738 ngày 01/10/2026, bài nguồn đăng 02/10: 358,4 m² CLN sang ONT đã đối chiếu ảnh PDF. Không có tổng diện tích thửa riêng trong văn bản. [Nguồn, từng PDF và phạm vi tìm kiếm 29/09–29/10](search_supplement_20261029.md).']
+    if (ROOT/'data/search_expanded_20261029.json').exists():
+        lines+=['','## Rà mở rộng trực tiếp Google và Bing ngày 29/10/2026','','Sau lượt tìm hai bản Xuân Hồng, tiếp tục duyệt 10 trang Google và các nguồn Bing: thêm 14 quyết định, 2.012,7 m² chuyển sang đất ở. Đọc lại 3 bản đã có; Tây Hoa Lư 3192 dùng ngày 13/10 trên PDF thay 16/10 ở metadata. [Bảng đầy đủ, nguồn và các trường hợp loại trừ](search_expanded_20261029.md).']
     (ROOT/'reports/decisions_2026.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
     print(json.dumps(stats,ensure_ascii=False,indent=2))
 

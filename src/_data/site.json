@@ -1,7 +1,7 @@
 {
   "name": "Sổ tay đất đai",
   "location": "Ninh Bình",
-  "cutoff": "20/10/2026",
+  "cutoff": "29/10/2026",
   "description": "Một nơi để hiểu thủ tục, theo dõi hồ sơ và tra cứu căn cứ về chuyển mục đích sử dụng đất tại Ninh Bình.",
   "navigation": [
     { "label": "Bắt đầu", "url": "/", "icon": "home", "key": "home" },

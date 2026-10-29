@@ -1,8 +1,8 @@
 ﻿locality,website,pages_checked,records_found,status,checked_on,notes
-Xã Đồng Thái,https://dongthai.ninhbinh.gov.vn/,59,43,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
+Xã Đồng Thái,https://dongthai.ninhbinh.gov.vn/,59,45,found_public_records,2026-10-29,"Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành. Rà trực tiếp Google/Bing 29/10/2026, đọc bổ sung PDF; phạm vi chi tiết trong search_expanded_20261029.json."
 Xã Yên Mạc,https://yenmac.ninhbinh.gov.vn/,10,9,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
-Xã Yên Từ,https://yentu.ninhbinh.gov.vn/,13,12,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
-Xã Yên Mô,https://yenmo.ninhbinh.gov.vn/,53,14,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
+Xã Yên Từ,https://yentu.ninhbinh.gov.vn/,13,12,found_public_records,2026-10-29,"Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành. Rà trực tiếp Google/Bing 29/10/2026, đọc bổ sung PDF; phạm vi chi tiết trong search_expanded_20261029.json."
+Xã Yên Mô,https://yenmo.ninhbinh.gov.vn/,53,15,found_public_records,2026-10-29,"Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành. Rà trực tiếp Google/Bing 29/10/2026, đọc bổ sung PDF; phạm vi chi tiết trong search_expanded_20261029.json."
 Xã Kim Đông,https://kimdong.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Định Hóa,https://dinhhoa.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Lai Thành,https://laithanh.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
@@ -11,13 +11,13 @@ Xã Quang Thiện,https://quangthien.ninhbinh.gov.vn/,2,0,searched_no_matching_r
 Xã Kim Sơn,https://kimson.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Bình Minh,https://binhminh.ninhbinh.gov.vn/,3,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Phát Diệm,https://phatdiem.ninhbinh.gov.vn/,5,3,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
-Xã Khánh Hội,https://khanhhoi.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
+Xã Khánh Hội,https://khanhhoi.ninhbinh.gov.vn/,2,6,found_public_records,2026-10-29,"Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành. Rà trực tiếp Google/Bing 29/10/2026, đọc bổ sung PDF; phạm vi chi tiết trong search_expanded_20261029.json."
 Xã Khánh Nhạc,https://khanhnhac.ninhbinh.gov.vn/,0,0,directory_not_fully_accessed,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Khánh Trung,https://khanhtrung.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Phường Đông Hoa Lư,https://donghoalu.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Khánh Thiện,https://khanhthien.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Yên Khánh,https://yenkhanh.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
-Phường Tây Hoa Lư,https://tayhoalu.ninhbinh.gov.vn/,145,8,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
+Phường Tây Hoa Lư,https://tayhoalu.ninhbinh.gov.vn/,145,8,found_public_records,2026-10-29,"Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành. Rà trực tiếp Google/Bing 29/10/2026, đọc bổ sung PDF; phạm vi chi tiết trong search_expanded_20261029.json."
 Xã Gia Phong,https://giaphong.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Đại Hoàng,https://daihoang.ninhbinh.gov.vn/,20,18,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Gia Trấn,https://giatran.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
@@ -34,7 +34,7 @@ Xã Gia Lâm,https://gialam.ninhbinh.gov.vn/,2,0,searched_no_matching_record,202
 Phường Yên Sơn,https://yenson.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Trung Sơn,https://trungson.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Phường Tam Điệp,https://tamdiep.ninhbinh.gov.vn/,3,1,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
-Phường Nam Hoa Lư,https://namhoalu.ninhbinh.gov.vn/,9,18,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
+Phường Nam Hoa Lư,https://namhoalu.ninhbinh.gov.vn/,9,20,found_public_records,2026-10-29,"Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành. Rà trực tiếp Google/Bing 29/10/2026, đọc bổ sung PDF; phạm vi chi tiết trong search_expanded_20261029.json."
 Phường Hoa Lư,https://hoalu.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Hải Xuân,https://haixuan.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Hải Quang,https://haiquang.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
@@ -47,13 +47,13 @@ Xã Hải Hậu,https://haihau.ninhbinh.gov.vn/,1,0,searched_no_matching_record,
 Xã Giao Ninh,https://giaoninh.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Giao Phúc,https://giaophuc.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Giao Bình,https://giaobinh.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
-Xã Giao Hòa,https://giaohoa.ninhbinh.gov.vn/,0,0,directory_not_fully_accessed,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
+Xã Giao Hòa,https://giaohoa.ninhbinh.gov.vn/,1,2,found_public_records,2026-10-29,"Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành. Rà trực tiếp Google/Bing 29/10/2026, đọc bổ sung PDF; phạm vi chi tiết trong search_expanded_20261029.json."
 Xã Giao Hưng,https://giaohung.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Giao Thủy,https://giaothuy.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Giao Minh,https://giaominh.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Xuân Hưng,https://xuanhung.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Xuân Giang,https://xuangiang.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
-Xã Xuân Hồng,https://xuanhong.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
+Xã Xuân Hồng,https://xuanhong.ninhbinh.gov.vn/,2,2,found_public_records,2026-10-29,"Tìm kiếm giới hạn một tháng; đọc hai bài đăng 02/10 và hai PDF 1737, 1738 ngày 01/10/2026. Chưa khẳng định duyệt hết chuyên mục/phân trang."
 Xã Xuân Trường,https://xuantruong.ninhbinh.gov.vn/,10,4,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Ninh Cường,https://ninhcuong.ninhbinh.gov.vn/,3,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Minh Thái,https://minhthai.ninhbinh.gov.vn/,3,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
@@ -90,7 +90,7 @@ Phường Mỹ Lộc,https://myloc.ninhbinh.gov.vn/,2,40,found_public_records,20
 Phường Thành Nam,https://thanhnam.ninhbinh.gov.vn/,38,2,found_public_records,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Phường Đông A,https://donga.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Phường Thiên Trường,https://thientruong.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
-Phường Nam Định,https://namdinh.ninhbinh.gov.vn/,1,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
+Phường Nam Định,https://namdinh.ninhbinh.gov.vn/,1,1,found_public_records,2026-10-29,"Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành. Rà trực tiếp Google/Bing 29/10/2026, đọc bổ sung PDF; phạm vi chi tiết trong search_expanded_20261029.json."
 Xã Nam Lý,https://namly.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Nhân Hà,https://nhanha.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.
 Xã Vĩnh Trụ,https://vinhtru.ninhbinh.gov.vn/,2,0,searched_no_matching_record,2026-10-19,Phạm vi là các trang đã lưu; chưa khẳng định bao phủ toàn bộ website hoặc toàn bộ quyết định đã ban hành.

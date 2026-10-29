@@ -12,8 +12,8 @@ Phường Liêm Tuyền,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm v
 Phường Lê Hồ,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Phường Lý Thường Kiệt,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Phường Mỹ Lộc,40,40,0,0,6196.0,40,6196.0,6196.0,0,0,0,0,Có bản ghi trong tập thu thập
-Phường Nam Hoa Lư,18,18,0,0,2021.1,18,2021.1,2021.1,0,0,0,0,Có bản ghi trong tập thu thập
-Phường Nam Định,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
+Phường Nam Hoa Lư,20,20,0,0,2271.7,20,2271.7,2271.7,0,0,0,0,Có bản ghi trong tập thu thập
+Phường Nam Định,1,1,0,0,192.4,1,192.4,192.4,0,0,0,0,Có bản ghi trong tập thu thập
 Phường Nguyễn Úy,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Phường Phù Vân,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Phường Phủ Lý,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
@@ -23,7 +23,7 @@ Phường Thiên Trường,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạ
 Phường Thành Nam,2,0,2,0,0,0,0,0,0,2,0,2,Có bản ghi trong tập thu thập
 Phường Tiên Sơn,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Phường Trường Thi,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
-Phường Tây Hoa Lư,8,0,8,0,0,8,1359.5,1359.5,1359.5,0,0,0,Có bản ghi trong tập thu thập
+Phường Tây Hoa Lư,8,1,7,0,100,8,1359.5,1359.5,1259.5,0,0,0,Có bản ghi trong tập thu thập
 Phường Vị Khê,2,0,2,0,0,0,0,0,0,2,0,2,Có bản ghi trong tập thu thập
 Phường Yên Sơn,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Phường Yên Thắng,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
@@ -49,7 +49,7 @@ Xã Gia Tường,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã 
 Xã Gia Viễn,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Gia Vân,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Giao Bình,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
-Xã Giao Hòa,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
+Xã Giao Hòa,2,2,0,0,140,2,140,140,0,0,0,0,Có bản ghi trong tập thu thập
 Xã Giao Hưng,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Giao Minh,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Giao Ninh,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
@@ -65,7 +65,7 @@ Xã Hải Thịnh,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã
 Xã Hải Tiến,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Hải Xuân,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Hồng Phong,25,0,25,0,0,21,2761.5,2761.5,2761.5,4,0,4,Có bản ghi trong tập thu thập
-Xã Khánh Hội,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
+Xã Khánh Hội,6,6,0,0,926.9,6,926.9,926.9,0,0,0,0,Có bản ghi trong tập thu thập
 Xã Khánh Nhạc,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Khánh Thiện,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Khánh Trung,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
@@ -115,16 +115,16 @@ Xã Vạn Thắng,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã
 Xã Vụ Bản,46,1,45,0,85.0,44,6262.6,5918.6,6177.6,2,0,2,Có bản ghi trong tập thu thập
 Xã Xuân Giang,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Xuân Hưng,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
-Xã Xuân Hồng,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
+Xã Xuân Hồng,2,2,0,0,358.4,2,358.4,358.4,0,0,0,0,Có bản ghi trong tập thu thập
 Xã Xuân Trường,4,0,4,0,0,4,537.5,537.5,537.5,0,0,0,Có bản ghi trong tập thu thập
 Xã Yên Cường,1,0,1,0,0,1,172.0,172.0,172.0,0,0,0,Có bản ghi trong tập thu thập
 Xã Yên Khánh,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
-Xã Yên Mô,14,0,14,0,0,14,3012.4,3012.4,3012.4,0,0,0,Có bản ghi trong tập thu thập
+Xã Yên Mô,15,1,14,0,202.8,15,3215.2,3215.2,3012.4,0,0,0,Có bản ghi trong tập thu thập
 Xã Yên Mạc,9,0,9,0,0,2,139.2,139.2,139.2,7,0,7,Có bản ghi trong tập thu thập
-Xã Yên Từ,12,1,11,0,65,12,2757.0,2757.0,2692.0,0,0,0,Có bản ghi trong tập thu thập
+Xã Yên Từ,12,2,10,0,556,12,2757.0,2757.0,2201.0,0,0,0,Có bản ghi trong tập thu thập
 Xã Yên Đồng,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Ý Yên,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
 Xã Đại Hoàng,18,14,4,0,2116.4,15,2374.7,2374.7,258.3,3,0,3,Có bản ghi trong tập thu thập
 Xã Định Hóa,0,0,0,0,0,0,0,0,0,0,0,0,Chưa tìm thấy trong phạm vi đã tra; không đồng nghĩa chưa ban hành
-Xã Đồng Thái,43,0,43,0,0,39,5642.35,5438.35,5642.35,4,0,4,Có bản ghi trong tập thu thập
+Xã Đồng Thái,45,2,43,0,300,41,5942.35,5738.35,5642.35,4,0,4,Có bản ghi trong tập thu thập
 Xã Đồng Thịnh,4,0,4,0,0,0,0,0,0,4,0,4,Có bản ghi trong tập thu thập

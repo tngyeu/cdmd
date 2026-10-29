@@ -30,7 +30,7 @@ test('mixed conversions contribute only matching components, conflicts never con
 test('all locality totals match the reviewed source summary', () => {
   const research = getResearch();
   const original = parse(fs.readFileSync('ho_so_phap_ly_dat_dai_ninh_binh/data/locality_summary_2026.csv', 'utf8'), { columns: true, bom: true, skip_empty_lines: true });
-  assert.equal(research.decisions.length, 446);
+  assert.equal(research.decisions.length, 462);
   assert.equal(research.legal.length, 52);
   assert.equal(research.faq.length, 22);
   assert.equal(research.localities.length, 129);

@@ -1,14 +1,14 @@
 # Quyết định chuyển mục đích công khai năm 2026
 
-Phạm vi ngày ban hành: 01/01–20/10/2026. Đã ghi nhận **446 bản ghi** tại **27 địa phương**; **444** bản ghi được tính trong tổng xác minh theo số/ngày, gồm **82 PDF khớp số/ngày** và **362 metadata chính thức**. **2** bản ghi xung đột do cùng PDF được tách khỏi tổng xác minh.
+Phạm vi ngày ban hành: 01/01–29/10/2026. Đã ghi nhận **462 bản ghi** tại **31 địa phương**; **460** bản ghi được tính trong tổng xác minh theo số/ngày, gồm **100 PDF khớp số/ngày** và **360 metadata chính thức**. **2** bản ghi xung đột do cùng PDF được tách khỏi tổng xác minh.
 
-Tập ban đầu đến 19/10/2026 được bổ sung riêng Mỹ Lộc đến 20/10/2026; chưa cập nhật lại toàn bộ địa phương đến ngày 20/10.
+Tập nguồn trước đây được bổ sung tìm kiếm giới hạn 29/09–29/10/2026 vào ngày 29/10. Mốc cập nhật mới không xác nhận đã rà toàn bộ cổng của 129 địa phương đến ngày này.
 
 Ngày 21/10/2026 đọc ảnh bảy PDF, bổ sung 7 quyết định trong tệp ghép và 1 bản Quang Hưng; xác minh diện tích 14 quyết định. Quang Hưng 1058 dùng ngày 28/09 trên bản ký, thay 19/10 trên metadata. Không mở rộng ngày chốt tìm kiếm toàn tỉnh.
 
-Đây là **tổng của tập nguồn công khai tìm được**, không phải tổng quyết định đã ban hành toàn tỉnh. Đã truy cập danh mục/trang liên quan của 127/129 đơn vị; việc có trang được truy cập không chứng minh đã duyệt hết mọi chuyên mục, phân trang hay nguồn đính kèm. Cổng tỉnh có hạn chế truy cập; tìm kiếm website không bảo đảm chỉ mục đầy đủ.
+Đây là **tổng của tập nguồn công khai tìm được**, không phải tổng quyết định đã ban hành toàn tỉnh. Đã truy cập danh mục/trang liên quan của 128/129 đơn vị; việc có trang được truy cập không chứng minh đã duyệt hết mọi chuyên mục, phân trang hay nguồn đính kèm. Cổng tỉnh có hạn chế truy cập; tìm kiếm website không bảo đảm chỉ mục đầy đủ.
 
-Tổng diện tích đã khép định danh và phân loại được: **11,917.80 m²**, từ 80 quyết định. 306 tệp có diện tích đọc được nhưng chưa khép định danh, được trình bày riêng và không cộng vào tổng này. Diện tích chưa đọc/không xác minh được không quy về 0.
+Tổng diện tích đã khép định danh và phân loại được: **14,879.90 m²**, từ 98 quyết định. 304 tệp có diện tích đọc được nhưng chưa khép định danh, được trình bày riêng và không cộng vào tổng này. Diện tích chưa đọc/không xác minh được không quy về 0.
 
 ## Theo địa phương
 
@@ -27,8 +27,8 @@ Tổng diện tích đã khép định danh và phân loại được: **11,917.
 | Phường Lê Hồ | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Phường Lý Thường Kiệt | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Phường Mỹ Lộc | 40 | 6196.0 | 6196.0 | 6196.0 | 0 | 0 |
-| Phường Nam Hoa Lư | 18 | 2021.1 | 2021.1 | 2021.1 | 0 | 0 |
-| Phường Nam Định | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
+| Phường Nam Hoa Lư | 20 | 2271.7 | 2271.7 | 2271.7 | 0 | 0 |
+| Phường Nam Định | 1 | 192.4 | 192.4 | 192.4 | 0 | 0 |
 | Phường Nguyễn Úy | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Phường Phù Vân | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Phường Phủ Lý | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
@@ -38,7 +38,7 @@ Tổng diện tích đã khép định danh và phân loại được: **11,917.
 | Phường Thành Nam | 2 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 2 |
 | Phường Tiên Sơn | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Phường Trường Thi | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
-| Phường Tây Hoa Lư | 8 | 1359.5 | 1359.5 | 0 | 1359.5 | 0 |
+| Phường Tây Hoa Lư | 8 | 1359.5 | 1359.5 | 100 | 1259.5 | 0 |
 | Phường Vị Khê | 2 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 2 |
 | Phường Yên Sơn | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Phường Yên Thắng | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
@@ -64,7 +64,7 @@ Tổng diện tích đã khép định danh và phân loại được: **11,917.
 | Xã Gia Viễn | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Gia Vân | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Giao Bình | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
-| Xã Giao Hòa | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
+| Xã Giao Hòa | 2 | 140 | 140 | 140 | 0 | 0 |
 | Xã Giao Hưng | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Giao Minh | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Giao Ninh | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
@@ -80,7 +80,7 @@ Tổng diện tích đã khép định danh và phân loại được: **11,917.
 | Xã Hải Tiến | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Hải Xuân | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Hồng Phong | 25 | 2761.5 | 2761.5 | 0 | 2761.5 | 4 |
-| Xã Khánh Hội | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
+| Xã Khánh Hội | 6 | 926.9 | 926.9 | 926.9 | 0 | 0 |
 | Xã Khánh Nhạc | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Khánh Thiện | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Khánh Trung | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
@@ -130,18 +130,18 @@ Tổng diện tích đã khép định danh và phân loại được: **11,917.
 | Xã Vụ Bản | 46 | 6262.6 | 5918.6 | 85.0 | 6177.6 | 2 |
 | Xã Xuân Giang | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Xuân Hưng | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
-| Xã Xuân Hồng | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
+| Xã Xuân Hồng | 2 | 358.4 | 358.4 | 358.4 | 0 | 0 |
 | Xã Xuân Trường | 4 | 537.5 | 537.5 | 0 | 537.5 | 0 |
 | Xã Yên Cường | 1 | 172.0 | 172.0 | 0 | 172.0 | 0 |
 | Xã Yên Khánh | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
-| Xã Yên Mô | 14 | 3012.4 | 3012.4 | 0 | 3012.4 | 0 |
+| Xã Yên Mô | 15 | 3215.2 | 3215.2 | 202.8 | 3012.4 | 0 |
 | Xã Yên Mạc | 9 | 139.2 | 139.2 | 0 | 139.2 | 7 |
-| Xã Yên Từ | 12 | 2757.0 | 2757.0 | 65 | 2692.0 | 0 |
+| Xã Yên Từ | 12 | 2757.0 | 2757.0 | 556 | 2201.0 | 0 |
 | Xã Yên Đồng | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Ý Yên | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
 | Xã Đại Hoàng | 18 | 2374.7 | 2374.7 | 2116.4 | 258.3 | 3 |
 | Xã Định Hóa | 0 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 0 |
-| Xã Đồng Thái | 43 | 5642.35 | 5438.35 | 0 | 5642.35 | 4 |
+| Xã Đồng Thái | 45 | 5942.35 | 5738.35 | 300 | 5642.35 | 4 |
 | Xã Đồng Thịnh | 4 | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | Chưa có số liệu đủ điều kiện cộng | 4 |
 
 Tổng đọc được gồm diện tích đã xác minh và diện tích còn chờ đối chiếu số/ngày. Chỉ cộng diện tích được phép chuyển; không cộng tổng thửa. Bản ghi thiếu diện tích, xung đột PDF hoặc mâu thuẫn số học không được cộng. Bản ghi chưa tìm thấy không chứng minh địa phương chưa ban hành quyết định.
@@ -159,23 +159,24 @@ Tổng đọc được gồm diện tích đã xác minh và diện tích còn c
 | 2026-07 | 60 |
 | 2026-08 | 71 |
 | 2026-09 | 64 |
-| 2026-10 | 50 |
+| 2026-10 | 66 |
 
-Tháng 10 mới tính đến ngày 20/10. Các cột phản ánh ngày ban hành đọc được trên nguồn; không dùng để suy tỷ lệ giải quyết hồ sơ toàn tỉnh.
+Tháng 10 mới tính đến ngày 29/10. Các cột phản ánh ngày ban hành đọc được trên nguồn; không dùng để suy tỷ lệ giải quyết hồ sơ toàn tỉnh.
 
 ## Theo hướng chuyển đất
 
 | Hướng chuyển | Bản ghi phân loại được | PDF khớp | Diện tích xác minh (m²) |
 | --- | ---: | ---: | ---: |
-| CLN->ODT | 29 | 22 | 2975.3 |
-| CLN->ONT | 242 | 7 | 694.0 |
-| HNK->ODT | 13 | 13 | 1286.9 |
-| HNK->ONT | 9 | 0 | Chưa xác định |
-| NTS->ODT | 28 | 18 | 2779.7 |
-| NTS->ONT | 53 | 14 | 2403.7 |
+| CLN->ODT | 30 | 23 | 3142.7 |
+| CLN->ONT | 250 | 15 | 1819.4 |
+| HNK->ODT | 14 | 14 | 1370.1 |
+| HNK->ONT | 10 | 1 | 200 |
+| NTS->DAT_O | 1 | 1 | 192.4 |
+| NTS->ODT | 28 | 19 | 2879.7 |
+| NTS->ONT | 56 | 18 | 3294.6 |
 | chua_xac_dinh | 53 | 2 | Chưa xác định |
 | hon_hop_chua_tach | 2 | 0 | Chưa xác định |
-| hon_hop_da_tach | 15 | 6 | 1778.2 |
+| hon_hop_da_tach | 16 | 7 | 1981.0 |
 
 Loại đất/diện tích có mức xác minh riêng với số/ngày. Nhóm `chua_xac_dinh` và `hon_hop_chua_tach` không được suy thành CLN → đất ở. Một quyết định có nhiều hướng chuyển cần bảng thành phần trước khi tính diện tích theo loại.
 
@@ -197,10 +198,10 @@ Mỗi dòng CSV có URL nguồn, URL PDF nếu tìm thấy, đường dẫn bả
 
 | Địa phương | Trang đã tra | Bản ghi tìm được | Trạng thái |
 | --- | ---: | ---: | --- |
-| Xã Đồng Thái | 59 | 43 | found_public_records |
+| Xã Đồng Thái | 59 | 45 | found_public_records |
 | Xã Yên Mạc | 10 | 9 | found_public_records |
 | Xã Yên Từ | 13 | 12 | found_public_records |
-| Xã Yên Mô | 53 | 14 | found_public_records |
+| Xã Yên Mô | 53 | 15 | found_public_records |
 | Xã Kim Đông | 2 | 0 | searched_no_matching_record |
 | Xã Định Hóa | 1 | 0 | searched_no_matching_record |
 | Xã Lai Thành | 2 | 0 | searched_no_matching_record |
@@ -209,7 +210,7 @@ Mỗi dòng CSV có URL nguồn, URL PDF nếu tìm thấy, đường dẫn bả
 | Xã Kim Sơn | 2 | 0 | searched_no_matching_record |
 | Xã Bình Minh | 3 | 0 | searched_no_matching_record |
 | Xã Phát Diệm | 5 | 3 | found_public_records |
-| Xã Khánh Hội | 2 | 0 | searched_no_matching_record |
+| Xã Khánh Hội | 2 | 6 | found_public_records |
 | Xã Khánh Nhạc | 0 | 0 | directory_not_fully_accessed |
 | Xã Khánh Trung | 2 | 0 | searched_no_matching_record |
 | Phường Đông Hoa Lư | 2 | 0 | searched_no_matching_record |
@@ -232,7 +233,7 @@ Mỗi dòng CSV có URL nguồn, URL PDF nếu tìm thấy, đường dẫn bả
 | Phường Yên Sơn | 2 | 0 | searched_no_matching_record |
 | Xã Trung Sơn | 2 | 0 | searched_no_matching_record |
 | Phường Tam Điệp | 3 | 1 | found_public_records |
-| Phường Nam Hoa Lư | 9 | 18 | found_public_records |
+| Phường Nam Hoa Lư | 9 | 20 | found_public_records |
 | Phường Hoa Lư | 2 | 0 | searched_no_matching_record |
 | Xã Hải Xuân | 1 | 0 | searched_no_matching_record |
 | Xã Hải Quang | 1 | 0 | searched_no_matching_record |
@@ -245,13 +246,13 @@ Mỗi dòng CSV có URL nguồn, URL PDF nếu tìm thấy, đường dẫn bả
 | Xã Giao Ninh | 2 | 0 | searched_no_matching_record |
 | Xã Giao Phúc | 2 | 0 | searched_no_matching_record |
 | Xã Giao Bình | 2 | 0 | searched_no_matching_record |
-| Xã Giao Hòa | 0 | 0 | directory_not_fully_accessed |
+| Xã Giao Hòa | 1 | 2 | found_public_records |
 | Xã Giao Hưng | 2 | 0 | searched_no_matching_record |
 | Xã Giao Thủy | 2 | 0 | searched_no_matching_record |
 | Xã Giao Minh | 1 | 0 | searched_no_matching_record |
 | Xã Xuân Hưng | 1 | 0 | searched_no_matching_record |
 | Xã Xuân Giang | 1 | 0 | searched_no_matching_record |
-| Xã Xuân Hồng | 1 | 0 | searched_no_matching_record |
+| Xã Xuân Hồng | 2 | 2 | found_public_records |
 | Xã Xuân Trường | 10 | 4 | found_public_records |
 | Xã Ninh Cường | 3 | 0 | searched_no_matching_record |
 | Xã Minh Thái | 3 | 0 | searched_no_matching_record |
@@ -288,7 +289,7 @@ Mỗi dòng CSV có URL nguồn, URL PDF nếu tìm thấy, đường dẫn bả
 | Phường Thành Nam | 38 | 2 | found_public_records |
 | Phường Đông A | 2 | 0 | searched_no_matching_record |
 | Phường Thiên Trường | 2 | 0 | searched_no_matching_record |
-| Phường Nam Định | 1 | 0 | searched_no_matching_record |
+| Phường Nam Định | 1 | 1 | found_public_records |
 | Xã Nam Lý | 2 | 0 | searched_no_matching_record |
 | Xã Nhân Hà | 2 | 0 | searched_no_matching_record |
 | Xã Vĩnh Trụ | 2 | 0 | searched_no_matching_record |
@@ -340,3 +341,11 @@ Mỗi dòng CSV có URL nguồn, URL PDF nếu tìm thấy, đường dẫn bả
 ## Đọc bổ sung bản quét ngày 21/10/2026
 
 Đã đọc ảnh 14 quyết định, thêm 8 bản ghi so với tập 438; diện tích xác minh thêm 1604,3 m² chuyển sang đất ở. Bản Quang Hưng 1058 dùng ngày 28/09/2026 trên bản ký; ngày 19/10/2026 của metadata trùng ngày sao y. [Bảng từng quyết định, phạm vi trang và giới hạn](scan_review_20261021.md).
+
+## Tìm kiếm một tháng, cập nhật 29/10/2026
+
+Bổ sung hai quyết định Xuân Hồng 1737 và 1738 ngày 01/10/2026, bài nguồn đăng 02/10: 358,4 m² CLN sang ONT đã đối chiếu ảnh PDF. Không có tổng diện tích thửa riêng trong văn bản. [Nguồn, từng PDF và phạm vi tìm kiếm 29/09–29/10](search_supplement_20261029.md).
+
+## Rà mở rộng trực tiếp Google và Bing ngày 29/10/2026
+
+Sau lượt tìm hai bản Xuân Hồng, tiếp tục duyệt 10 trang Google và các nguồn Bing: thêm 14 quyết định, 2.012,7 m² chuyển sang đất ở. Đọc lại 3 bản đã có; Tây Hoa Lư 3192 dùng ngày 13/10 trên PDF thay 16/10 ở metadata. [Bảng đầy đủ, nguồn và các trường hợp loại trừ](search_expanded_20261029.md).

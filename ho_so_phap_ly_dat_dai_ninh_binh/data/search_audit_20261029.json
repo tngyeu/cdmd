@@ -1,0 +1,13 @@
+{
+  "checked_on": "2026-10-29",
+  "window_start": "2026-09-29",
+  "window_end": "2026-10-29",
+  "base_query": "site:ninhbinh.gov.vn chuyển mục đích",
+  "search_method": "Bộ lọc 30 ngày và after/before; truy vấn thêm cụm cho phép, ngày tháng và loại bớt thủ tục/rừng. Kiểm tra lại ngày đăng trên HTML nguồn, không dùng ngày crawl làm ngày ban hành.",
+  "accepted_records": [
+    "xaxuanhong|1737/QĐ-UBND|2026-10-01",
+    "xaxuanhong|1738/QĐ-UBND|2026-10-01"
+  ],
+  "added": 2,
+  "limitations": "Kết quả tìm kiếm không bảo đảm đầy đủ. Nhiều kết quả là thủ tục, chuyển mục đích rừng, hoặc văn bản cũ được crawl lại; không nhập các kết quả này như quyết định chuyển sang đất ở."
+}

@@ -1,0 +1,1460 @@
+{
+  "source": "D:\\Workspace\\Anhome\\DCPL 7.dwg",
+  "source_sha256": "fae7238c04a5913296c311626998973bda9d493415c4121db2efe31fb39aa25f",
+  "output_dxf": "D:\\Workspace\\Anhome\\DCPL 7 - Unicode.dxf",
+  "changed_text_entities": 196,
+  "style_changes": [
+    {
+      "name": "Style-Vntime",
+      "old": "Vntime.shx",
+      "new": "times.ttf"
+    },
+    {
+      "name": "Style-Vnarial",
+      "old": "Vnarial.shx",
+      "new": "arial.ttf"
+    },
+    {
+      "name": "Style-vncour",
+      "old": "vncour.shx",
+      "new": "cour.ttf"
+    },
+    {
+      "name": "Style-Vnarial I 0.26180",
+      "old": "Vnarial.shx",
+      "new": "arial.ttf"
+    },
+    {
+      "name": "Style-Vntime I 0.26180",
+      "old": "Vntime.shx",
+      "new": "times.ttf"
+    },
+    {
+      "name": "Style-VHarial",
+      "old": "VHarial.shx",
+      "new": "arial.ttf"
+    }
+  ],
+  "changes": [
+    {
+      "handle": "1257",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "t∅nh hµ nam",
+      "new": "TỈNH HÀ NAM"
+    },
+    {
+      "handle": "116",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Sè thªm",
+      "new": "Số thêm"
+    },
+    {
+      "handle": "117",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Sè tiÕp cËn",
+      "new": "Số tiếp cận"
+    },
+    {
+      "handle": "118",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Sè bít",
+      "new": "Số bớt"
+    },
+    {
+      "handle": "141",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "H¹n",
+      "new": "Hạn"
+    },
+    {
+      "handle": "142",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "ChiÓu",
+      "new": "Chiểu"
+    },
+    {
+      "handle": "143",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "T­êng",
+      "new": "Tường"
+    },
+    {
+      "handle": "144",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Do·n",
+      "new": "Doãn"
+    },
+    {
+      "handle": "146",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "H¶i",
+      "new": "Hải"
+    },
+    {
+      "handle": "147",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ng©n",
+      "new": "Ngân"
+    },
+    {
+      "handle": "148",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "S¬n",
+      "new": "Sơn"
+    },
+    {
+      "handle": "149",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§o¹t",
+      "new": "Đoạt"
+    },
+    {
+      "handle": "14A",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ph­îng",
+      "new": "Phượng"
+    },
+    {
+      "handle": "14B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "MÔ",
+      "new": "Mễ"
+    },
+    {
+      "handle": "14D",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "HiÓn",
+      "new": "Hiển"
+    },
+    {
+      "handle": "14E",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "B×nh",
+      "new": "Bình"
+    },
+    {
+      "handle": "14F",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "L©m",
+      "new": "Lâm"
+    },
+    {
+      "handle": "150",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "TËp",
+      "new": "Tập"
+    },
+    {
+      "handle": "151",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Thù",
+      "new": "Thự"
+    },
+    {
+      "handle": "152",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "HiÖt",
+      "new": "Hiệt"
+    },
+    {
+      "handle": "153",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C«ng",
+      "new": "Công"
+    },
+    {
+      "handle": "154",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "LÖ",
+      "new": "Lệ"
+    },
+    {
+      "handle": "155",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Qu¸ch",
+      "new": "Quách"
+    },
+    {
+      "handle": "156",
+      "type": "TEXT",
+      "style": "Style-vncour",
+      "old": "§×nh Nha x¸",
+      "new": "Đình Nha xá"
+    },
+    {
+      "handle": "158",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Tôy",
+      "new": "Tụy"
+    },
+    {
+      "handle": "159",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Tôy",
+      "new": "Tụy"
+    },
+    {
+      "handle": "15A",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Uyªn",
+      "new": "Uyên"
+    },
+    {
+      "handle": "15B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "S¸i",
+      "new": "Sái"
+    },
+    {
+      "handle": "15C",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Lå",
+      "new": "Lồ"
+    },
+    {
+      "handle": "15D",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Dòng",
+      "new": "Dũng"
+    },
+    {
+      "handle": "15E",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "B¶o",
+      "new": "Bảo"
+    },
+    {
+      "handle": "15F",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Häc",
+      "new": "Học"
+    },
+    {
+      "handle": "162",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§Þnh",
+      "new": "Định"
+    },
+    {
+      "handle": "163",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Th¾ng",
+      "new": "Thắng"
+    },
+    {
+      "handle": "164",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "QuyÕt",
+      "new": "Quyết"
+    },
+    {
+      "handle": "165",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "HuÖ",
+      "new": "Huệ"
+    },
+    {
+      "handle": "166",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§é",
+      "new": "Độ"
+    },
+    {
+      "handle": "167",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "L¹ng",
+      "new": "Lạng"
+    },
+    {
+      "handle": "168",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Bµng",
+      "new": "Bàng"
+    },
+    {
+      "handle": "169",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ngäc",
+      "new": "Ngọc"
+    },
+    {
+      "handle": "16B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Yªn",
+      "new": "Yên"
+    },
+    {
+      "handle": "16C",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Yªn",
+      "new": "Yên"
+    },
+    {
+      "handle": "16E",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Biªn",
+      "new": "Biên"
+    },
+    {
+      "handle": "170",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Héi",
+      "new": "Hội"
+    },
+    {
+      "handle": "171",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C­êng",
+      "new": "Cường"
+    },
+    {
+      "handle": "173",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§­îc",
+      "new": "Được"
+    },
+    {
+      "handle": "175",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "L¹i",
+      "new": "Lại"
+    },
+    {
+      "handle": "176",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "DÇn",
+      "new": "Dần"
+    },
+    {
+      "handle": "177",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§∅nh",
+      "new": "Đỉnh"
+    },
+    {
+      "handle": "178",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Høa",
+      "new": "Hứa"
+    },
+    {
+      "handle": "179",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ch­íng",
+      "new": "Chướng"
+    },
+    {
+      "handle": "17B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§«n",
+      "new": "Đôn"
+    },
+    {
+      "handle": "17C",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "CËy",
+      "new": "Cậy"
+    },
+    {
+      "handle": "17E",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Nh­ìng",
+      "new": "Nhưỡng"
+    },
+    {
+      "handle": "180",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Sü",
+      "new": "Sỹ"
+    },
+    {
+      "handle": "181",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "TuyÒn",
+      "new": "Tuyền"
+    },
+    {
+      "handle": "182",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C­êng",
+      "new": "Cường"
+    },
+    {
+      "handle": "183",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Phóc",
+      "new": "Phúc"
+    },
+    {
+      "handle": "18D",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "ThuÇn",
+      "new": "Thuần"
+    },
+    {
+      "handle": "199",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Bµi",
+      "new": "Bài"
+    },
+    {
+      "handle": "19B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§óc",
+      "new": "Đúc"
+    },
+    {
+      "handle": "19C",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "19D",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "19E",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "19F",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "1A0",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "1A1",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "1A2",
+      "type": "TEXT",
+      "style": "Style-vncour",
+      "old": "Th«n Nha x¸",
+      "new": "Thôn Nha xá"
+    },
+    {
+      "handle": "1A5",
+      "type": "TEXT",
+      "style": "Style-vncour",
+      "old": "GiÕng",
+      "new": "Giếng"
+    },
+    {
+      "handle": "1B7",
+      "type": "MTEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "\\T1.194;m­¬ng",
+      "new": "\\T1.194;mương"
+    },
+    {
+      "handle": "1CF",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Uû",
+      "new": "Uỷ"
+    },
+    {
+      "handle": "1D0",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "S¬n",
+      "new": "Sơn"
+    },
+    {
+      "handle": "1D1",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Nhµn",
+      "new": "Nhàn"
+    },
+    {
+      "handle": "1D2",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "ThÞnh",
+      "new": "Thịnh"
+    },
+    {
+      "handle": "1D4",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Léc",
+      "new": "Lộc"
+    },
+    {
+      "handle": "1D5",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Qu¶ng",
+      "new": "Quảng"
+    },
+    {
+      "handle": "1D6",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§«",
+      "new": "Đô"
+    },
+    {
+      "handle": "1D7",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Hång",
+      "new": "Hồng"
+    },
+    {
+      "handle": "1D8",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Lú",
+      "new": "Lỳ"
+    },
+    {
+      "handle": "1D9",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Th¹ch",
+      "new": "Thạch"
+    },
+    {
+      "handle": "1DA",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "S¸p",
+      "new": "Sáp"
+    },
+    {
+      "handle": "1DB",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ph¸ch",
+      "new": "Phách"
+    },
+    {
+      "handle": "1DC",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§o¸n",
+      "new": "Đoán"
+    },
+    {
+      "handle": "1DD",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "ChiÕn",
+      "new": "Chiến"
+    },
+    {
+      "handle": "1DE",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "HiÓn",
+      "new": "Hiển"
+    },
+    {
+      "handle": "1DF",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "S­íc",
+      "new": "Sước"
+    },
+    {
+      "handle": "1E0",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§oµn",
+      "new": "Đoàn"
+    },
+    {
+      "handle": "202",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Th¬",
+      "new": "Thơ"
+    },
+    {
+      "handle": "203",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "204",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "213",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C­îc",
+      "new": "Cược"
+    },
+    {
+      "handle": "214",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "TÊu",
+      "new": "Tấu"
+    },
+    {
+      "handle": "55F",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "TiÕn",
+      "new": "Tiến"
+    },
+    {
+      "handle": "560",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Kiªm",
+      "new": "Kiêm"
+    },
+    {
+      "handle": "561",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "ThuÕ",
+      "new": "Thuế"
+    },
+    {
+      "handle": "562",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Tu©n",
+      "new": "Tuân"
+    },
+    {
+      "handle": "565",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "TiÔu",
+      "new": "Tiễu"
+    },
+    {
+      "handle": "566",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Tþ",
+      "new": "Tỵ"
+    },
+    {
+      "handle": "567",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "To¶n",
+      "new": "Toản"
+    },
+    {
+      "handle": "568",
+      "type": "TEXT",
+      "style": "Style-Vntime",
+      "old": "V¨n",
+      "new": "Văn"
+    },
+    {
+      "handle": "569",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "TiÖn",
+      "new": "Tiện"
+    },
+    {
+      "handle": "56A",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Th¸i",
+      "new": "Thái"
+    },
+    {
+      "handle": "56B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "To¶n",
+      "new": "Toản"
+    },
+    {
+      "handle": "56C",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Thùc",
+      "new": "Thực"
+    },
+    {
+      "handle": "56D",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "TiÖp",
+      "new": "Tiệp"
+    },
+    {
+      "handle": "56F",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Th¸i",
+      "new": "Thái"
+    },
+    {
+      "handle": "570",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "TiÖp",
+      "new": "Tiệp"
+    },
+    {
+      "handle": "573",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "CÇn",
+      "new": "Cần"
+    },
+    {
+      "handle": "577",
+      "type": "MTEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "\\T1.188;m­¬ng",
+      "new": "\\T1.188;mương"
+    },
+    {
+      "handle": "578",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "579",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "57A",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "57B",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "57C",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng",
+      "new": "đường"
+    },
+    {
+      "handle": "588",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "Tê Sè 05",
+      "new": "TỜ SỐ 05"
+    },
+    {
+      "handle": "589",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": " phô lôc 06",
+      "new": " PHỤ LỤC 06"
+    },
+    {
+      "handle": "58A",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "phô lôc 08",
+      "new": "PHỤ LỤC 08"
+    },
+    {
+      "handle": "58B",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "tê sè 09",
+      "new": "TỜ SỐ 09"
+    },
+    {
+      "handle": "5F2",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ph­¬ng",
+      "new": "Phương"
+    },
+    {
+      "handle": "641",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Hïng",
+      "new": "Hùng"
+    },
+    {
+      "handle": "66A",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "NhËt",
+      "new": "Nhật"
+    },
+    {
+      "handle": "66C",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Tõ ®­êng hä Ph¹m",
+      "new": "Từ đường họ Phạm"
+    },
+    {
+      "handle": "674",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Døa",
+      "new": "Dứa"
+    },
+    {
+      "handle": "686",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "H¹nh",
+      "new": "Hạnh"
+    },
+    {
+      "handle": "690",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Chøc",
+      "new": "Chức"
+    },
+    {
+      "handle": "6E6",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§¹t",
+      "new": "Đạt"
+    },
+    {
+      "handle": "6E7",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "§oµn",
+      "new": "Đoàn"
+    },
+    {
+      "handle": "6E9",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "S¬n",
+      "new": "Sơn"
+    },
+    {
+      "handle": "6EB",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ho¹t",
+      "new": "Hoạt"
+    },
+    {
+      "handle": "6F2",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "H¶o",
+      "new": "Hảo"
+    },
+    {
+      "handle": "6FB",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "B×nh",
+      "new": "Bình"
+    },
+    {
+      "handle": "727",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Th­êng",
+      "new": "Thường"
+    },
+    {
+      "handle": "770",
+      "type": "MTEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "\\T1.188;m­¬ng",
+      "new": "\\T1.188;mương"
+    },
+    {
+      "handle": "774",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Nhµ thê hä Ph¹m",
+      "new": "Nhà thờ họ Phạm"
+    },
+    {
+      "handle": "776",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "GiÕng",
+      "new": "Giếng"
+    },
+    {
+      "handle": "777",
+      "type": "MTEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "\\T1.188;m­¬ng",
+      "new": "\\T1.188;mương"
+    },
+    {
+      "handle": "778",
+      "type": "MTEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "\\T1.188;m­¬ng",
+      "new": "\\T1.188;mương"
+    },
+    {
+      "handle": "782",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "b¶ng thªm bít sè thöa",
+      "new": "BẢNG THÊM BỚT SỐ THỬA"
+    },
+    {
+      "handle": "78B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": " Nha X¸",
+      "new": " Nha Xá"
+    },
+    {
+      "handle": "796",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "x· méc nam",
+      "new": "XÃ MỘC NAM"
+    },
+    {
+      "handle": "79A",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "Tû lÖ 1:1000",
+      "new": "TỶ LỆ 1:1000"
+    },
+    {
+      "handle": "79B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C«ng nhËn ch∅nh lý ®óng hiÖn tr¹ng",
+      "new": "Công nhận chỉnh lý đúng hiện trạng"
+    },
+    {
+      "handle": "79C",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C«ng nhËn ngµy    th¸ng     n¨m 200",
+      "new": "Công nhận ngày    tháng     năm 200"
+    },
+    {
+      "handle": "79D",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C¬ quan ®Çu t­",
+      "new": "Cơ quan đầu tư"
+    },
+    {
+      "handle": "79E",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Gi¸m ®èc Së Tµi nguyªn vµ M«i tr­êng",
+      "new": "Giám đốc Sở Tài nguyên và Môi trường"
+    },
+    {
+      "handle": "79F",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "khu d©n c­",
+      "new": "KHU DÂN CƯ"
+    },
+    {
+      "handle": "7A0",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": " b¶n ®å ®Þa chÝnh",
+      "new": " BẢN ĐỒ ĐỊA CHÍNH"
+    },
+    {
+      "handle": "7A8",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "(Ký tªn, ®ãng dÊu)",
+      "new": "(Ký tên, đóng dấu)"
+    },
+    {
+      "handle": "7A9",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ch∅nh lý th¸ng    n¨m  200",
+      "new": "Chỉnh lý tháng    năm  200"
+    },
+    {
+      "handle": "7AA",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "KiÓm tra  ngµy      th¸ng      n¨m 200",
+      "new": "Kiểm tra  ngày      tháng      năm 200"
+    },
+    {
+      "handle": "7AB",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Ngµy    th¸ng    n¨m 200",
+      "new": "Ngày    tháng    năm 200"
+    },
+    {
+      "handle": "7AC",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "DuyÖt ngµy    th¸ng    n¨m 200",
+      "new": "Duyệt ngày    tháng    năm 200"
+    },
+    {
+      "handle": "7AD",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Chñ tÞch UBND x· Méc Nam",
+      "new": "Chủ tịch UBND xã Mộc Nam"
+    },
+    {
+      "handle": "7AE",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "1 cm trªn b¶n ®å b»ng 10 m trªn thùc ®Þa",
+      "new": "1 cm trên bản đồ bằng 10 m trên thực địa"
+    },
+    {
+      "handle": "7AF",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "(Ký tªn, ®ãng dÊu)",
+      "new": "(Ký tên, đóng dấu)"
+    },
+    {
+      "handle": "7B0",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "(Ký tªn, ®ãng dÊu)",
+      "new": "(Ký tên, đóng dấu)"
+    },
+    {
+      "handle": "7B1",
+      "type": "TEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "(Ký tªn, ®ãng dÊu)",
+      "new": "(Ký tên, đóng dấu)"
+    },
+    {
+      "handle": "7B2",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "-  huyÖn duy tiªn",
+      "new": "-  HUYỆN DUY TIÊN"
+    },
+    {
+      "handle": "7B3",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Theo tµi liÖu: B¶n ®å ®o ®¹c hiÖn tr¹ng n¨m ",
+      "new": "Theo tài liệu: Bản đồ đo đạc hiện trạng năm "
+    },
+    {
+      "handle": "7B4",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C¬ quan kiÓm tra, nghiÖm thu: Phßng TN & MT huyÖn Duy Tiªn",
+      "new": "Cơ quan kiểm tra, nghiệm thu: Phòng TN & MT huyện Duy Tiên"
+    },
+    {
+      "handle": "7B5",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C¬ quan ®o vÏ, ch∅nh lý: V¨n phßng §KQSD ®Êt së TN & MT",
+      "new": "Cơ quan đo vẽ, chỉnh lý: Văn phòng ĐKQSD đất sở TN & MT"
+    },
+    {
+      "handle": "7B6",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "X©y dùng trªn c¬ së quyÕt ®Þnh: sè          / Q§-UB (H)",
+      "new": "Xây dựng trên cơ sở quyết định: số          / QĐ-UB (H)"
+    },
+    {
+      "handle": "7B7",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "DiÖn tÝch giao th«ng : 19685",
+      "new": "Diện tích giao thông : 19685"
+    },
+    {
+      "handle": "7BC",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "Th«n nha x¸ - phô lôc 7 (286525-3-   )",
+      "new": "THÔN NHA XÁ - PHỤ LỤC 7 (286525-3-   )"
+    },
+    {
+      "handle": "7BD",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "Th«n nha x¸ - phô lôc 7 (286525-3-  )",
+      "new": "THÔN NHA XÁ - PHỤ LỤC 7 (286525-3-  )"
+    },
+    {
+      "handle": "7BE",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Biªn vÏ theo b¶n gèc : 286525-3-b",
+      "new": "Biên vẽ theo bản gốc : 286525-3-b"
+    },
+    {
+      "handle": "7C1",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "DiÖn tÝch thuû lîi : 6073",
+      "new": "Diện tích thuỷ lợi : 6073"
+    },
+    {
+      "handle": "7C2",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Sè TT",
+      "new": "Số TT"
+    },
+    {
+      "handle": "7C7",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "Thµnh 11 phô lôc",
+      "new": "THÀNH 11 PHỤ LỤC"
+    },
+    {
+      "handle": "7C8",
+      "type": "TEXT",
+      "style": "Style-VHarial",
+      "old": "Phô lôc sè 7",
+      "new": "PHỤ LỤC SỐ 7"
+    },
+    {
+      "handle": "7C9",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Tæng sè thöa: 295",
+      "new": "Tổng số thửa: 295"
+    },
+    {
+      "handle": "7CA",
+      "type": "MTEXT",
+      "style": "Style-vncour",
+      "old": "Tr.MÇm Non\\PTh«n Nha X¸\\P",
+      "new": "Tr.Mầm Non\\PThôn Nha Xá\\P"
+    },
+    {
+      "handle": "7CE",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "V¨n",
+      "new": "Văn"
+    },
+    {
+      "handle": "7CF",
+      "type": "TEXT",
+      "style": "Style-vncour",
+      "old": "Chî Méc Nam",
+      "new": "Chợ Mộc Nam"
+    },
+    {
+      "handle": "7D0",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Nhµ thê ",
+      "new": "Nhà thờ "
+    },
+    {
+      "handle": "7D2",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Th¾ng",
+      "new": "Thắng"
+    },
+    {
+      "handle": "7D7",
+      "type": "TEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "Ngâ ®i chung 64 m2",
+      "new": "Ngõ đi chung 64 m2"
+    },
+    {
+      "handle": "7D9",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Quúnh",
+      "new": "Quỳnh"
+    },
+    {
+      "handle": "7DA",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Thóy",
+      "new": "Thúy"
+    },
+    {
+      "handle": "7DF",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "H¶i",
+      "new": "Hải"
+    },
+    {
+      "handle": "1254",
+      "type": "MTEXT",
+      "style": "Style-Vnarial I 0.26180",
+      "old": "®­êng\\P",
+      "new": "đường\\P"
+    },
+    {
+      "handle": "1263",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C­êng",
+      "new": "Cường"
+    },
+    {
+      "handle": "1266",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "C­êng",
+      "new": "Cường"
+    },
+    {
+      "handle": "126B",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "B×nh",
+      "new": "Bình"
+    },
+    {
+      "handle": "1275",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "B»ng",
+      "new": "Bằng"
+    },
+    {
+      "handle": "127A",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "QuyÒn",
+      "new": "Quyền"
+    },
+    {
+      "handle": "127E",
+      "type": "TEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "Dòng",
+      "new": "Dũng"
+    },
+    {
+      "handle": "1284",
+      "type": "TEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "Lôa",
+      "new": "Lụa"
+    },
+    {
+      "handle": "128B",
+      "type": "TEXT",
+      "style": "Style-Vntime I 0.26180",
+      "old": "LuËn",
+      "new": "Luận"
+    },
+    {
+      "handle": "129F",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Quúnh",
+      "new": "Quỳnh"
+    },
+    {
+      "handle": "12B7",
+      "type": "TEXT",
+      "style": "Style-Vntime",
+      "old": "B¸ch",
+      "new": "Bách"
+    },
+    {
+      "handle": "12C7",
+      "type": "TEXT",
+      "style": "Style-Vntime",
+      "old": "B¸ch",
+      "new": "Bách"
+    },
+    {
+      "handle": "12C8",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Träng",
+      "new": "Trọng"
+    },
+    {
+      "handle": "12C9",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Nguyªn",
+      "new": "Nguyên"
+    },
+    {
+      "handle": "12CA",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Kh¸nh",
+      "new": "Khánh"
+    },
+    {
+      "handle": "12DE",
+      "type": "TEXT",
+      "style": "Style-Vnarial",
+      "old": "Hßa",
+      "new": "Hòa"
+    }
+  ],
+  "verification": "Every DXF group other than the listed text strings and six font names is unchanged.",
+  "record_counts": {
+    "SECTION": 6,
+    "ENDSEC": 6,
+    "CLASS": 11,
+    "TABLE": 9,
+    "VPORT": 1,
+    "ENDTAB": 9,
+    "LTYPE": 4,
+    "LAYER": 70,
+    "STYLE": 10,
+    "APPID": 6,
+    "DIMSTYLE": 2,
+    "BLOCK_RECORD": 16,
+    "BLOCK": 16,
+    "ENDBLK": 16,
+    "POINT": 385,
+    "LINE": 1072,
+    "LWPOLYLINE": 702,
+    "TEXT": 3435,
+    "MTEXT": 7,
+    "INSERT": 73,
+    "DICTIONARY": 23,
+    "MLEADERSTYLE": 1,
+    "MLINESTYLE": 1,
+    "TABLESTYLE": 1,
+    "ACDBDICTIONARYWDFLT": 1,
+    "ACDBPLACEHOLDER": 1,
+    "XRECORD": 24,
+    "SCALE": 33,
+    "LAYOUT": 2,
+    "MATERIAL": 3,
+    "VISUALSTYLE": 26,
+    "DICTIONARYVAR": 9,
+    "ACDBSECTIONVIEWSTYLE": 1,
+    "ACDBDETAILVIEWSTYLE": 1,
+    "EOF": 1
+  },
+  "validation": {
+    "source_unchanged": true,
+    "before_entities": 5652,
+    "after_dwg_reopen_entities": 5652,
+    "all_handles_preserved": true,
+    "boundary_geometry_unchanged": true,
+    "all_text_alignment_anchors_unchanged": true,
+    "derived_text_origins_recomputed_for_new_glyph_width": 23
+  },
+  "output_dwg": "D:\\Workspace\\Anhome\\DCPL 7 - Unicode.dwg"
+}
