@@ -52,14 +52,14 @@ Tệp thử và nhật ký nằm trong `D:\Workspace\CĐMĐ\tmp\wordcraft_mcp_se
 2. Sau khi thêm server lần đầu, nếu chat chưa có công cụ `wordcraft`, nạp lại kết nối MCP hoặc mở chat mới; nếu vẫn thiếu, khởi động lại Codex. Chưa kiểm chứng việc tự nạp nóng trong chat hiện tại.
 3. Gọi inspect_document để xác nhận Desktop đang kết nối và xem nội dung hiện tại trước khi tạo/mở tài liệu khác.
 4. Dùng list_commands lấy đúng tên lệnh và tham số, rồi execute/batch/type_text. Dùng select_text để sửa cục bộ.
-5. Đọc lại bằng get_text và inspect_document, xem render_page; lưu bằng save_document sang tên mới và mở lại để kiểm tra.
+5. Đọc lại bằng get_text và inspect_document, xem render_page; lưu bằng save_document vào chính file người dùng chỉ định và mở lại để kiểm tra. Người dùng đã yêu cầu sửa trực tiếp, không tự tạo thêm bản có hậu tố.
 
 Ví dụ yêu cầu: “Dùng WordCraft Desktop MCP, tạo tài liệu theo nội dung sau; lưu bản mới trong D:\Workspace\CĐMĐ, kiểm tra nội dung và bố cục trước khi giao.”
 
 ## Nguyên tắc và giới hạn
 
 - Không dùng chuột, bàn phím giả lập, tọa độ hoặc automation giao diện, kể cả MCP click/key, để soạn thảo. Chức năng thiếu MCP phải báo lại.
-- Không ghi đè file hiện có khi chưa được yêu cầu. Tài liệu hiện tại có thể đang có thay đổi chưa lưu: phải kiểm tra trước.
+- Người dùng đã yêu cầu sửa trực tiếp trên file chỉ định, không tự tạo thêm phiên bản DOCX/PDF có hậu tố. File chính hiện tại là `Ban_trinh_bay_bo_sung_Duy_Tan_29-10-2026_da_can_chinh.docx`. Kiểm tra thay đổi chưa lưu trước khi mở hoặc ghi file.
 - Sandbox của phiên hiện tại chặn socket loopback (os error 10013). Trình khách chẩn đoán chỉ kết nối được khi thực thi với quyền phù hợp bên ngoài sandbox; không sửa firewall hay cài đặt bảo mật.
 - Cấu hình server đã lưu toàn cục, nhưng công cụ native chưa xuất hiện trong danh sách công cụ của chat đang chạy. Các phép thử dùng MCP stdio thực tế qua CLI, gọi chính công cụ của WordCraft.
 - Tài liệu GitHub main có chức năng mới hơn bản 0.11.0 đang cài (ví dụ tools/list bản cài không có list_documents hoặc tham số doc). Phải dựa trên tools/list và list_commands thực tế, không suy đoán theo tài liệu mới.
